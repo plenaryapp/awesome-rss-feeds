@@ -6,7 +6,7 @@ A curated list of RSS feeds (with OPML files) used in Recommended Feeds and loca
 
 ## Motivation
 
-Using Plenary, we are trying to solve discovability of RSS feeds for first time users. Local News and recommended categories are some of the ways we are planning to handle it. You can learn more about it here - https://www.reddit.com/r/Plenary/comments/oc24r9/solving_discoverability_of_rss_feed_for_new_users/
+Using Plenary, we are trying to solve discovability of RSS feeds for first time users. Local News and recommended categories are some of the ways we are planning to handle it. [You can learn more about it here](https://www.reddit.com/r/Plenary/comments/oc24r9/solving_discoverability_of_rss_feed_for_new_users/)
 
 ## Directory
 
