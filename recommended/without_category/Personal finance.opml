@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="Afford Anything" title="Afford Anything" description="You Can Afford Anything ... Just Not Everything. What's It Gonna Be?" xmlUrl="https://affordanything.com/feed/" type="rss" />
+		<outline text="Blog – Student Loan Hero" title="Blog – Student Loan Hero" description="" xmlUrl="https://studentloanhero.com/blog/feed" type="rss" />
+		<outline text="Budgets Are Sexy" title="Budgets Are Sexy" description=""A personal finance blog that won't put you to sleep." - Benjamin Franklin" xmlUrl="https://feeds2.feedburner.com/budgetsaresexy" type="rss" />
+		<outline text="Financial Samurai" title="Financial Samurai" description="Slicing Through Money's Mysteries" xmlUrl="https://www.financialsamurai.com/feed/" type="rss" />
+		<outline text="Frugalwoods" title="Frugalwoods" description="Financial independence and simple living" xmlUrl="https://feeds.feedburner.com/Frugalwoods" type="rss" />
+		<outline text="Get Rich Slowly" title="Get Rich Slowly" description="personal finance that makes cents" xmlUrl="https://www.getrichslowly.org/feed/" type="rss" />
+		<outline text="Good Financial Cents®" title="Good Financial Cents®" description="Making Cents Of Investing and Financial Planning" xmlUrl="https://www.goodfinancialcents.com/feed/" type="rss" />
+		<outline text="I Will Teach You To Be Rich" title="I Will Teach You To Be Rich" description="by Ramit Sethi" xmlUrl="https://www.iwillteachyoutoberich.com/feed/" type="rss" />
+		<outline text="Learn To Trade The Market" title="Learn To Trade The Market" description="Learn Price Action Trading with Nial Fuller" xmlUrl="https://www.learntotradethemarket.com/feed" type="rss" />
+		<outline text="Making Sense Of Cents" title="Making Sense Of Cents" description="Learn how to make extra money, how to save money, how to start a blog, and more." xmlUrl="https://www.makingsenseofcents.com/feed" type="rss" />
+		<outline text="Millennial Money" title="Millennial Money" description="Next Level Personal Finance" xmlUrl="https://millennialmoney.com/feed/" type="rss" />
+		<outline text="MintLife Blog" title="MintLife Blog" description="Personal Finance News & Advice" xmlUrl="https://blog.mint.com/feed/" type="rss" />
+		<outline text="Money Crashers" title="Money Crashers" description="Personal Finance Guide to Turn the Tables on Money" xmlUrl="https://www.moneycrashers.com/feed/" type="rss" />
+		<outline text="Money Saving Mom®" title="Money Saving Mom®" description="Saving Families Money Since 2007" xmlUrl="https://moneysavingmom.com/feed/" type="rss" />
+		<outline text="Money Under 30" title="Money Under 30" description="Just another Word Press site" xmlUrl="https://www.moneyunder30.com/feed" type="rss" />
+		<outline text="MoneyNing" title="MoneyNing" description="Sharing insights since 2007 on carefully saving money, investing, frugal living, coupons, promo codes because the little things matter in achieving financial freedom!" xmlUrl="http://feeds.feedburner.com/MoneyNing" type="rss" />
+		<outline text="MyWifeQuitHerJob.com" title="MyWifeQuitHerJob.com" description="Starting An Online Store So Your Spouse Can Quit And Stay At Home With The Kids" xmlUrl="https://mywifequitherjob.com/feed/" type="rss" />
+		<outline text="Nerd's Eye View | Kitces.com" title="Nerd's Eye View | Kitces.com" description="Commentary from Michael Kitces on Financial Planning News & Strategies" xmlUrl="http://feeds.feedblitz.com/kitcesnerdseyeview&x=1" type="rss" />
+		<outline text="NerdWallet" title="NerdWallet" description="NerdWallet is a free tool to find you the best credit cards, cd rates, savings, checking accounts, scholarships, healthcare and airlines. Start here to maximize your rewards or minimize your interest rates." xmlUrl="https://www.nerdwallet.com/blog/feed/" type="rss" />
+		<outline text="Oblivious Investor" title="Oblivious Investor" description="Low-Maintenance Investing with Index Funds and ETFs" xmlUrl="https://obliviousinvestor.com/feed/" type="rss" />
+		<outline text="Personal Finance" title="Personal Finance" description="Learn about budgeting, saving, getting out of debt, credit, investing, and retirement planning. Join our community, read the PF Wiki, and get on top of your finances!" xmlUrl="https://reddit.com/r/personalfinance/.rss" type="rss" />
+		<outline text="SavingAdvice.com Blog" title="SavingAdvice.com Blog" description="Bridging the gap between saving money and investing" xmlUrl="https://www.savingadvice.com/feed/" type="rss" />
+		<outline text="Side Hustle Nation" title="Side Hustle Nation" description="Amplify your earning power" xmlUrl="https://www.sidehustlenation.com/feed" type="rss" />
+		<outline text="The College Investor" title="The College Investor" description="Student Loans, Investing, Building Wealth" xmlUrl="https://thecollegeinvestor.com/feed/" type="rss" />
+		<outline text="The Dough Roller" title="The Dough Roller" description="Money Management and Personal Finance | The Dough Roller" xmlUrl="https://www.doughroller.net/feed/" type="rss" />
+		<outline text="The Penny Hoarder" title="The Penny Hoarder" description="The Penny Hoarder is one of the largest personal finance websites in America, receiving millions of visitors each month looking to make and save extra money." xmlUrl="https://www.thepennyhoarder.com/feed/" type="rss" />
+		<outline text="Well Kept Wallet" title="Well Kept Wallet" description="" xmlUrl="https://wellkeptwallet.com/feed/" type="rss" />
+		<outline text="Wise Bread" title="Wise Bread" description="Living large on a small budget" xmlUrl="http://feeds.killeraces.com/wisebread" type="rss" />
+	</body>
+</opml>

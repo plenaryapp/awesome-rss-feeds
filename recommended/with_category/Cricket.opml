@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="Cricket" title="Cricket">
+			<outline text="BBC Sport - Cricket" title="BBC Sport - Cricket" description="BBC Sport - Cricket" xmlUrl="http://feeds.bbci.co.uk/sport/cricket/rss.xml" type="rss" />
+			<outline text="Can't Bowl Can't Throw Cricket Show" title="Can't Bowl Can't Throw Cricket Show" description="The second season of the Can't Bowl Can't Throw Cricket Show, in which we talk about cricket on a podcast. In a second season." xmlUrl="http://feeds.feedburner.com/cantbowlcantthrow" type="rss" />
+			<outline text="Cricbuzz" title="Cricbuzz" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSRQXk5yErn4e14vN76upOw" type="rss" />
+			<outline text="Cricket" title="Cricket" description="News, banter and occasional serious discussion on the great game." xmlUrl="https://www.reddit.com/r/Cricket/.rss" type="rss" />
+			<outline text="Cricket Unfiltered" title="Cricket Unfiltered" description="<p>If you love cricket then this podcast is for you. Get closer to the game than ever before with the longest running weekly Australian cricket podcast. The show has twice been a finalist in the Australian Podcast Awards and has episodes placed in the National Film &amp; Sound Archive. The podcast is hosted by Andrew Menczel, Paul Dennett and Jelisa Apps. The show features a wide variety of cricket journalists, current players and retired cricket greats. This is must listen for cricket fans.&nbsp;</p>" xmlUrl="https://rss.acast.com/cricket-unfiltered" type="rss" />
+			<outline text="Cricket news from ESPN Cricinfo.com" title="Cricket news from ESPN Cricinfo.com" description="Visit Cricinfo.com for up-to-the-minute cricket news, breaking cricket news, live cricket commentary, ball-by-ball commentary, cricket video, cricket audio and features." xmlUrl="http://www.espncricinfo.com/rss/content/story/feeds/0.xml" type="rss" />
+			<outline text="Cricket | The Guardian" title="Cricket | The Guardian" description="Latest news and features from theguardian.com, the world's leading liberal voice" xmlUrl="https://www.theguardian.com/sport/cricket/rss" type="rss" />
+			<outline text="Cricket – The Roar" title="Cricket – The Roar" description="Australia's Biggest Sporting Debate" xmlUrl="https://www.theroar.com.au/cricket/feed/" type="rss" />
+			<outline text="England & Wales Cricket Board" title="England & Wales Cricket Board" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=ecbcricket" type="rss" />
+			<outline text="NDTV Sports - Cricket" title="NDTV Sports - Cricket" description="NDTV.com provides the latest information from and in-depth coverage of India and the world. Find breaking news, India news, top stories, elections, politics, business, cricket, movies, lifestyle, health, live TV, videos, photos and more." xmlUrl="http://feeds.feedburner.com/ndtvsports-cricket" type="rss" />
+			<outline text="Pakistan Cricket" title="Pakistan Cricket" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiWrjBhlICf_L_RK5y6Vrxw" type="rss" />
+			<outline text="Sky Sports Cricket Podcast" title="Sky Sports Cricket Podcast" description="Sky's pundits analyse and debate the big stories emerging from international and domestic cricket. Join in the debate on Twitter @SkyCricket." xmlUrl="https://www.spreaker.com/show/3387348/episodes/feed" type="rss" />
+			<outline text="Sri Lanka Cricket" title="Sri Lanka Cricket" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=TheOfficialSLC" type="rss" />
+			<outline text="Stumped" title="Stumped" description="The weekly cricket show from BBC Sport in association with ABC and All India Radio." xmlUrl="https://podcasts.files.bbci.co.uk/p02gsrmh.rss" type="rss" />
+			<outline text="Switch Hit Podcast" title="Switch Hit Podcast" description="Lively debate and discussion about the game on and off the field with a focus on English cricket. Featuring former England batsman Mark Butcher alongside ESPNcricinfo's writers and reporters." xmlUrl="https://feeds.megaphone.fm/ESP9247246951" type="rss" />
+			<outline text="Tailenders" title="Tailenders" description="Greg James, Jimmy Anderson and Felix White with an alternative (and sometimes musical) look at cricket..." xmlUrl="https://podcasts.files.bbci.co.uk/p02pcb4w.rss" type="rss" />
+			<outline text="Test Match Special" title="Test Match Special" description="Insight and analysis from the Test Match Special team - including interviews with top players and special features." xmlUrl="https://podcasts.files.bbci.co.uk/p02nrsl2.rss" type="rss" />
+			<outline text="The Analyst Inside Cricket" title="The Analyst Inside Cricket" description="<p>Sharp analysis and opinion from the cricket world with Simon Hughes, The Analyst and the BBC's Simon Mann, featuring comment, analysis, interviews with international players and celebrity guests.</p>" xmlUrl="http://rss.acast.com/theanalystinsidecricket" type="rss" />
+			<outline text="The Grade Cricketer" title="The Grade Cricketer" description="Cricket is great if you're into things like wasted youth, failed relationships, sun damage and broken dreams. A weekly show featuring news, views and interviews with major names from across the cricket scene." xmlUrl="https://rss.whooshkaa.com/rss/podcast/id/1308" type="rss" />
+			<outline text="Wisden" title="Wisden" description="The independent voice of cricket" xmlUrl="https://www.wisden.com/feed" type="rss" />
+			<outline text="Wisden Cricket Weekly" title="Wisden Cricket Weekly" description="Join Mark Butcher, Yas Rana and the rest of the Wisden Cricket Weekly Podcast team for a weekly reflection on all the big stories from the game that week." xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:341034518/sounds.rss" type="rss" />
+			<outline text="cricket.com.au" title="cricket.com.au" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=cricketaustraliatv" type="rss" />
+		</outline>
+	</body>
+</opml>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="Interior design" title="Interior design">
+			<outline text="Apartment Therapy| Saving the world, one room at a time" title="Apartment Therapy| Saving the world, one room at a time" description="Saving the world, one room at a time" xmlUrl="https://www.apartmenttherapy.com/design.rss" type="rss" />
+			<outline text="Better Living Through Design" title="Better Living Through Design" description="Better Living Through Design ™ -- Your Design Guide to Home & Style." xmlUrl="http://www.betterlivingthroughdesign.com/feed/" type="rss" />
+			<outline text="Blog - decor8" title="Blog - decor8" description="<p>An expertly curated guide for stylish home and living. Holly Becker helps you to find your personal style, pull it all together, and create a space that you love.</p>" xmlUrl="https://www.decor8blog.com/blog?format=rss" type="rss" />
+			<outline text="Core77" title="Core77" description="Launched in 1995, Core77 serves a devoted global audience of design professionals, corporations, students, enthusiasts and fans." xmlUrl="http://feeds.feedburner.com/core77/blog" type="rss" />
+			<outline text="Design MilkInterior Design – Design Milk" title="Design MilkInterior Design – Design Milk" description="Dedicated to modern design" xmlUrl="https://design-milk.com/category/interior-design/feed/" type="rss" />
+			<outline text="Fubiz Media" title="Fubiz Media" description="The latest creative news from Fubiz about art, design and pop-culture." xmlUrl="http://feeds.feedburner.com/fubiz" type="rss" />
+			<outline text="Ideal Home" title="Ideal Home" description="" xmlUrl="https://www.idealhome.co.uk/feed" type="rss" />
+			<outline text="In My Own Style" title="In My Own Style" description="Top Budget DIY Home Decorating Blog + Creative Lifestyle Ideas + Tutorials." xmlUrl="https://inmyownstyle.com/feed" type="rss" />
+			<outline text="Inhabitat - Green Design, Innovation, Architecture, Green Building" title="Inhabitat - Green Design, Innovation, Architecture, Green Building" description="Green design & innovation for a better world" xmlUrl="https://inhabitat.com/design/feed/" type="rss" />
+			<outline text="Interior Design (Interior Architecture)" title="Interior Design (Interior Architecture)" description="Interior Design is the art and science of understanding people's behavior to create functional spaces within a building. It is a multi-faceted profession in which creative and technical solutions are applied within a structure to achieve a built interior environment. These solutions are functional, enhance the quality of life and culture of the occupants and are aesthetically attractive." xmlUrl="https://www.reddit.com/r/InteriorDesign/.rss" type="rss" />
+			<outline text="Interior Design Ideas" title="Interior Design Ideas" description="Inspirational Interior Design Ideas" xmlUrl="http://www.home-designing.com/feed" type="rss" />
+			<outline text="Interior Design Latest" title="Interior Design Latest" description="Latest content from interiordesign.net" xmlUrl="https://www.interiordesign.net/rss/" type="rss" />
+			<outline text="Interiors – Dezeen" title="Interiors – Dezeen" description="architecture and design magazine" xmlUrl="https://www.dezeen.com/interiors/feed/" type="rss" />
+			<outline text="Liz Marie Blog" title="Liz Marie Blog" description="" xmlUrl="https://www.lizmarieblog.com/feed/" type="rss" />
+			<outline text="The Design Files | Australia's most popular design blog.The Design Files | Australia's most popular design blog." title="The Design Files | Australia's most popular design blog.The Design Files | Australia's most popular design blog." description="Australia's most popular design blog." xmlUrl="https://thedesignfiles.net/feed/" type="rss" />
+			<outline text="The Inspired Room" title="The Inspired Room" description="Voted Readers' Favorite Top Decorating Blog Better Homes and Gardens, Decorating Ideas, How to Organize, How to Decorate, Interior Design Blog" xmlUrl="https://theinspiredroom.net/feed/" type="rss" />
+			<outline text="Thrifty Decor Chick" title="Thrifty Decor Chick" description="Thrifty decorating blog with easy DIY, decor, entertaining and organizing ideas. Make your home beautiful for less." xmlUrl="http://feeds.feedburner.com/blogspot/ZBcZ" type="rss" />
+			<outline text="Trendir" title="Trendir" description="The Latest Trends in Modern House Design and Decorating" xmlUrl="https://www.trendir.com/feed/" type="rss" />
+			<outline text="Yanko Design" title="Yanko Design" description="Modern Industrial Design News" xmlUrl="http://feeds.feedburner.com/yankodesign" type="rss" />
+			<outline text="Yatzer RSS Feed" title="Yatzer RSS Feed" description="" xmlUrl="https://www.yatzer.com/rss.xml" type="rss" />
+			<outline text="Young House Love" title="Young House Love" description="DIY Home Decorating Projects, Tutorials, & Shenanigans" xmlUrl="https://www.younghouselove.com/feed/" type="rss" />
+			<outline text="decoist" title="decoist" description="Obsessed with the cult of beauty" xmlUrl="https://www.decoist.com/feed/" type="rss" />
+			<outline text="design – designboom | architecture & design magazine" title="design – designboom | architecture & design magazine" description="designboom magazine | your first source for architecture, design & art news" xmlUrl="https://www.designboom.com/design/feed" type="rss" />
+			<outline text="sfgirlbybay" title="sfgirlbybay" description="bohemian modern style from a san francisco girl." xmlUrl="https://www.sfgirlbybay.com/feed/" type="rss" />
+		</outline>
+	</body>
+</opml>

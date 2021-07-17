@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+	</head>
+	<body>
+		<outline text="Mexico | The Guardian" title="Mexico | The Guardian" description="Latest news and features from theguardian.com, the world's leading liberal voice" xmlUrl="https://www.theguardian.com/world/mexico/rss" type="rss" />
+		<outline text="Excélsior - RSS" title="Excélsior - RSS" description="El portal de noticias líder en México con toda la información nacional y del mundo. Entérate en tiempo real de la vida pública, política, espectáculos, deportes, videos y más..." xmlUrl="https://www.excelsior.com.mx/rss.xml" type="rss" />
+		<outline text="Reforma" title="Reforma" description="Las �ltimas noticias publicadas m�s relevantes" xmlUrl="https://www.reforma.com/rss/portada.xml" type="rss" />
+		<outline text="Lo último en Vanguardia MX" title="Lo último en Vanguardia MX" description="Vanguardia" xmlUrl="https://vanguardia.com.mx/rss.xml" type="rss" />
+		<outline text="Portada, El Siglo de Torreón" title="Portada, El Siglo de Torreón" description="El Siglo de Torreón en Línea - Defensor de la Comunidad (Portada)" xmlUrl="https://www.elsiglodetorreon.com.mx/index.xml" type="rss" />
+		<outline text="El Financiero" title="El Financiero" description="El Financiero News Feed" xmlUrl="https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/?outputType=xml" type="rss" />
+		<outline text="ElNorte" title="ElNorte" description="Las �ltimas noticias publicadas m�s relevantes" xmlUrl="https://www.elnorte.com/rss/portada.xml" type="rss" />
+		<outline text="El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento" title="El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento" description="RSS con las últimas noticias" xmlUrl="https://www.informador.mx/rss/ultimas-noticias.xml" type="rss" />
+		<outline text="24 Horas" title="24 Horas" description="El Diario Sin Límites" xmlUrl="https://www.24-horas.mx/feed/" type="rss" />
+		<outline text="Tu Periódico Quequi" title="Tu Periódico Quequi" description="Las noticias más Importantes de Quintana Roo" xmlUrl="https://quequi.com.mx/feed/" type="rss" />
+		<outline text="DEBATE" title="DEBATE" description="Últimas Noticias de México y el Mundo" xmlUrl="https://www.debate.com.mx/rss/feed.xml" type="rss" />
+		<outline text="Mexico News Daily" title="Mexico News Daily" description="" xmlUrl="https://mexiconewsdaily.com/feed/" type="rss" />
+		<outline text="El Diario" title="El Diario" description="Noticias en tiempo real de Ciudad Juárez, México y el mundo" xmlUrl="https://diario.mx/jrz/media/sitemaps/rss.xml" type="rss" />
+		<outline text="8 Columnas" title="8 Columnas" description="La nueva era del periodismo" xmlUrl="https://8columnas.com.mx/feed/" type="rss" />
+		<outline text="" title="" description="" xmlUrl="https://www.eluniversal.com.mx/seccion/1671/rss.xml" type="rss" />
+	</body>
+</opml>

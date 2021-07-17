@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="/Film" title="/Film" description="Movie News and Reviews This feed is for non commercial use. Content Copyright Slashfilm.com." xmlUrl="https://feeds2.feedburner.com/slashfilm" type="rss" />
+		<outline text="Ain't It Cool News Feed" title="Ain't It Cool News Feed" description="The best in movie, TV, DVD and comic book news." xmlUrl="https://www.aintitcool.com/node/feed/" type="rss" />
+		<outline text="ComingSoon.net" title="ComingSoon.net" description="New Movies, Movie Trailers, TV, Streaming, Anime & Video Game News" xmlUrl="https://www.comingsoon.net/feed" type="rss" />
+		<outline text="Deadline" title="Deadline" description="Hollywood Entertainment Breaking News" xmlUrl="https://deadline.com/feed/" type="rss" />
+		<outline text="Film School Rejects" title="Film School Rejects" description="Movies, TV, and Culture" xmlUrl="https://filmschoolrejects.com/feed/" type="rss" />
+		<outline text="FirstShowing.net" title="FirstShowing.net" description="Connecting Hollywood with its Audience" xmlUrl="https://www.firstshowing.net/feed/" type="rss" />
+		<outline text="IndieWire" title="IndieWire" description="The Voice of Creative Independence" xmlUrl="https://www.indiewire.com/feed" type="rss" />
+		<outline text="Movie News and Discussion" title="Movie News and Discussion" description="News & Discussion about Major Motion Pictures" xmlUrl="https://reddit.com/r/movies/.rss" type="rss" />
+		<outline text="Movies" title="Movies" description="Comics, Movies, TV, Games" xmlUrl="https://www.bleedingcool.com/movies/feed/" type="rss" />
+		<outline text="The A.V. Club" title="The A.V. Club" description="Pop culture obsessives writing for the pop culture obsessed." xmlUrl="https://film.avclub.com/rss" type="rss" />
+		<outline text="Variety" title="Variety" description="" xmlUrl="https://variety.com/feed/" type="rss" />
+	</body>
+</opml>

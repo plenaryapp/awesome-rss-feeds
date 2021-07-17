@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="Funny" title="Funny">
+			<outline text="AwkwardFamilyPhotos.com" title="AwkwardFamilyPhotos.com" description="Spreading the Awkwardness" xmlUrl="https://awkwardfamilyphotos.com/feed/" type="rss" />
+			<outline text="Cracked: All Posts" title="Cracked: All Posts" description="Every post that goes up on Cracked.com" xmlUrl="http://feeds.feedburner.com/CrackedRSS" type="rss" />
+			<outline text="Explosm.net" title="Explosm.net" description="Flash Animations, Daily Comics and more!" xmlUrl="http://feeds.feedburner.com/Explosm" type="rss" />
+			<outline text="FAIL Blog" title="FAIL Blog" description="The internet has generated a huge amount of laughs from cats and FAILS. And we all out of cats." xmlUrl="http://feeds.feedburner.com/failblog" type="rss" />
+			<outline text="I Can Has Cheezburger?" title="I Can Has Cheezburger?" description="World's largest collection of cat memes and other animals" xmlUrl="http://feeds.feedburner.com/icanhascheezburger" type="rss" />
+			<outline text="PHD Comics" title="PHD Comics" description="Providing global up-to-the-minute procrastination!" xmlUrl="http://phdcomics.com/gradfeed.php" type="rss" />
+			<outline text="Penny Arcade" title="Penny Arcade" description="News Fucker 6000" xmlUrl="https://www.penny-arcade.com/feed" type="rss" />
+			<outline text="PostSecret" title="PostSecret" description="" xmlUrl="https://postsecret.com/feed/?alt=rss" type="rss" />
+			<outline text="Saturday Morning Breakfast Cereal" title="Saturday Morning Breakfast Cereal" description="Latest Saturday Morning Breakfast Cereal comics and news" xmlUrl="https://www.smbc-comics.com/comic/rss" type="rss" />
+			<outline text="The Bloggess" title="The Bloggess" description="Like Mother Teresa, only better." xmlUrl="https://thebloggess.com/feed/" type="rss" />
+			<outline text="The Daily WTF" title="The Daily WTF" description="Curious Perversions in Information Technology" xmlUrl="http://syndication.thedailywtf.com/TheDailyWtf" type="rss" />
+			<outline text="The Oatmeal - Comics by Matthew Inman" title="The Oatmeal - Comics by Matthew Inman" description="I make comics about science, cats, technology, and sometimes goats." xmlUrl="http://feeds.feedburner.com/oatmealfeed" type="rss" />
+			<outline text="The Onion" title="The Onion" description="America's Finest News Source." xmlUrl="https://www.theonion.com/rss" type="rss" />
+			<outline text="xkcd.com" title="xkcd.com" description="xkcd.com: A webcomic of romance and math humor." xmlUrl="https://xkcd.com/rss.xml" type="rss" />
+		</outline>
+	</body>
+</opml>

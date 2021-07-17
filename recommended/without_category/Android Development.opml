@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="Android - Buffer Resources" title="Android - Buffer Resources" description="In-depth ideas and guides to social media & online marketing strategy, published by the team at Buffer" xmlUrl="https://buffer.com/resources/android/rss/" type="rss" />
+		<outline text="Android Developers" title="Android Developers" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=androiddevelopers" type="rss" />
+		<outline text="Android Developers - Medium" title="Android Developers - Medium" description="The official Android Developers publication on Medium - Medium" xmlUrl="https://medium.com/feed/androiddevelopers" type="rss" />
+		<outline text="Android Developers Backstage" title="Android Developers Backstage" description="Android Backstage, a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google." xmlUrl="http://feeds.feedburner.com/blogspot/androiddevelopersbackstage" type="rss" />
+		<outline text="Android Developers Blog" title="Android Developers Blog" description="An Open Handset Alliance Project." xmlUrl="http://feeds.feedburner.com/blogspot/hsDu" type="rss" />
+		<outline text="Android Weekly Archive Feed" title="Android Weekly Archive Feed" description="" xmlUrl="https://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19" type="rss" />
+		<outline text="Android in Instagram Engineering on Medium" title="Android in Instagram Engineering on Medium" description="Latest stories tagged with Android in Instagram Engineering on Medium" xmlUrl="https://instagram-engineering.com/feed/tagged/android" type="rss" />
+		<outline text="Android in MindOrks on Medium" title="Android in MindOrks on Medium" description="Latest stories tagged with Android in MindOrks on Medium" xmlUrl="https://medium.com/feed/mindorks/tagged/android" type="rss" />
+		<outline text="Android in The Airbnb Tech Blog on Medium" title="Android in The Airbnb Tech Blog on Medium" description="Latest stories tagged with Android in The Airbnb Tech Blog on Medium" xmlUrl="https://medium.com/feed/airbnb-engineering/tagged/android" type="rss" />
+		<outline text="Dan Lew Codes" title="Dan Lew Codes" description="Thoughts on life, the universe and the mystery of it all; but actually mostly just code." xmlUrl="https://blog.danlew.net/rss/" type="rss" />
+		<outline text="Developing Android Apps" title="Developing Android Apps" description="News for Android developers with the who, what, where, when and how of the Android community. News / Articles / Talks / Tools / Open source!" xmlUrl="https://reddit.com/r/androiddev.rss" type="rss" />
+		<outline text="Fragmented - The Software Podcast" title="Fragmented - The Software Podcast" description="The Fragmented Podcast is a podcast for Software Developers hosted by Donn Felker and Kaushik Gopal. Our goal is to help you become a better Software Developer. We chat about topics such as Testing, Dependency Injection, Patterns and Practices, useful libraries, and much more. We will also be interviewing some of the top developers out there. Subscribe now and join us on the journey of being a Software Developer." xmlUrl="https://feeds.simplecast.com/LpAGSLnY" type="rss" />
+		<outline text="Handstand Sam" title="Handstand Sam" description="Sam Edwards - Handstands, Travel, Android & Web" xmlUrl="https://handstandsam.com/feed/" type="rss" />
+		<outline text="Jake Wharton" title="Jake Wharton" description="" xmlUrl="https://jakewharton.com/atom.xml" type="rss" />
+		<outline text="JetBrains News | JetBrains Blog" title="JetBrains News | JetBrains Blog" description="Developer Tools for Professionals and Teams" xmlUrl="https://blog.jetbrains.com/blog/feed" type="rss" />
+		<outline text="Joe Birch" title="Joe Birch" description="Speaker, Educator and GDE for Android, Google Assistant & Flutter" xmlUrl="https://joebirch.co/feed" type="rss" />
+		<outline text="Kotlin" title="Kotlin" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PLQ176FUIyIUa6SChjajjVc-LMzxWiz6dy" type="rss" />
+		<outline text="Kt. Academy - Medium" title="Kt. Academy - Medium" description="Blog with mission to simplify Kotlin learning - Medium" xmlUrl="https://blog.kotlin-academy.com/feed" type="rss" />
+		<outline text="OkKotlin" title="OkKotlin" description="A premier blog on Kotlin." xmlUrl="https://okkotlin.com/rss.xml" type="rss" />
+		<outline text="ProAndroidDev - Medium" title="ProAndroidDev - Medium" description="The latest posts from Android Professionals and Google Developer Experts. - Medium" xmlUrl="https://proandroiddev.com/feed" type="rss" />
+		<outline text="Public Object" title="Public Object" description="Jesse Wilson on programming." xmlUrl="https://publicobject.com/rss/" type="rss" />
+		<outline text="Saket Narayan" title="Saket Narayan" description="A wild developer appears. He works at <a href="https://square.com/">Square</a> on <a href="https://cash.app">Cash App</a> in Canada, and is a <a href="https://developers.google.com/community/experts/directory/profile/profile-saket_narayan">GDE</a>. Find him on <a href="https://twitter.com/saketme">Twitter</a>." xmlUrl="https://saket.me/feed/" type="rss" />
+		<outline text="Styling Android" title="Styling Android" description="A technical guide to improving the UI and UX of Android apps" xmlUrl="http://feeds.feedburner.com/StylingAndroid" type="rss" />
+		<outline text="Talking Kotlin" title="Talking Kotlin" description="A bimonthly podcast that covers the Kotlin programming language by JetBrains, as well as related technologies. Hosted by Hadi Hariri" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:280353173/sounds.rss" type="rss" />
+		<outline text="The Android Arsenal" title="The Android Arsenal" description="A categorized directory of libraries and tools for Android" xmlUrl="https://feeds.feedburner.com/Android_Arsenal" type="rss" />
+		<outline text="Zac Sweers" title="Zac Sweers" description="Life, travel, code, and the whitespace in between." xmlUrl="https://www.zacsweers.dev/rss/" type="rss" />
+		<outline text="Zarah Dominguez" title="Zarah Dominguez" description="An Android Love Affair" xmlUrl="https://zarah.dev/feed.xml" type="rss" />
+		<outline text="chRyNaN Codes" title="chRyNaN Codes" description="Software Development Blog" xmlUrl="https://chrynan.codes/rss/" type="rss" />
+		<outline text="droidcon NYC" title="droidcon NYC" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSLXy31j2Z0sdDeeAX5JpPw" type="rss" />
+		<outline text="droidcon SF" title="droidcon SF" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKubKoe1CBw_-n_GXetEQbg" type="rss" />
+		<outline text="goobar" title="goobar" description="dream / learn / create" xmlUrl="https://goobar.io/feed" type="rss" />
+		<outline text="zsmb.co" title="zsmb.co" description="Recent content on zsmb.co" xmlUrl="https://zsmb.co/index.xml" type="rss" />
+	</body>
+</opml>

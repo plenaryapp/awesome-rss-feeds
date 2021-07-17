@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="ALL SHOWS - Devchat.tv" title="ALL SHOWS - Devchat.tv" description="" xmlUrl="https://feeds.feedwrench.com/all-shows-devchattv.rss" type="rss" />
+		<outline text="Alberto De Bortoli" title="Alberto De Bortoli" description="Principal Software Engineer @ Just Eat Takeaway. Based in London, made in Italy." xmlUrl="https://albertodebortoli.com/rss/" type="rss" />
+		<outline text="Augmented Code" title="Augmented Code" description="Performant, sleek and elegant." xmlUrl="https://augmentedcode.io/feed/" type="rss" />
+		<outline text="Benoit Pasquier - Swift, Data and more" title="Benoit Pasquier - Swift, Data and more" description="Recent content on Benoit Pasquier - Swift, Data and more" xmlUrl="https://benoitpasquier.com/index.xml" type="rss" />
+		<outline text="Fabisevi.ch" title="Fabisevi.ch" description="iOS Developer [@Twitter](https://twitter.com/mergesort)" xmlUrl="https://www.fabisevi.ch/feed.xml" type="rss" />
+		<outline text="Mobile A11y" title="Mobile A11y" description="Recent content on Mobile A11y" xmlUrl="https://mobilea11y.com/index.xml" type="rss" />
+		<outline text="More Than Just Code podcast - iOS and Swift development, news and advice" title="More Than Just Code podcast - iOS and Swift development, news and advice" description="MTJC podcast is a show about mobile development. Each week Jaime Lopez, Mark Rubin (sometimes Greg Heo and Tammy Coron) and myself, Tim Mitra, will convene from across the continent to discuss iOS and Mac development. We discuss current issues to find out what developers are talking about, what their apps are about, what they are using to create their apps and what advice they have for other developers (or those looking to become one). We also have news, notes and tech tips for developers." xmlUrl="https://feeds.fireside.fm/mtjc/rss" type="rss" />
+		<outline text="News - Apple Developer" title="News - Apple Developer" description="" xmlUrl="https://developer.apple.com/news/rss/news.rss" type="rss" />
+		<outline text="Ole Begemann" title="Ole Begemann" description="" xmlUrl="https://oleb.net/blog/atom.xml" type="rss" />
+		<outline text="Pavel Zak’s dev blog" title="Pavel Zak’s dev blog" description="Yet another dev blog" xmlUrl="https://nerdyak.tech/feed.xml" type="rss" />
+		<outline text="Swift by Sundell" title="Swift by Sundell" description="Weekly Swift articles, podcasts and tips by John Sundell" xmlUrl="https://www.swiftbysundell.com/feed.rss" type="rss" />
+		<outline text="Swift by Sundell" title="Swift by Sundell" description="Weekly Swift articles, podcasts and tips by John Sundell" xmlUrl="https://swiftbysundell.com/feed.rss" type="rss" />
+		<outline text="SwiftRocks" title="SwiftRocks" description="SwiftRocks is a blog about how Swift works and general iOS tips and tricks." xmlUrl="https://swiftrocks.com/rss.xml" type="rss" />
+		<outline text="The Atomic Birdhouse" title="The Atomic Birdhouse" description="Recent content on The Atomic Birdhouse" xmlUrl="https://atomicbird.com/index.xml" type="rss" />
+		<outline text="Under the Radar" title="Under the Radar" description="From development and design to marketing and support, Under the Radar is all about independent app development. It's never longer than 30 minutes. Hosted by Marco Arment and David Smith." xmlUrl="https://www.relay.fm/radar/feed" type="rss" />
+		<outline text="Use Your Loaf - iOS Development News & Tips" title="Use Your Loaf - iOS Development News & Tips" description="Recent content on Use Your Loaf - iOS Development News & Tips" xmlUrl="https://useyourloaf.com/blog/rss.xml" type="rss" />
+		<outline text="inessential.com" title="inessential.com" description="Brent Simmons’s weblog." xmlUrl="https://inessential.com/xml/rss.xml" type="rss" />
+		<outline text="tyler.io" title="tyler.io" description="" xmlUrl="https://tyler.io/feed/" type="rss" />
+	</body>
+</opml>

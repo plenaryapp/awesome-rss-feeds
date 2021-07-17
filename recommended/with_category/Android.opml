@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="Android" title="Android">
+			<outline text="All About Android (Audio)" title="All About Android (Audio)" description="All About Android delivers everything you want to know about Android each week--the biggest news, freshest hardware, best apps and geekiest how-tos--with Android enthusiasts Jason Howell, Florence Ion, Ron Richards, and a variety of special guests along the way. Records live every Tuesday at 8:00pm Eastern / 5:00pm Pacific / 00:00 (Wed) UTC." xmlUrl="https://feeds.twit.tv/aaa.xml" type="rss" />
+			<outline text="Android" title="Android" description="Android" xmlUrl="https://blog.google/products/android/rss" type="rss" />
+			<outline text="Android" title="Android" description="Android news, reviews, tips, and discussions about rooting, tutorials, and apps. Generic discussion about phones/tablets is allowed, but technical-support, upgrade related questions or buy/sell posts, app recommendations and carrier-related issues should be asked in their respective subreddits!" xmlUrl="https://www.reddit.com/r/android/.rss" type="rss" />
+			<outline text="Android Authority" title="Android Authority" description="Android News, Reviews, How To" xmlUrl="https://www.androidauthority.com/feed" type="rss" />
+			<outline text="Android Authority" title="Android Authority" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority" type="rss" />
+			<outline text="Android Authority Podcast" title="Android Authority Podcast" description="The Android Authority Podcast – discussing topics in Android every week.
+
+The Android Authority Podcast brings you all the top stories and features based on your favorite mobile operating system: Android. We help make Android more accessible to all, and dive deeper into the details when we can, there's something in here for everyone.
+
+Check out androidauthority.com for all the best news and reviews for your favorite phones and tablets, then join our community forums to join in on the discussion. Don't forget to hit our YouTube channel for even more." xmlUrl="https://androidauthority.libsyn.com/rss" type="rss" />
+			<outline text="Android Central - Android Forums, News, Reviews, Help and Android Wallpapers" title="Android Central - Android Forums, News, Reviews, Help and Android Wallpapers" description="" xmlUrl="http://feeds.androidcentral.com/androidcentral" type="rss" />
+			<outline text="Android Central Podcast" title="Android Central Podcast" description="The Android and Google Podcast for Everyone. Hosted by Daniel Bader." xmlUrl="http://feeds.feedburner.com/AndroidCentralPodcast" type="rss" />
+			<outline text="Android Community" title="Android Community" description="Android News, Reviews, and Apps" xmlUrl="https://androidcommunity.com/feed/" type="rss" />
+			<outline text="Android Police – Android news, reviews, apps, games, phones, tablets" title="Android Police – Android news, reviews, apps, games, phones, tablets" description="Looking after everything Android" xmlUrl="http://feeds.feedburner.com/AndroidPolice" type="rss" />
+			<outline text="AndroidGuys" title="AndroidGuys" description="Android news and opinion" xmlUrl="https://www.androidguys.com/feed" type="rss" />
+			<outline text="Cult of Android" title="Cult of Android" description="Breaking news for Android fans" xmlUrl="https://www.cultofandroid.com/feed" type="rss" />
+			<outline text="Cyanogen Mods" title="Cyanogen Mods" description="Mod APK | GCam | LineageOS" xmlUrl="https://www.cyanogenmods.org/feed" type="rss" />
+			<outline text="Droid Life" title="Droid Life" description="Opinionated Android news." xmlUrl="https://www.droid-life.com/feed" type="rss" />
+			<outline text="GSMArena.com - Latest articles" title="GSMArena.com - Latest articles" description="GSMArena.com is the ultimate resource for GSM handset information. This feed contains the latest articles (news and reviews) in chronological order." xmlUrl="https://www.gsmarena.com/rss-news-reviews.php3" type="rss" />
+			<outline text="Phandroid" title="Phandroid" description="Android Phone News, Rumors, Reviews, Apps, Forums & More!" xmlUrl="http://feeds2.feedburner.com/AndroidPhoneFans" type="rss" />
+			<outline text="TalkAndroid" title="TalkAndroid" description="The latest in android news, rumours, and updates, including device news and apps!" xmlUrl="http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums" type="rss" />
+			<outline text="xda-developers" title="xda-developers" description="Android and Windows Phone Development Community" xmlUrl="https://data.xda-developers.com/portal-feed" type="rss" />
+		</outline>
+	</body>
+</opml>

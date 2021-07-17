@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="News" title="News">
+			<outline text="BBC News - World" title="BBC News - World" description="BBC News - World" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" type="rss" />
+			<outline text="CNN.com - RSS Channel - World" title="CNN.com - RSS Channel - World" description="CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more." xmlUrl="http://rss.cnn.com/rss/edition_world.rss" type="rss" />
+			<outline text="International: Top News And Analysis" title="International: Top News And Analysis" description="CNBC International is the world leader for news on business, technology, China, trade, oil prices, the Middle East and markets." xmlUrl="https://www.cnbc.com/id/100727362/device/rss/rss.html" type="rss" />
+			<outline text="NDTV News - World-news" title="NDTV News - World-news" description="NDTV.com provides the latest information from and in-depth coverage of India and the world. Find breaking news, India news, top stories, elections, politics, business, cricket, movies, lifestyle, health, live TV, videos, photos and more." xmlUrl="http://feeds.feedburner.com/ndtvnews-world-news" type="rss" />
+			<outline text="NYT > World News" title="NYT > World News" description="" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" type="rss" />
+			<outline text="Top stories - Google News" title="Top stories - Google News" description="Google News" xmlUrl="https://news.google.com/rss" type="rss" />
+			<outline text="World" title="World" description="The Washington Post World section provides information and analysis of breaking world news stories. In addition to our world news and video, Post World News offers discussions and blogs on major international news and economic issues." xmlUrl="http://feeds.washingtonpost.com/rss/world" type="rss" />
+			<outline text="World News" title="World News" description="A place for major news from around the world, excluding US-internal news." xmlUrl="https://www.reddit.com/r/worldnews/.rss" type="rss" />
+			<outline text="World News Headlines, Latest International News, World Breaking News - Times of India" title="World News Headlines, Latest International News, World Breaking News - Times of India" description="World News: TOI brings the latest world news headlines, Current International breaking news world wide. In depth analysis and top news headlines world wide." xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/296589292.cms" type="rss" />
+			<outline text="World news | The Guardian" title="World news | The Guardian" description="Latest World news news, comment and analysis from the Guardian, the world's leading liberal voice" xmlUrl="https://www.theguardian.com/world/rss" type="rss" />
+			<outline text="Yahoo News - Latest News & Headlines" title="Yahoo News - Latest News & Headlines" description="The latest news and headlines from Yahoo! News. Get breaking news stories and in-depth coverage with videos and photos." xmlUrl="https://www.yahoo.com/news/rss" type="rss" />
+		</outline>
+	</body>
+</opml>

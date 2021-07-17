@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+	</head>
+	<body>
+		<outline text="News Agency UNIAN" title="News Agency UNIAN" description="UNIAN" xmlUrl="https://rss.unian.net/site/news_eng.rss" type="rss" />
+		<outline text="ТЕЛЕГРАФ - последние новости Украины и мира" title="ТЕЛЕГРАФ - последние новости Украины и мира" description="ТЕЛЕГРАФ - последние новости Украины и мира за последний час, свежие и популярные мировые новости технологий, бизнеса, культуры и спорта за неделю" xmlUrl="https://telegraf.com.ua/yandex-feed/" type="rss" />
+		<outline text="Последние новости на сайте korrespondent.net" title="Последние новости на сайте korrespondent.net" description="Корреспондент - информационно-новостной портал №1 в Украине. Объективно о событиях по всему миру." xmlUrl="http://k.img.com.ua/rss/ru/all_news2.0.xml" type="rss" />
+		<outline text="Цензор.НЕТ - Новости" title="Цензор.НЕТ - Новости" description="Самые свежие новости Украины и мира" xmlUrl="https://censor.net.ua/includes/news_ru.xml" type="rss" />
+		<outline text="Новини на tsn.ua" title="Новини на tsn.ua" description="TSN.UA RSS feed" xmlUrl="https://tsn.ua/rss/full.rss" type="rss" />
+		<outline text="Українська правда" title="Українська правда" description="" xmlUrl="https://www.pravda.com.ua/rss/" type="rss" />
+		<outline text="Гордон - Самые популярные материалы" title="Гордон - Самые популярные материалы" description="ГОРДОН" xmlUrl="https://gordonua.com/xml/rss_category/top.html" type="rss" />
+		<outline text="НВ" title="НВ" description="Главные новости Украины и мира, эксклюзивные комментарии, аналитика" xmlUrl="https://nv.ua/rss/all.xml" type="rss" />
+		<outline text="Информационное агентство УНИАН" title="Информационное агентство УНИАН" description="Информационное агентство УНИАН :: Новости, Политика, Бизнес, Фотосервис, Регионы" xmlUrl="https://rss.unian.net/site/news_rus.rss" type="rss" />
+		<outline text="Еспресо - український погляд на світ!" title="Еспресо - український погляд на світ!" description="Новини України та світу" xmlUrl="https://espreso.tv/rss" type="rss" />
+		<outline text="Gazeta.ua" title="Gazeta.ua" description="Всеукраїнська он-лайн газета. Оперативні новини з України і світу: події, політика, спорт, культура" xmlUrl="https://gazeta.ua/rss" type="rss" />
+		<outline text="Вести.ua" title="Вести.ua" description="Вести Украина – это новостной медиа ресурс. Мы рассказываем обо всех событиях одними из первых и всегда честно." xmlUrl="https://vesti.ua/feeds/partners" type="rss" />
+	</body>
+</opml>

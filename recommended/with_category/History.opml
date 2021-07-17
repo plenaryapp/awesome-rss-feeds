@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="History" title="History">
+			<outline text="30 For 30 Podcasts" title="30 For 30 Podcasts" description="Original audio documentaries from the makers of the acclaimed 30 for 30 film series, featuring stories from the world of sports and beyond. 30 for 30 offers captivating storytelling for sports fans and general interest listeners alike, going beyond the field to explore how sports, competition, athleticism and adventure affect our lives and our world. Sports stories like you've never heard before." xmlUrl="https://feeds.megaphone.fm/ESP5765452710" type="rss" />
+			<outline text="Blog Feed" title="Blog Feed" description="" xmlUrl="https://americanhistory.si.edu/blog/feed" type="rss" />
+			<outline text="Dan Carlin's Hardcore History" title="Dan Carlin's Hardcore History" description="In "Hardcore History" journalist and broadcaster Dan Carlin takes his "Martian", unorthodox way of thinking and applies it to the past. Was Alexander the Great as bad a person as Adolf Hitler? What would Apaches with modern weapons be like? Will our modern civilization ever fall like civilizations from past eras? This isn't academic history (and Carlin isn't a historian) but the podcast's unique blend of high drama, masterful narration and Twilight Zone-style twists has entertained millions of listeners." xmlUrl="https://feeds.feedburner.com/dancarlin/history?format=xml" type="rss" />
+			<outline text="History in 28-minutes" title="History in 28-minutes" description="We create a variety of exclusive modern international and American history content! We create free history audio podcasts as part of History in 28-minutes, a magazine called History is Now, and books as part of Required History. Our works explain some of history's most important events concisely and quickly." xmlUrl="https://www.historyisnowmagazine.com/blog?format=RSS" type="rss" />
+			<outline text="HistoryNet" title="HistoryNet" description="HistoryNet.com contains daily features, photo galleries and over 5,000 articles originally published in our various magazines." xmlUrl="http://www.historynet.com/feed" type="rss" />
+			<outline text="Lore" title="Lore" description="Lore is a bi-weekly podcast (as well as a TV show and book series) about dark historical tales. Each episode explores the mysterious creatures, tragic events, and unusual places that fill the pages of history. Because sometimes the truth is more frightening than fiction." xmlUrl="https://feeds.megaphone.fm/lore" type="rss" />
+			<outline text="Revisionist History" title="Revisionist History" description="Revisionist History is Malcolm Gladwell's journey through the overlooked and the misunderstood. Every episode re-examines something from the past—an event, a person, an idea, even a song—and asks whether we got it right the first time. From Pushkin Industries. Because sometimes the past deserves a second chance. iHeartMedia is the exclusive podcast partner of Pushkin Industries." xmlUrl="https://feeds.megaphone.fm/revisionisthistory" type="rss" />
+			<outline text="The History Reader" title="The History Reader" description="A History Blog from St. Martin’s Press" xmlUrl="https://www.thehistoryreader.com/feed/" type="rss" />
+			<outline text="Throughline" title="Throughline" description="The past is never past. Every headline has a history. Join us every week as we go back in time to understand the present. These are stories you can feel and sounds you can see from the moments that shaped our world." xmlUrl="https://feeds.npr.org/510333/podcast.xml" type="rss" />
+			<outline text="You Must Remember This" title="You Must Remember This" description="You Must Remember This is a storytelling podcast exploring the secret and/or forgotten histories of Hollywood’s first century. It’s the brainchild and passion project of Karina Longworth (founder of Cinematical.com, former film critic for LA Weekly), who writes, narrates, records and edits each episode. It is a heavily-researched work of creative nonfiction: navigating through conflicting reports, mythology, and institutionalized spin, Karina tries to sort out what really happened behind the films, stars and scandals of the 20th century." xmlUrl="https://feeds.megaphone.fm/YMRT7068253588" type="rss" />
+			<outline text="the memory palace" title="the memory palace" description="<p>the memory palace</p>" xmlUrl="http://feeds.thememorypalace.us/thememorypalace" type="rss" />
+		</outline>
+	</body>
+</opml>

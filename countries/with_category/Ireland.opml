@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+	</head>
+	<body>
+		<outline text="Ireland" title="Ireland">
+			<outline text="TheJournal.ie" title="TheJournal.ie" description="Ireland's Internet Newspaper" xmlUrl="https://www.thejournal.ie/feed/" type="rss" />
+			<outline text="All: BreakingNews.ie" title="All: BreakingNews.ie" description="Ireland's premier breaking news website providing up to the minute news and sports reports. With e-mail news releases following breaking stories throughout the day." xmlUrl="https://feeds.breakingnews.ie/bntopstories" type="rss" />
+			<outline text="The42" title="The42" description="Ireland's Internet Newspaper" xmlUrl="https://www.the42.ie/feed/" type="rss" />
+			<outline text="IrishExaminer.com" title="IrishExaminer.com" description="Ireland's premier breaking news website providing up to the minute news and sports reports. With e-mail news releases following breaking stories throughout the day." xmlUrl="https://feeds.feedburner.com/ietopstories" type="rss" />
+			<outline text="IrishCentral.com - Top Stories" title="IrishCentral.com - Top Stories" description="Whether you are looking for Irish news, Irish entertainment, Irish sport, Irish culture or Irish celebrities - IrishCentral.com is the best daily source for everything Irish." xmlUrl="https://feeds.feedburner.com/IrishCentral" type="rss" />
+			<outline text="Irish Mirror - Home" title="Irish Mirror - Home" description="Rss feed from Irish Mirror" xmlUrl="https://www.irishmirror.ie/?service=rss" type="rss" />
+		</outline>
+	</body>
+</opml>

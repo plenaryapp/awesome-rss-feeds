@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+	</head>
+	<body>
+		<outline text="Poland" title="Poland">
+			<outline text="Najnowsze" title="Najnowsze" description="Nowoczesny portal ludzi myślących założony przez Jacka i Michała Karnowskich. Porządkujemy rzeczywistość, dociekamy prawdy, prowadzimy poważną debatę o Polsce." xmlUrl="http://feeds.feedburner.com/wPolitycepl" type="rss" />
+			<outline text="Newsweek Polska" title="Newsweek Polska" description="Wiadomości newsweek.pl" xmlUrl="https://www.newsweek.pl/rss.xml" type="rss" />
+			<outline text="Dziennik.pl Dziennik - dziennik.pl" title="Dziennik.pl Dziennik - dziennik.pl" description="" xmlUrl="http://rss.dziennik.pl/Dziennik-PL/" type="rss" />
+			<outline text="www.wirtualnemedia.pl" title="www.wirtualnemedia.pl" description="Newsy ze wszystkich działów" xmlUrl="https://www.wirtualnemedia.pl/rss/wirtualnemedia_rss.xml" type="rss" />
+			<outline text="GazetaPrawna.pl - biznes, podatki, prawo, finanse, wiadomości, praca" title="GazetaPrawna.pl - biznes, podatki, prawo, finanse, wiadomości, praca" description="" xmlUrl="http://rss.gazetaprawna.pl/GazetaPrawna" type="rss" />
+			<outline text="https://www.rp.pl" title="https://www.rp.pl" description="" xmlUrl="https://www.rp.pl/rss/1019" type="rss" />
+			<outline text="Polska Agencja Prasowa SA" title="Polska Agencja Prasowa SA" description="" xmlUrl="https://www.pap.pl/rss.xml" type="rss" />
+			<outline text="RMF24.pl" title="RMF24.pl" description="Radio numer 1 w Polsce! Największa i najpopularniejsza stacja muzyczno-informacyjna. Zawsze najlepsza muzyka i najświeższe fakty. Posłuchaj nas online." xmlUrl="https://www.rmf24.pl/feed" type="rss" />
+		</outline>
+	</body>
+</opml>

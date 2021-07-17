@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="Gaming" title="Gaming">
+			<outline text="Escapist Magazine" title="Escapist Magazine" description="Everything fun" xmlUrl="https://www.escapistmagazine.com/v2/feed/" type="rss" />
+			<outline text="Eurogamer.net" title="Eurogamer.net" description="Bad puns and video games since 1999." xmlUrl="https://www.eurogamer.net/?format=rss" type="rss" />
+			<outline text="Gamasutra News" title="Gamasutra News" description="Gamasutra News" xmlUrl="http://feeds.feedburner.com/GamasutraNews" type="rss" />
+			<outline text="GameSpot - All Content" title="GameSpot - All Content" description="GameSpot's Everything Feed! All the latest from GameSpot" xmlUrl="https://www.gamespot.com/feeds/mashup/" type="rss" />
+			<outline text="IGN All" title="IGN All" description="The latest IGN news, reviews and videos about video games, movies, TV, tech and comics" xmlUrl="http://feeds.ign.com/ign/all" type="rss" />
+			<outline text="Indie Games Plus" title="Indie Games Plus" description="Creative, Personal, Passionate Digital Experiences" xmlUrl="https://indiegamesplus.com/feed" type="rss" />
+			<outline text="Kotaku" title="Kotaku" description="Gaming Reviews, News, Tips and More." xmlUrl="https://kotaku.com/rss" type="rss" />
+			<outline text="Makeup and Beauty Blog | Makeup Reviews, Swatches and How-To Makeup" title="Makeup and Beauty Blog | Makeup Reviews, Swatches and How-To Makeup" description="A beauty blog blooming with fresh makeup reviews, swatches and beauty tips from your friendly neighborhood beauty addict" xmlUrl="https://www.makeupandbeautyblog.com/feed/" type="rss" />
+			<outline text="PlayStation.Blog" title="PlayStation.Blog" description="Official PlayStation Blog for news and video updates on PlayStation, PS5, PS4, PS VR, PlayStation Plus and more." xmlUrl="http://feeds.feedburner.com/psblog" type="rss" />
+			<outline text="Polygon -  All" title="Polygon -  All" description="" xmlUrl="https://www.polygon.com/rss/index.xml" type="rss" />
+			<outline text="Rock, Paper, Shotgun" title="Rock, Paper, Shotgun" description="This is a feed of all the latest articles from Rock Paper Shotgun." xmlUrl="http://feeds.feedburner.com/RockPaperShotgun" type="rss" />
+			<outline text="Steam RSS News Feed" title="Steam RSS News Feed" description="All Steam news, all the time!" xmlUrl="https://store.steampowered.com/feeds/news.xml" type="rss" />
+			<outline text="The Ancient Gaming Noob" title="The Ancient Gaming Noob" description="Veni, Vidi, Scripsi" xmlUrl="http://feeds.feedburner.com/TheAncientGamingNoob" type="rss" />
+			<outline text="TouchArcade - iPhone, iPad, Android Games Forum" title="TouchArcade - iPhone, iPad, Android Games Forum" description="iPhone and iPad Games and News" xmlUrl="https://toucharcade.com/community/forums/-/index.rss" type="rss" />
+			<outline text="Xbox's Major Nelson" title="Xbox's Major Nelson" description="Xbox news & facts direct from the source" xmlUrl="https://majornelson.com/feed/" type="rss" />
+			<outline text="r/gaming" title="r/gaming" description="A subreddit for (almost) anything related to games - video games, board games, card games, etc. (but not sports)." xmlUrl="https://www.reddit.com/r/gaming.rss" type="rss" />
+		</outline>
+	</body>
+</opml>

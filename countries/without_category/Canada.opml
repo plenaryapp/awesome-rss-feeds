@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+	</head>
+	<body>
+		<outline text="CBC | Top Stories News" title="CBC | Top Stories News" description="FOR PERSONAL USE ONLY" xmlUrl="https://www.cbc.ca/cmlink/rss-topstories" type="rss" />
+		<outline text="CTVNews.ca - Top Stories - Public RSS" title="CTVNews.ca - Top Stories - Public RSS" description="Latest news from CTVNews.ca" xmlUrl="https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009" type="rss" />
+		<outline text="" title="" description="" xmlUrl="https://globalnews.ca/feed/" type="rss" />
+		<outline text="Financial Post" title="Financial Post" description="Canada Business News | Financial Updates & Information" xmlUrl="https://business.financialpost.com/feed/" type="rss" />
+		<outline text="National Post" title="National Post" description="Canadian News, World News and Breaking Headlines" xmlUrl="https://nationalpost.com/feed/" type="rss" />
+		<outline text="Ottawa Citizen" title="Ottawa Citizen" description="Ottawa Latest News, Breaking Headlines & Sports" xmlUrl="https://ottawacitizen.com/feed/" type="rss" />
+		<outline text="The Province" title="The Province" description="Vancouver, BC News, Sports & Breaking Headlines" xmlUrl="https://theprovince.com/feed/" type="rss" />
+		<outline text="LaPresse.ca - Actualités" title="LaPresse.ca - Actualités" description="" xmlUrl="https://www.lapresse.ca/actualites/rss" type="rss" />
+		<outline text="Toronto Star" title="Toronto Star" description="TOPSTORIES" xmlUrl="https://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.topstories.rss" type="rss" />
+		<outline text="Toronto Sun - RSS Feed" title="Toronto Sun - RSS Feed" description="" xmlUrl="https://torontosun.com/category/news/feed" type="rss" />
+	</body>
+</opml>

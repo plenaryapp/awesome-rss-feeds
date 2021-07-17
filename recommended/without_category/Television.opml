@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="TV" title="TV" description="Comics, Movies, TV, Games" xmlUrl="https://www.bleedingcool.com/tv/feed/" type="rss" />
+		<outline text="TV Fanatic" title="TV Fanatic" description="" xmlUrl="https://www.tvfanatic.com/rss.xml" type="rss" />
+		<outline text="TVLine" title="TVLine" description="TV News, Previews, Spoilers, Casting Scoop, Interviews" xmlUrl="https://tvline.com/feed/" type="rss" />
+		<outline text="Television News and Discussion" title="Television News and Discussion" description="‎" xmlUrl="https://reddit.com/r/television/.rss" type="rss" />
+		<outline text="The A.V. Club" title="The A.V. Club" description="Pop culture obsessives writing for the pop culture obsessed." xmlUrl="https://tv.avclub.com/rss" type="rss" />
+		<outline text="the TV addict" title="the TV addict" description="TV News, Previews, Spoilers and Reviews" xmlUrl="http://feeds.feedburner.com/thetvaddict/AXob" type="rss" />
+	</body>
+</opml>

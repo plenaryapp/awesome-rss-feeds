@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+	</head>
+	<body>
+		<outline text="Hong Kong SAR China" title="Hong Kong SAR China">
+			<outline text="Hong Kong Free Press HKFP" title="Hong Kong Free Press HKFP" description="Hong Kong news - Independent &, non-profit" xmlUrl="https://www.hongkongfp.com/feed/" type="rss" />
+			<outline text="The Standard - Latest News" title="The Standard - Latest News" description="Latest headlines from The Standard" xmlUrl="https://www.thestandard.com.hk/newsfeed/latest/news.xml" type="rss" />
+			<outline text="頭條日報 Headline Daily - 頭條網" title="頭條日報 Headline Daily - 頭條網" description="頭條日報 Headline Daily - 頭條網" xmlUrl="https://hd.stheadline.com/rss/news/daily/" type="rss" />
+			<outline text="香港新聞RSS - 香港經濟日報 hket.com" title="香港新聞RSS - 香港經濟日報 hket.com" description="訂閱新聞RSS，獲取最新香港新聞, 時事 - RSS - 香港經濟日報 hket.com" xmlUrl="https://www.hket.com/rss/hongkong" type="rss" />
+			<outline text="hongkongnews.net latest rss headlines" title="hongkongnews.net latest rss headlines" description="Provides the latest rss feeds for hongkongnews.net. For more headlines on Breaking, National, Business, Finance, Sports and World News, visit our home page" xmlUrl="http://feeds.hongkongnews.net/rss/b82693edf38ebff8" type="rss" />
+		</outline>
+	</body>
+</opml>

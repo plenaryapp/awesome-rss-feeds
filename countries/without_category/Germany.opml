@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+	</head>
+	<body>
+		<outline text="ZEIT ONLINE | Nachrichten, Hintergründe und Debatten" title="ZEIT ONLINE | Nachrichten, Hintergründe und Debatten" description="Aktuelle Nachrichten, Kommentare, Analysen und Hintergrundberichte aus Politik, Wirtschaft, Gesellschaft, Wissen, Kultur und Sport lesen Sie auf ZEIT ONLINE. Aktuelle Nachrichten, Kommentare, Analysen und Hintergrundberichte aus Politik, Wirtschaft, Gesellschaft, Wissen, Kultur und Sport lesen Sie auf ZEIT.de. Aktuelle Nachrichten, Kommentare, Analysen und Hintergrundberichte aus Politik, Wirtschaft, Gesellschaft, Wissen, Kultur und Sport lesen Sie bei der ZEIT. Aktuelle Nachrichten, Kommentare, Analysen und Hintergrundberichte aus Politik, Wirtschaft, Gesellschaft, Wissen, Kultur und Sport – die ZEIT. Aktuelle News, Kommentare, Analysen und Hintergrundberichte aus Politik, Wirtschaft, Gesellschaft, Wissen, Kultur und Sport lesen Sie auf ZEIT ONLINE." xmlUrl="http://newsfeed.zeit.de/index" type="rss" />
+		<outline text="FOCUS Online" title="FOCUS Online" description="FOCUS Online - minutenaktuelle Nachrichten und Service-Informationen." xmlUrl="https://rss.focus.de/fol/XML/rss_folnews.xml" type="rss" />
+		<outline text="Aktuell - FAZ.NET" title="Aktuell - FAZ.NET" description="News, Nachrichten und aktuelle Meldungen aus allen Ressorts. Politik, Wirtschaft, Sport, Feuilleton und Finanzen im Überblick." xmlUrl="https://www.faz.net/rss/aktuell/" type="rss" />
+		<outline text="tagesschau.de - Die Nachrichten der ARD" title="tagesschau.de - Die Nachrichten der ARD" description="tagesschau.de" xmlUrl="http://www.tagesschau.de/xml/rss2" type="rss" />
+		<outline text="Deutsche Welle" title="Deutsche Welle" description="Deutsche Welle" xmlUrl="https://rss.dw.com/rdf/rss-en-all" type="rss" />
+	</body>
+</opml>

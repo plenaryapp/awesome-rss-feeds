@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="Web Development" title="Web Development">
+			<outline text="A List Apart: The Full Feed" title="A List Apart: The Full Feed" description="Articles for people who make web sites." xmlUrl="https://alistapart.com/main/feed/" type="rss" />
+			<outline text="CSS-Tricks" title="CSS-Tricks" description="Tips, Tricks, and Techniques on using Cascading Style Sheets." xmlUrl="https://css-tricks.com/feed/" type="rss" />
+			<outline text="Code Wall" title="Code Wall" description="Web Development & Programming" xmlUrl="https://www.codewall.co.uk/feed/" type="rss" />
+			<outline text="David Walsh Blog" title="David Walsh Blog" description="A blog featuring tutorials about JavaScript, HTML5, AJAX, PHP, CSS, WordPress, and everything else development." xmlUrl="https://davidwalsh.name/feed" type="rss" />
+			<outline text="Mozilla Hacks – the Web developer blog" title="Mozilla Hacks – the Web developer blog" description="hacks.mozilla.org" xmlUrl="https://hacks.mozilla.org/feed/" type="rss" />
+			<outline text="Sink In - Tech and Travel" title="Sink In - Tech and Travel" description="Sink In - Tech and Travel" xmlUrl="https://gosink.in/rss/" type="rss" />
+			<outline text="Updates" title="Updates" description="The latest and freshest updates from the Web teams at Google. Chrome, V8, tooling, and more." xmlUrl="https://developers.google.com/web/updates/rss.xml" type="rss" />
+		</outline>
+	</body>
+</opml>

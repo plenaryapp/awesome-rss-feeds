@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="Sports" title="Sports">
+			<outline text="BBC Sport - Sport" title="BBC Sport - Sport" description="BBC Sport - Sport" xmlUrl="http://feeds.bbci.co.uk/sport/rss.xml" type="rss" />
+			<outline text="Reddit Sports" title="Reddit Sports" description="Sports News and Highlights from the NFL, NBA, NHL, MLB, MLS, and leagues around the world." xmlUrl="https://www.reddit.com/r/sports.rss" type="rss" />
+			<outline text="Sports News - Latest Sports and Football News | Sky News" title="Sports News - Latest Sports and Football News | Sky News" description="The best sports coverage from around the world, covering: Football, Cricket, Golf, Rugby, WWE, Boxing, Tennis and much more." xmlUrl="http://feeds.skynews.com/feeds/rss/sports.xml" type="rss" />
+			<outline text="Sportskeeda" title="Sportskeeda" description="Sports Writers Unite" xmlUrl="https://www.sportskeeda.com/feed" type="rss" />
+			<outline text="Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games" title="Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games" description="Yahoo! Sports - Comprehensive news, scores, standings, fantasy games, rumors, and more" xmlUrl="https://sports.yahoo.com/rss/" type="rss" />
+			<outline text="www.espn.com - TOP" title="www.espn.com - TOP" description="Latest TOP news from www.espn.com" xmlUrl="https://www.espn.com/espn/rss/news" type="rss" />
+		</outline>
+	</body>
+</opml>

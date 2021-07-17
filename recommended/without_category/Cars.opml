@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="Autoblog" title="Autoblog" description="Autoblog" xmlUrl="https://www.autoblog.com/rss.xml" type="rss" />
+		<outline text="Autocar India - All Bike Reviews" title="Autocar India - All Bike Reviews" description="Car and Bike news, reviews and videos." xmlUrl="https://www.autocarindia.com/RSS/rss.ashx?type=all_bikes" type="rss" />
+		<outline text="Autocar India - All Car Reviews" title="Autocar India - All Car Reviews" description="Car and Bike news, reviews and videos." xmlUrl="https://www.autocarindia.com/RSS/rss.ashx?type=all_cars" type="rss" />
+		<outline text="Autocar India - News" title="Autocar India - News" description="Car and Bike news, reviews and videos." xmlUrl="https://www.autocarindia.com/RSS/rss.ashx?type=News" type="rss" />
+		<outline text="Autocar RSS Feed" title="Autocar RSS Feed" description="Welcome to nirvana for car enthusiasts. You have just entered the online home of the world's oldest car magazine, and the only place on the internet where you can find Autocar's unique mix of up-to-the-minute news, red hot car reviews, conclusive road test verdicts, and a lot more besides." xmlUrl="https://www.autocar.co.uk/rss" type="rss" />
+		<outline text="BMW BLOG" title="BMW BLOG" description="BMW News, Reviews, Test Drives, Photos And Videos" xmlUrl="https://feeds.feedburner.com/BmwBlog" type="rss" />
+		<outline text="Bike EXIF" title="Bike EXIF" description="The world's most exciting custom motorcycles, from cafe racers to bobbers to scramblers and street trackers." xmlUrl="https://www.bikeexif.com/feed" type="rss" />
+		<outline text="Car Body Design" title="Car Body Design" description="Car Design Resources, News and Tutorials" xmlUrl="https://www.carbodydesign.com/feed/" type="rss" />
+		<outline text="Carscoops" title="Carscoops" description="Breaking Car News, Scoops & Reviews" xmlUrl="https://www.carscoops.com/feed/" type="rss" />
+		<outline text="Formula 1" title="Formula 1" description="The best independent Formula 1 community anywhere. News, stories and discussion from and about the world of Formula 1." xmlUrl="https://www.reddit.com/r/formula1/.rss" type="rss" />
+		<outline text="Jalopnik" title="Jalopnik" description="Kinja RSS" xmlUrl="https://jalopnik.com/rss" type="rss" />
+		<outline text="Latest Content - Car and Driver" title="Latest Content - Car and Driver" description="" xmlUrl="https://www.caranddriver.com/rss/all.xml/" type="rss" />
+		<outline text="Petrolicious" title="Petrolicious" description="Petrolicious is a leading automotive lifestyle brand providing world class short films and tasteful editorial around the world’s finest classic vehicles." xmlUrl="https://petrolicious.com/feed" type="rss" />
+		<outline text="Section Page News - Automotive News" title="Section Page News - Automotive News" description="Section Page news and features from Automotive News" xmlUrl="http://feeds.feedburner.com/autonews/AutomakerNews" type="rss" />
+		<outline text="Section Page News - Automotive News" title="Section Page News - Automotive News" description="Section Page news and features from Automotive News" xmlUrl="http://feeds.feedburner.com/autonews/EditorsPicks" type="rss" />
+		<outline text="Speedhunters" title="Speedhunters" description="Global Car Culture Since 2008" xmlUrl="http://feeds.feedburner.com/speedhunters" type="rss" />
+		<outline text="The Truth About Cars" title="The Truth About Cars" description="The Truth About Cars is dedicated to providing candid, unbiased automobile reviews and the latest in auto industry news." xmlUrl="https://www.thetruthaboutcars.com/feed/" type="rss" />
+		<outline text="The best vintage and classic cars for sale online | Bring a Trailer" title="The best vintage and classic cars for sale online | Bring a Trailer" description="Barn finds, rally cars, and needles in the haystack." xmlUrl="https://bringatrailer.com/feed/" type="rss" />
+	</body>
+</opml>

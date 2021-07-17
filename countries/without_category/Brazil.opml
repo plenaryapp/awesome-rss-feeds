@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+	</head>
+	<body>
+		<outline text="Folha de S.Paulo - Em cima da hora - Principal" title="Folha de S.Paulo - Em cima da hora - Principal" description="Primeiro jornal em tempo real em l�ngua portuguesa" xmlUrl="https://feeds.folha.uol.com.br/emcimadahora/rss091.xml" type="rss" />
+		<outline text="Portal EBC - RSS" title="Portal EBC - RSS" description="" xmlUrl="http://www.ebc.com.br/rss/feed.xml" type="rss" />
+		<outline text="R7 - Notícias" title="R7 - Notícias" description="" xmlUrl="https://noticias.r7.com/feed.xml" type="rss" />
+		<outline text="UOL" title="UOL" description="Home UOL" xmlUrl="http://rss.home.uol.com.br/index.xml" type="rss" />
+		<outline text="The Rio Times" title="The Rio Times" description="News in Rio de Janeiro, Brazil" xmlUrl="https://riotimesonline.com/feed/" type="rss" />
+		<outline text="Brasil Wire" title="Brasil Wire" description="" xmlUrl="http://www.brasilwire.com/feed/" type="rss" />
+		<outline text="Jornal de Brasília" title="Jornal de Brasília" description="Informação e Opinião" xmlUrl="https://jornaldebrasilia.com.br/feed/" type="rss" />
+	</body>
+</opml>

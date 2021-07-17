@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+	</head>
+	<body>
+		<outline text="Spain" title="Spain">
+			<outline text="The Local" title="The Local" description="Europe's news in English" xmlUrl="https://feeds.thelocal.com/rss/es" type="rss" />
+			<outline text="EL PAÍS: el periódico global" title="EL PAÍS: el periódico global" description="Noticias de última hora sobre la actualidad en España y el mundo: política, economía, deportes, cultura, sociedad, tecnología, gente, opinión, viajes, moda, televisión, los blogs y las firmas de EL PAÍS. Además especiales, vídeos, fotos, audios, gráficos, entrevistas, promociones y todos los servicios de EL PAÍS." xmlUrl="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada" type="rss" />
+			<outline text="España" title="España" description="España" xmlUrl="https://rss.elconfidencial.com/espana/" type="rss" />
+			<outline text="ElDiario.es - ElDiario.es" title="ElDiario.es - ElDiario.es" description="ElDiario.es - ElDiario.es" xmlUrl="https://www.eldiario.es/rss/" type="rss" />
+			<outline text="Portada // expansion" title="Portada // expansion" description="Portada // expansion" xmlUrl="https://e00-expansion.uecdn.es/rss/portada.xml" type="rss" />
+			<outline text="El Periódico - portada" title="El Periódico - portada" description="El Periódico - Todas las noticias de la portada" xmlUrl="https://www.elperiodico.com/es/rss/rss_portada.xml" type="rss" />
+			<outline text="huffingtonpost.es" title="huffingtonpost.es" description="" xmlUrl="https://www.huffingtonpost.es/feeds/index.xml" type="rss" />
+			<outline text="Euro Weekly News Spain" title="Euro Weekly News Spain" description="Spain News" xmlUrl="https://www.euroweeklynews.com/feed/" type="rss" />
+			<outline text="Agencia EFE | www.efe.com | English edition" title="Agencia EFE | www.efe.com | English edition" description="Breaking news from Agencia Efe. Reliable, trustworthy and easy. Information with EFE" xmlUrl="https://www.efe.com/efe/english/4/rss" type="rss" />
+		</outline>
+	</body>
+</opml>

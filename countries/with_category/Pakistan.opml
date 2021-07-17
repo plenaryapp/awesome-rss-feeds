@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+	</head>
+	<body>
+		<outline text="Pakistan" title="Pakistan">
+			<outline text="The Express Tribune" title="The Express Tribune" description="The Express Tribune keeps you up to date with all the latest happenings from Pakistan and across the world!" xmlUrl="https://tribune.com.pk/feed/home" type="rss" />
+			<outline text="The Nation - Top Stories" title="The Nation - Top Stories" description="" xmlUrl="https://nation.com.pk/rss/top-stories" type="rss" />
+			<outline text="قومی خبریں" title="قومی خبریں" description="Daily Jang Urdu News | Pakistan News | Latest News - Breaking News" xmlUrl="https://jang.com.pk/rss/1/1" type="rss" />
+			<outline text="The News International - Pakistan" title="The News International - Pakistan" description="The News International Pakistan's Leading English Language Newspaper." xmlUrl="https://www.thenews.com.pk/rss/1/1" type="rss" />
+			<outline text="News Blog" title="News Blog" description="Latest News Technology, Travel, Sports, Health and Entertainment News from World" xmlUrl="https://newsnblogs.com/feed/" type="rss" />
+			<outline text="UrduPoint.com All Urdu News" title="UrduPoint.com All Urdu News" description="تازہ ترین اردو خبریں" xmlUrl="https://www.urdupoint.com/rss/urdupoint.rss" type="rss" />
+			<outline text="ایکسپریس اردو" title="ایکسپریس اردو" description="Latest Breaking News from Pakistan, Business, Life, Style, Cricket, Videos, Comments" xmlUrl="https://www.express.pk/feed/" type="rss" />
+		</outline>
+	</body>
+</opml>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="Tennis" title="Tennis">
+			<outline text="BBC Sport - Tennis" title="BBC Sport - Tennis" description="BBC Sport - Tennis" xmlUrl="http://feeds.bbci.co.uk/sport/tennis/rss.xml" type="rss" />
+			<outline text="Essential Tennis Podcast - Instruction, Lessons, Tips" title="Essential Tennis Podcast - Instruction, Lessons, Tips" description="Improve your tennis with the Essential Tennis Podcast, the very first podcast dedicated to tennis lessons and instruction! Tennis professional Ian Westermann answers listener questions about technique, strategy, mental toughness, and much more." xmlUrl="https://feed.podbean.com/essentialtennis/feed.xml" type="rss" />
+			<outline text="Grand Slam Fantasy Tennis" title="Grand Slam Fantasy Tennis" description="Fantasy Tennis" xmlUrl="http://www.grandslamfantasytennis.com/feed/?x=1" type="rss" />
+			<outline text="Tennis - ATP World Tour" title="Tennis - ATP World Tour" description="Headline News - powered by FeedBurner" xmlUrl="https://www.atptour.com/en/media/rss-feed/xml-feed" type="rss" />
+			<outline text="Tennis News & Discussion" title="Tennis News & Discussion" description="Tennis News & Discussion" xmlUrl="https://www.reddit.com/r/tennis/.rss" type="rss" />
+			<outline text="peRFect Tennis" title="peRFect Tennis" description="UK Tennis Blog" xmlUrl="https://www.perfect-tennis.com/feed/" type="rss" />
+			<outline text="www.espn.com - TENNIS" title="www.espn.com - TENNIS" description="Latest TENNIS news from www.espn.com" xmlUrl="https://www.espn.com/espn/rss/tennis/news" type="rss" />
+		</outline>
+	</body>
+</opml>

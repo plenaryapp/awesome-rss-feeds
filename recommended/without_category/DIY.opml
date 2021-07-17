@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="A Beautiful Mess" title="A Beautiful Mess" description="Crafts, Home Décor, Recipes" xmlUrl="https://abeautifulmess.com/feed" type="rss" />
+		<outline text="Apartment Therapy| Saving the world, one room at a time" title="Apartment Therapy| Saving the world, one room at a time" description="Saving the world, one room at a time" xmlUrl="https://www.apartmenttherapy.com/projects.rss" type="rss" />
+		<outline text="Blog – Hackaday" title="Blog – Hackaday" description="Fresh hacks every day" xmlUrl="https://hackaday.com/blog/feed/" type="rss" />
+		<outline text="Centsational Style" title="Centsational Style" description="Design, Decorating & DIY" xmlUrl="https://centsationalstyle.com/feed/" type="rss" />
+		<outline text="Doityourself.com" title="Doityourself.com" description="Do it yourself home improvement and diy repair at Doityourself.com. Includes home improvement projects, home repair, kitchen remodeling, plumbing, electrical, painting, real estate, and decorating." xmlUrl="https://www.doityourself.com/feed" type="rss" />
+		<outline text="Etsy Journal" title="Etsy Journal" description="Ideas and inspiration for creative living." xmlUrl="https://blog.etsy.com/en/feed/" type="rss" />
+		<outline text="How-To Geek" title="How-To Geek" description="We Explain Technology" xmlUrl="https://www.howtogeek.com/feed/" type="rss" />
+		<outline text="IKEA Hackers" title="IKEA Hackers" description="Clever ideas and hacks for your IKEA" xmlUrl="https://www.ikeahackers.net/feed" type="rss" />
+		<outline text="MUO - Feed" title="MUO - Feed" description="MUO is your guide in modern tech. Learn how to make use of tech and gadgets around you and discover cool stuff on the Internet." xmlUrl="https://www.makeuseof.com/feed/" type="rss" />
+		<outline text="Oh Happy Day!" title="Oh Happy Day!" description="Oh Happy Day is a party and lifestyle blog based in San Francisco. We love to throw parties and make things!" xmlUrl="http://ohhappyday.com/feed/" type="rss" />
+		<outline text="WonderHowTo" title="WonderHowTo" description="Hot new how-to videos and articles on WonderHowTo." xmlUrl="https://www.wonderhowto.com/rss.xml" type="rss" />
+	</body>
+</opml>

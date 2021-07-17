@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="Books" title="Books">
+			<outline text="A year of reading the world" title="A year of reading the world" description="196 countries, countless stories..." xmlUrl="https://ayearofreadingtheworld.com/feed/" type="rss" />
+			<outline text="Aestas Book Blog" title="Aestas Book Blog" description="Romance book reviews. Reviews of books that make my heart race, have a beautiful love story, and a happy ending." xmlUrl="https://aestasbookblog.com/feed/" type="rss" />
+			<outline text="BOOK RIOT" title="BOOK RIOT" description="Book Recommendations and Reviews" xmlUrl="https://bookriot.com/feed/" type="rss" />
+			<outline text="Kirkus Reviews" title="Kirkus Reviews" description="Latest book reviews from Kirkus Reviews." xmlUrl="https://www.kirkusreviews.com/feeds/rss/" type="rss" />
+			<outline text="Page Array – NewInBooks" title="Page Array – NewInBooks" description="Answering the Age old question - What are you reading?" xmlUrl="https://www.newinbooks.com/feed/" type="rss" />
+			<outline text="So many books, so little time" title="So many books, so little time" description="This is a moderated subreddit. It is our intent and purpose to foster and encourage in-depth discussion about all things related to books, authors, genres, or publishing in a safe, supportive environment. If you're looking for help with a personal book recommendation, consult our Weekly Recommendation Thread, Suggested Reading page, or ask in r/suggestmeabook." xmlUrl="https://reddit.com/r/books/.rss" type="rss" />
+			<outline text="Wokeread" title="Wokeread" description="Books any time any day." xmlUrl="https://wokeread.home.blog/feed/" type="rss" />
+		</outline>
+	</body>
+</opml>

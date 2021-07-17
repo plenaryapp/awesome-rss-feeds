@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+	</head>
+	<body>
+		<outline text="Philippines" title="Philippines">
+			<outline text="INQUIRER.net" title="INQUIRER.net" description="Philippine News for Filipinos" xmlUrl="https://www.inquirer.net/fullfeed" type="rss" />
+			<outline text="Latest News | Philippine Information Agency" title="Latest News | Philippine Information Agency" description="Latest news and updates from Philippine Information Agency." xmlUrl="https://pia.gov.ph/news/feed.rss" type="rss" />
+			<outline text="Interaksyon" title="Interaksyon" description="Philippines news features and explanatory reports." xmlUrl="https://www.interaksyon.com/feed/" type="rss" />
+			<outline text="- The Manila Times" title="- The Manila Times" description="News | Opinion | Philippines | Asia | World" xmlUrl="https://www.manilatimes.net/rssfeed/" type="rss" />
+			<outline text="philstar.com - RSS Headlines" title="philstar.com - RSS Headlines" description="Philippine News for the Filipino Global Community" xmlUrl="https://www.philstar.com/rss/headlines" type="rss" />
+			<outline text="BusinessWorld" title="BusinessWorld" description="The most trusted source of Philippine business news and analysis" xmlUrl="https://www.bworldonline.com/feed/" type="rss" />
+			<outline text="https://www.sunstar.com.ph/" title="https://www.sunstar.com.ph/" description="" xmlUrl="https://www.sunstar.com.ph/rssFeed/selected" type="rss" />
+			<outline text="PhilNews.XYZ" title="PhilNews.XYZ" description="Voice Against Biased Media" xmlUrl="https://www.philnews.xyz/feeds/posts/default?alt=rss" type="rss" />
+			<outline text="Manila Standard" title="Manila Standard" description="Manila Standard | Defining The News" xmlUrl="https://manilastandard.net/feed/all" type="rss" />
+			<outline text="GMA News Online / News" title="GMA News Online / News" description="GMA News Online RSS Feed - News Section" xmlUrl="https://data.gmanews.tv/gno/rss/news/feed.xml" type="rss" />
+			<outline text="Current PH" title="Current PH" description="Latest Philippine Breaking News and Stories" xmlUrl="https://currentph.com/feed/" type="rss" />
+			<outline text="Top Gear: The Philippine authority on cars and the automotive industry" title="Top Gear: The Philippine authority on cars and the automotive industry" description="The Philippines best online source of info on cars and the automotive industry." xmlUrl="https://www.topgear.com.ph/feed/rss1" type="rss" />
+			<outline text="Eagle News" title="Eagle News" description="Breaking News, Latest Philippines Headlines, World, Entertainment, Politics, Weather & Video News" xmlUrl="https://www.eaglenews.ph/feed/" type="rss" />
+			<outline text="UNBOX PH" title="UNBOX PH" description="Taking Awesome Out of the Box" xmlUrl="https://www.unbox.ph/feed/" type="rss" />
+			<outline text="Tempo – The Nation's Fastest Growing Newspaper" title="Tempo – The Nation's Fastest Growing Newspaper" description="Tempo - News in a Flash" xmlUrl="http://tempo.com.ph/feed/" type="rss" />
+			<outline text="Abante Tonite" title="Abante Tonite" description="Mabilis sa Balita" xmlUrl="https://tonite.abante.com.ph/feed/" type="rss" />
+			<outline text="BusinessMirror" title="BusinessMirror" description="A broader look at today’s business" xmlUrl="https://businessmirror.com.ph/feed/" type="rss" />
+			<outline text="Latest News | Philippine News Agency" title="Latest News | Philippine News Agency" description="Latest news in Philippine News Agency." xmlUrl="https://www.pna.gov.ph/latest.rss" type="rss" />
+			<outline text="TechPinas : Philippines' Technology News, Tips and Reviews Blog" title="TechPinas : Philippines' Technology News, Tips and Reviews Blog" description="Sharing Specs and Beyond to Help Build a Tech-Informed, Tech-Empowered Nation. TechPinas is a Proudly-Filipino Technology Blog created and led by Mark Milan Macanas." xmlUrl="http://feeds.feedburner.com/Techpinas" type="rss" />
+			<outline text="BICOL STANDARD | Bicol News | Bicol Newspaper" title="BICOL STANDARD | Bicol News | Bicol Newspaper" description="Bicol newspaper published and edited in Naga City, Philippines | We publish advertisements, announcements, and legal and judicial notices." xmlUrl="http://www.bicolstandard.com/feeds/posts/default?alt=rss" type="rss" />
+		</outline>
+	</body>
+</opml>

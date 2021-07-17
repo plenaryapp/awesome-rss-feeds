@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+	</head>
+	<body>
+		<outline text="The Daily Star" title="The Daily Star" description="Headlines from The Daily Star" xmlUrl="https://www.thedailystar.net/frontpage/rss.xml" type="rss" />
+		<outline text="BD24Live.com" title="BD24Live.com" description="Bangla Online News Portal" xmlUrl="https://www.bd24live.com/feed" type="rss" />
+		<outline text="bdnews24.com - Home" title="bdnews24.com - Home" description="The RSS feed of bdnews24.com" xmlUrl="https://bdnews24.com/?widgetName=rssfeed&widgetId=1150&getXmlFeed=true" type="rss" />
+		<outline text="Bangla News" title="Bangla News" description="banglanews24.com RSS Feed" xmlUrl="https://www.banglanews24.com/rss/rss.xml" type="rss" />
+		<outline text="JUGANTOR" title="JUGANTOR" description="RSS feed of latest topics" xmlUrl="https://www.jugantor.com/feed/rss.xml" type="rss" />
+		<outline text="jagonews24.com | rss Feed" title="jagonews24.com | rss Feed" description="A RSS news feed containing the latest Jago News articles." xmlUrl="https://www.jagonews24.com/rss/rss.xml" type="rss" />
+		<outline text="kalerkantho Kantho" title="kalerkantho Kantho" description="kalerkantho.com RSS Feed" xmlUrl="https://www.kalerkantho.com/rss.xml" type="rss" />
+		<outline text="প্রথম আলো" title="প্রথম আলো" description="" xmlUrl="https://www.prothomalo.com/feed/" type="rss" />
+	</body>
+</opml>

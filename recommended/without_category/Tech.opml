@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="Accidental Tech Podcast" title="Accidental Tech Podcast" description="Three nerds discussing tech, Apple, programming, and loosely related matters." xmlUrl="https://atp.fm/rss" type="rss" />
+		<outline text="Analog(ue)" title="Analog(ue)" description="So many podcasts are about our digital devices. Analog(ue) is a show about how these devices make us feel and how they change our lives for the better, but also for the worse. Hosted by Casey Liss and Myke Hurley." xmlUrl="https://www.relay.fm/analogue/feed" type="rss" />
+		<outline text="Ars Technica" title="Ars Technica" description="Serving the Technologist for more than a decade. IT news, reviews, and analysis." xmlUrl="http://feeds.arstechnica.com/arstechnica/index" type="rss" />
+		<outline text="CNET" title="CNET" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=CNETTV" type="rss" />
+		<outline text="CNET News" title="CNET News" description="CNET news editors and reporters provide top technology news, with investigative reporting and in-depth coverage of tech issues and events." xmlUrl="https://www.cnet.com/rss/news/" type="rss" />
+		<outline text="Clockwise" title="Clockwise" description="Clockwise is a rapid-fire discussion of current technology issues hosted by Dan Moren and Mikah Sargent and featuring two special guests each week. Four people, four topics--and because we're always watching the clock, no episode is longer than 30 minutes. Hosted by Dan Moren and Mikah Sargent." xmlUrl="https://www.relay.fm/clockwise/feed" type="rss" />
+		<outline text="Gizmodo" title="Gizmodo" description="We come from the future" xmlUrl="https://gizmodo.com/rss" type="rss" />
+		<outline text="Hacker News" title="Hacker News" description="Links for the intellectually curious, ranked by readers." xmlUrl="https://news.ycombinator.com/rss" type="rss" />
+		<outline text="Lifehacker" title="Lifehacker" description="Do everything better" xmlUrl="https://lifehacker.com/rss" type="rss" />
+		<outline text="Linus Tech Tips" title="Linus Tech Tips" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=LinusTechTips" type="rss" />
+		<outline text="Marques Brownlee" title="Marques Brownlee" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee" type="rss" />
+		<outline text="Mashable" title="Mashable" description="Mashable is a leading source for news, information & resources for the Connected Generation. Mashable reports on the importance of digital innovation and how it empowers and inspires people around the world. Mashable's 25 million monthly unique visitors and 10 million social media followers have become one of the most engaged online news communities. Founded in 2005, Mashable is headquartered in New York City with an office in San Francisco." xmlUrl="http://feeds.mashable.com/Mashable" type="rss" />
+		<outline text="ReadWrite" title="ReadWrite" description="The Blog of Things" xmlUrl="https://readwrite.com/feed/" type="rss" />
+		<outline text="Reply All" title="Reply All" description=""'A podcast about the internet' that is actually an unfailingly original exploration of modern life and how to survive it." - The Guardian. Hosted by Alex Goldman and Emmanuel Dzotsi from Gimlet." xmlUrl="https://feeds.megaphone.fm/replyall" type="rss" />
+		<outline text="Rocket" title="Rocket" description="Countdown to excitement! Every week Christina Warren, Brianna Wu and Simone de Rochefort have accelerated geek conversation. Tech, comics, movies, games and books, no galaxy is off limits! Hosted by Christina Warren, Brianna Wu, and Simone De Rochefort." xmlUrl="https://www.relay.fm/rocket/feed" type="rss" />
+		<outline text="Slashdot" title="Slashdot" description="News for nerds, stuff that matters" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" type="rss" />
+		<outline text="Stratechery by Ben Thompson" title="Stratechery by Ben Thompson" description="On the business, strategy, and impact of technology." xmlUrl="http://stratechery.com/feed/" type="rss" />
+		<outline text="TechCrunch" title="TechCrunch" description="TechCrunch is a group-edited blog that profiles the companies, products and events defining and transforming the new web." xmlUrl="http://feeds.feedburner.com/TechCrunch" type="rss" />
+		<outline text="The Keyword" title="The Keyword" description="The Keyword" xmlUrl="https://www.blog.google/rss/" type="rss" />
+		<outline text="The Next Web" title="The Next Web" description="Original and proudly opinionated perspectives for Generation T" xmlUrl="https://thenextweb.com/feed/" type="rss" />
+		<outline text="The Verge" title="The Verge" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=TheVerge" type="rss" />
+		<outline text="The Verge -  All Posts" title="The Verge -  All Posts" description="" xmlUrl="https://www.theverge.com/rss/index.xml" type="rss" />
+		<outline text="The Vergecast" title="The Vergecast" description="Hello! This is The Vergecast, the flagship podcast of The Verge... and your life. Every Friday, Nilay Patel and Dieter Bohn make sense of the week's tech news with help from our wide-ranging staff. And on Tuesdays, Nilay hosts in-depth, one-on-one interviews with major technology leaders. Join us every week for a fun, deeply nerdy, often off-the-rails conversation about what's happening now (and next) in technology and gadgets." xmlUrl="https://feeds.megaphone.fm/vergecast" type="rss" />
+		<outline text="This Week in Tech (Audio)" title="This Week in Tech (Audio)" description="Your first podcast of the week is the last word in tech. Join the top tech pundits in a roundtable discussion of the latest trends in high tech. Records live every Sunday at 5:15pm Eastern / 2:15pm Pacific / 21:15 UTC." xmlUrl="https://feeds.twit.tv/twit.xml" type="rss" />
+		<outline text="Unbox Therapy" title="Unbox Therapy" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=unboxtherapy" type="rss" />
+		<outline text="https://www.engadget.com/" title="https://www.engadget.com/" description="https://www.engadget.com/" xmlUrl="https://www.engadget.com/rss.xml" type="rss" />
+	</body>
+</opml>

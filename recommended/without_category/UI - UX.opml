@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="Articles on Smashing Magazine — For Web Designers And Developers" title="Articles on Smashing Magazine — For Web Designers And Developers" description="Recent content in Articles on Smashing Magazine — For Web Designers And Developers" xmlUrl="https://www.smashingmagazine.com/feed" type="rss" />
+		<outline text="Boxes and Arrows" title="Boxes and Arrows" description="The design behind the design." xmlUrl="http://boxesandarrows.com/rss/" type="rss" />
+		<outline text="Designer News Feed" title="Designer News Feed" description="All of the stories from the frontpage of Designer News" xmlUrl="https://www.designernews.co/?format=rss" type="rss" />
+		<outline text="Inside Design" title="Inside Design" description="Thoughts on users, experience, and design" xmlUrl="https://www.invisionapp.com/inside-design/feed" type="rss" />
+		<outline text="JUST™ Creative" title="JUST™ Creative" description="Logo Designer, Graphic Designer, Graphic Design Portfolio, Logo Design, Logo, Graphic, Design, Graphic Design, Brand Strategy, Branding" xmlUrl="https://feeds.feedburner.com/JustCreativeDesignBlog" type="rss" />
+		<outline text="NN/g latest articles and announcements" title="NN/g latest articles and announcements" description="The latest articles and announcements from Nielsen Norman Group" xmlUrl="https://www.nngroup.com/feed/rss/" type="rss" />
+		<outline text="UX Blog – UX Studio" title="UX Blog – UX Studio" description="UX design blog about designing user experience for web and mobile apps with UX research and focus on usability and ergonomics" xmlUrl="https://uxstudioteam.com/ux-blog/feed/" type="rss" />
+		<outline text="UX Collective - Medium" title="UX Collective - Medium" description="We believe designers are thinkers as much as they are makers. Curated stories on UX, Visual &amp; Product Design. - Medium" xmlUrl="https://uxdesign.cc/feed" type="rss" />
+		<outline text="UX Movement" title="UX Movement" description="" xmlUrl="https://uxmovement.com/feed/" type="rss" />
+		<outline text="Usability Geek" title="Usability Geek" description="Usability & User Experience (UX) Blog" xmlUrl="https://usabilitygeek.com/feed/" type="rss" />
+		<outline text="User Experience" title="User Experience" description="User experience design is the process of enhancing user satisfaction by improving the usability, ease of use, and pleasure provided in the interaction between the user and the product. ‎‎‎‎‎ ‎ ‎ User experience design encompasses traditional human–computer interaction design (HCI/d), and extends it by addressing all aspects of a product or service as perceived by users." xmlUrl="https://www.reddit.com/r/userexperience/.rss" type="rss" />
+	</body>
+</opml>

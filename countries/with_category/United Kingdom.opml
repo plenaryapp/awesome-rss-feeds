@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+	</head>
+	<body>
+		<outline text="United Kingdom" title="United Kingdom">
+			<outline text="BBC News - Home" title="BBC News - Home" description="BBC News - Home" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml" type="rss" />
+			<outline text="World news | The Guardian" title="World news | The Guardian" description="Latest World news news, comment and analysis from the Guardian, the world's leading liberal voice" xmlUrl="https://www.theguardian.com/world/rss" type="rss" />
+			<outline text="Home | Mail Online" title="Home | Mail Online" description="MailOnline - get the latest breaking news, showbiz & celebrity photos, sport news & rumours, viral videos and top stories from MailOnline, Daily Mail and Mail on Sunday newspapers." xmlUrl="https://www.dailymail.co.uk/home/index.rss" type="rss" />
+			<outline text="The Independent" title="The Independent" description="Visit now for the latest news direct from The Independent and updated throughout the day" xmlUrl="http://www.independent.co.uk/news/uk/rss" type="rss" />
+			<outline text="Daily Express :: News Feed" title="Daily Express :: News Feed" description="Simply The Best 7 Days A Week" xmlUrl="http://feeds.feedburner.com/daily-express-news-showbiz" type="rss" />
+		</outline>
+	</body>
+</opml>
