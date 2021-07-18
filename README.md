@@ -6,11 +6,11 @@ A curated list of RSS feeds (with OPML files) used in Recommended Feeds and loca
 
 ## Motivation
 
-Using Plenary, we are trying to solve discovability of RSS feeds for first time users. Local News and recommended categories are some of the ways we are planning to handle it. [You can learn more about it here](https://www.reddit.com/r/Plenary/comments/oc24r9/solving_discoverability_of_rss_feed_for_new_users/)
+Using Plenary, we are trying to solve discovability of RSS feeds for first time users. Local News and recommended categories are some of the ways we are planning to handle it. [You can learn more about it here.](https://www.reddit.com/r/Plenary/comments/oc24r9/solving_discoverability_of_rss_feed_for_new_users/)
 
 ## Directory
 
-Country | OPML | OPML (without category)
+Country | OPML | OPML (without category) <sup>[What's this?](#with-category-and-without-category)</sup>
 --------|------|------------------------
 [🇦🇺 Australia](#-Australia) | [Australia.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Australia.opml) | [Australia.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Australia.opml)
 [🇧🇩 Bangladesh](#-Bangladesh) | [Bangladesh.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Bangladesh.opml) | [Bangladesh.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Bangladesh.opml)
@@ -74,7 +74,7 @@ Category | OPML | OPML (without category) <sup>[What's this?](#with-category-and
 [Television](#Television) | [Television.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Television.opml) | [Television.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Television.opml)
 [Tennis](#Tennis) | [Tennis.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Tennis.opml) | [Tennis.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Tennis.opml)
 [Travel](#Travel) | [Travel.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Travel.opml) | [Travel.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Travel.opml)
-[UI / UX](#UI--UX) | [UI / UX.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/UI%20/%20UX.opml) | [UI / UX.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/UI%20/%20UX.opml)
+[UI / UX](#UI--UX) | [UI / UX.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/UI%20-%20UX.opml) | [UI / UX.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/UI%20-%20UX.opml)
 [Web Development](#Web-Development) | [Web Development.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Web%20Development.opml) | [Web Development.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Web%20Development.opml)
 
 ## Country Sources
@@ -1075,4 +1075,3 @@ PRs suggesting improvements in Readme are welcome!
       height="25">](https://www.reddit.com/r/Plenary/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [<img src="https://img.shields.io/twitter/follow/spianslabs?style=social"
       alt="Follow us on Twitter"
       height="25">](https://twitter.com/spianslabs)
-      
