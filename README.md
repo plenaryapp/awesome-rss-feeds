@@ -519,6 +519,7 @@ POPSUGAR Beauty | https://www.popsugar.com/beauty/feed | popsugar.com
 Refinery29 | https://www.refinery29.com/beauty/rss.xml | refinery29.com 
 THE YESSTYLIST – Asian Fashion Blog – brought to you by YesStyle.com | https://www.yesstyle.com/blog/category/the-beauty-blog/feed/ | yesstyle.com 
 The Beauty Look Book | https://thebeautylookbook.com/feed | thebeautylookbook.com 
+Chic Saled Daily| https://chicsaledaily.com/sitemap.xml | chicsaledaily.com
 ### Books
 Title | RSS Feed Url | Domain 
 -------|------------------|---------- 
