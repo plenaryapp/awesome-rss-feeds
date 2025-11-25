@@ -556,7 +556,7 @@ Autocar India - All Bike Reviews | https://www.autocarindia.com/RSS/rss.ashx?typ
 Autocar India - All Car Reviews | https://www.autocarindia.com/RSS/rss.ashx?type=all_cars | autocarindia.com 
 Autocar India - News | https://www.autocarindia.com/RSS/rss.ashx?type=News | autocarindia.com 
 Autocar RSS Feed | https://www.autocar.co.uk/rss | autocar.co.uk 
-BMW BLOG | https://feeds.feedburner.com/BmwBlog | bmwblog.com 
+BMW BLOG | https://www.bmwblog.com/feed/ | bmwblog.com 
 Bike EXIF | https://www.bikeexif.com/feed | bikeexif.com 
 Car Body Design | https://www.carbodydesign.com/feed/ | carbodydesign.com 
 Carscoops | https://www.carscoops.com/feed/ | carscoops.com 
