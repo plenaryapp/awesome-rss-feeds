@@ -20,8 +20,8 @@
 		<outline text="Marco.org" title="Marco.org" description="I’m Marco Arment, creator of Overcast, technology podcaster and writer, and coffee enthusiast." xmlUrl="https://marco.org/rss" type="rss" />
 		<outline text="OS X Daily" title="OS X Daily" description="News, tips, software, reviews, and more for Mac OS X, iPhone, iPad" xmlUrl="http://feeds.feedburner.com/osxdaily" type="rss" />
 		<outline text="The Loop" title="The Loop" description="Making Sense of Technology" xmlUrl="https://www.loopinsight.com/feed" type="rss" />
-		<outline text="The unofficial Apple community" title="The unofficial Apple community" description="An unofficial community to discuss Apple devices and software, including news, rumors, opinions and analysis pertaining to the company located at One Apple Park Way." xmlUrl="https://www.reddit.com/r/apple/.rss" type="rss" />
+		
 		<outline text="iMore - The #1 iPhone, iPad, and iPod touch blog" title="iMore - The #1 iPhone, iPad, and iPod touch blog" description="More news and rumors, more help and how-tos, more app and accessory reviews, more iPhone and iPad and iPod touch. More of everything you love. iMore." xmlUrl="http://feeds.feedburner.com/TheiPhoneBlog" type="rss" />
-		<outline text="r/iPhone" title="r/iPhone" description="Reddit’s corner for iPhone lovers (or those who mildly enjoy it...)" xmlUrl="https://www.reddit.com/r/iphone/.rss" type="rss" />
+		
 	</body>
 </opml>

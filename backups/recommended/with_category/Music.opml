@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="Music" title="Music">
+			<outline text="Billboard" title="Billboard" description="Just another WordPress site" xmlUrl="https://www.billboard.com/articles/rss.xml" type="rss" />
+			<outline text="Consequence" title="Consequence" description="Music, Film, TV and Pop Culture News for the Mainstream and Underground" xmlUrl="http://consequenceofsound.net/feed" type="rss" />
+			<outline text="EDM.com - The Latest Electronic Dance Music News, Reviews & Artists" title="EDM.com - The Latest Electronic Dance Music News, Reviews & Artists" description="The world's foremost authority on EDM : free music downloads, artist interviews, industry news, curated playlists, trending charts, and more." xmlUrl="https://edm.com/.rss/full/" type="rss" />
+			<outline text="Metal Injection" title="Metal Injection" description="Heavy metal news, metal music videos, tour dates, live footage, exclusive documentaries, funny clips and more." xmlUrl="http://feeds.feedburner.com/metalinjection" type="rss" />
+			<outline text="Music Business Worldwide" title="Music Business Worldwide" description="News, jobs and analysis for the global music industry" xmlUrl="https://www.musicbusinessworldwide.com/feed/" type="rss" />
+			<outline text="RSS: News" title="RSS: News" description="News content RSS feed" xmlUrl="http://pitchfork.com/rss/news" type="rss" />
+			<outline text="Song Exploder" title="Song Exploder" description="A podcast where musicians take apart their songs, and piece by piece, tell the story of how they were made." xmlUrl="http://songexploder.net/feed" type="rss" />
+			<outline text="Your EDM" title="Your EDM" description="EDM News & Electronic Dance Music Reviews" xmlUrl="https://www.youredm.com/feed" type="rss" />
+		</outline>
+	</body>
+</opml>

@@ -1,0 +1,2 @@
+opml_file,title,xmlUrl,htmlUrl,status_code,ok,error
+countries/with_category/Canada.opml,The Province,https://theprovince.com/feed/,,,False,"HTTPSConnectionPool(host='theprovince.com', port=443): Read timed out. (read timeout=8)"

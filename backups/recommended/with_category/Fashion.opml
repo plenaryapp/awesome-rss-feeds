@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="Fashion" title="Fashion">
+			<outline text="Fashion - ELLE" title="Fashion - ELLE" description="" xmlUrl="https://www.elle.com/rss/fashion.xml/" type="rss" />
+			<outline text="Fashion | The Guardian" title="Fashion | The Guardian" description="The latest fashion news, advice and comment from the Guardian" xmlUrl="https://www.theguardian.com/fashion/rss" type="rss" />
+			<outline text="Fashion – Indian Fashion Blog" title="Fashion – Indian Fashion Blog" description="" xmlUrl="https://www.fashionlady.in/category/fashion/feed" type="rss" />
+			<outline text="FashionBeans Men's Fashion and Style Feed" title="FashionBeans Men's Fashion and Style Feed" description="A comprehensive guide to men's fashion and style, from the latest trends and hottest pieces to building a capsule wardrobe." xmlUrl="https://www.fashionbeans.com/rss-feed/?category=fashion" type="rss" />
+			<outline text="Fashionista" title="Fashionista" description="Fashionista" xmlUrl="https://fashionista.com/.rss/excerpt/" type="rss" />
+			<outline text="NYT > Style" title="NYT > Style" description="" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml" type="rss" />
+			<outline text="POPSUGAR Fashion" title="POPSUGAR Fashion" description="Top Fashion Stories" xmlUrl="https://www.popsugar.com/fashion/feed" type="rss" />
+			<outline text="Refinery29" title="Refinery29" description="Refinery29" xmlUrl="https://www.refinery29.com/fashion/rss.xml" type="rss" />
+			<outline text="THE YESSTYLIST – Asian Fashion Blog – brought to you by YesStyle.com" title="THE YESSTYLIST – Asian Fashion Blog – brought to you by YesStyle.com" description="" xmlUrl="https://www.yesstyle.com/blog/category/trend-and-style/feed/" type="rss" />
+			<outline text="Who What Wear" title="Who What Wear" description="Who What Wear" xmlUrl="https://www.whowhatwear.com/rss" type="rss" />
+		</outline>
+	</body>
+</opml>

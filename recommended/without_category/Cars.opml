@@ -7,7 +7,7 @@
 		<ownerEmail>info@spianslabs.com</ownerEmail>
 	</head>
 	<body>
-		<outline text="Autoblog" title="Autoblog" description="Autoblog" xmlUrl="https://www.autoblog.com/rss.xml" type="rss" />
+		
 		<outline text="Autocar India - All Bike Reviews" title="Autocar India - All Bike Reviews" description="Car and Bike news, reviews and videos." xmlUrl="https://www.autocarindia.com/RSS/rss.ashx?type=all_bikes" type="rss" />
 		<outline text="Autocar India - All Car Reviews" title="Autocar India - All Car Reviews" description="Car and Bike news, reviews and videos." xmlUrl="https://www.autocarindia.com/RSS/rss.ashx?type=all_cars" type="rss" />
 		<outline text="Autocar India - News" title="Autocar India - News" description="Car and Bike news, reviews and videos." xmlUrl="https://www.autocarindia.com/RSS/rss.ashx?type=News" type="rss" />
@@ -16,7 +16,7 @@
 		<outline text="Bike EXIF" title="Bike EXIF" description="The world's most exciting custom motorcycles, from cafe racers to bobbers to scramblers and street trackers." xmlUrl="https://www.bikeexif.com/feed" type="rss" />
 		<outline text="Car Body Design" title="Car Body Design" description="Car Design Resources, News and Tutorials" xmlUrl="https://www.carbodydesign.com/feed/" type="rss" />
 		<outline text="Carscoops" title="Carscoops" description="Breaking Car News, Scoops & Reviews" xmlUrl="https://www.carscoops.com/feed/" type="rss" />
-		<outline text="Formula 1" title="Formula 1" description="The best independent Formula 1 community anywhere. News, stories and discussion from and about the world of Formula 1." xmlUrl="https://www.reddit.com/r/formula1/.rss" type="rss" />
+		
 		<outline text="Jalopnik" title="Jalopnik" description="Kinja RSS" xmlUrl="https://jalopnik.com/rss" type="rss" />
 		<outline text="Latest Content - Car and Driver" title="Latest Content - Car and Driver" description="" xmlUrl="https://www.caranddriver.com/rss/all.xml/" type="rss" />
 		<outline text="Petrolicious" title="Petrolicious" description="Petrolicious is a leading automotive lifestyle brand providing world class short films and tasteful editorial around the world’s finest classic vehicles." xmlUrl="https://petrolicious.com/feed" type="rss" />

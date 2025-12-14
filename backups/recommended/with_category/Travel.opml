@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="Travel" title="Travel">
+			<outline text="Atlas Obscura - Latest Articles and Places" title="Atlas Obscura - Latest Articles and Places" description="New wonders and curiosities added to the Atlas." xmlUrl="https://www.atlasobscura.com/feeds/latest" type="rss" />
+			<outline text="Live Life Travel" title="Live Life Travel" description="Your travel partner for life" xmlUrl="https://www.livelifetravel.world/feed/" type="rss" />
+			<outline text="Lonely Planet Travel News" title="Lonely Planet Travel News" description="Travel news and more from Lonely Planet" xmlUrl="https://www.lonelyplanet.com/news/feed/atom/" type="rss" />
+			<outline text="NYT > Travel" title="NYT > Travel" description="" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml" type="rss" />
+			<outline text="Nomadic Matt's Travel Site" title="Nomadic Matt's Travel Site" description="Travel Better, Cheaper, Longer" xmlUrl="https://www.nomadicmatt.com/travel-blog/feed/" type="rss" />
+			<outline text="Travel | The Guardian" title="Travel | The Guardian" description="Latest travel news and reviews on UK and world holidays, travel guides to global destinations, city breaks, hotels and restaurant information from the Guardian, the world's leading liberal voice" xmlUrl="https://www.theguardian.com/uk/travel/rss" type="rss" />
+		</outline>
+	</body>
+</opml>

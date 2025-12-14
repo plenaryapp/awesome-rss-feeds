@@ -1,0 +1,255 @@
+opml_file,title,xmlUrl,htmlUrl,status_code,ok,error
+countries/with_category/Australia.opml,InDaily,https://indaily.com.au/feed/,,403,False,
+countries/with_category/Australia.opml,KUSA - News,http://rssfeeds.9news.com/kusa/home&x=1,,,False,"HTTPConnectionPool(host='rssfeeds.9news.com', port=80): Max retries exceeded with url: /kusa/home&x=1 (Caused by NameResolutionError(""<urllib3.connection.HTTPConnection object at 0x7ed8f028f7d0>: Failed to resolve 'rssfeeds.9news.com' ([Errno -2] Name or service not known)""))"
+countries/with_category/Bangladesh.opml,bdnews24.com - Home,https://bdnews24.com/?widgetName=rssfeed&widgetId=1150&getXmlFeed=true,,403,False,
+countries/with_category/Bangladesh.opml,Bangla News,https://www.banglanews24.com/rss/rss.xml,,403,False,
+countries/with_category/Bangladesh.opml,jagonews24.com | rss Feed,https://www.jagonews24.com/rss/rss.xml,,403,False,
+countries/with_category/Bangladesh.opml,kalerkantho Kantho,https://www.kalerkantho.com/rss.xml,,403,False,
+countries/with_category/Brazil.opml,Portal EBC - RSS,http://www.ebc.com.br/rss/feed.xml,,404,False,
+countries/with_category/Brazil.opml,R7 - Notícias,https://noticias.r7.com/feed.xml,,404,False,
+countries/with_category/Canada.opml,CTVNews.ca - Top Stories - Public RSS,https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009,,404,False,
+countries/with_category/Germany.opml,FOCUS Online,https://rss.focus.de/fol/XML/rss_folnews.xml,,404,False,
+countries/with_category/Hong Kong SAR China.opml,香港新聞RSS - 香港經濟日報 hket.com,https://www.hket.com/rss/hongkong,,403,False,
+countries/with_category/India.opml,Home Page,https://www.business-standard.com/rss/home_page_top_stories.rss,,403,False,
+countries/with_category/India.opml,Outlook India,https://www.outlookindia.com/rss/main/magazine,,404,False,
+countries/with_category/India.opml,Moneycontrol Latest News,http://www.moneycontrol.com/rss/latestnews.xml,,403,False,
+countries/with_category/India.opml,The Financial Express,https://www.financialexpress.com/feed/,,410,False,
+countries/with_category/India.opml,"Marathi News: मराठी बातम्या,  Latest News in Marathi, Breaking Marathi News, Marathi News Paper | Maharashtra Times",https://maharashtratimes.com/rssfeedsdefault.cms,,404,False,
+countries/with_category/India.opml,Latest News program News18 Lokmat,https://lokmat.news18.com/rss/program.xml,,404,False,
+countries/with_category/India.opml,Navbharat Times,https://navbharattimes.indiatimes.com/rssfeedsdefault.cms,,404,False,
+countries/with_category/India.opml,Patrika : India's Leading Hindi News Portal,http://api.patrika.com/rss/india-news,,,False,"HTTPSConnectionPool(host='api.patrika.com', port=443): Read timed out. (read timeout=8)"
+countries/with_category/India.opml,JansattaJansatta,https://www.jansatta.com/feed/,,403,False,
+countries/with_category/Indonesia.opml,Tribunnews.com,https://www.tribunnews.com/rss,,403,False,
+countries/with_category/Indonesia.opml,Suara.com,https://www.suara.com/rss,,404,False,
+countries/with_category/Iran.opml,اخبار ایران و جهان,https://www.tasnimnews.com/fa/rss/feed/0/8/0/%D9%85%D9%87%D9%85%D8%AA%D8%B1%DB%8C%D9%86-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AA%D8%B3%D9%86%DB%8C%D9%85,,404,False,
+countries/with_category/Italy.opml,Fanpage,https://www.fanpage.it/feed/,,403,False,
+countries/with_category/Italy.opml,Adnkronos - ultimoratop,http://rss.adnkronos.com/RSS_PrimaPagina.xml,,,False,"HTTPSConnectionPool(host='www.adnkronos.com', port=443): Max retries exceeded with url: /RSS_PrimaPagina.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
+countries/with_category/Italy.opml,Il Post,https://www.ilpost.it/feed/,,403,False,
+countries/with_category/Japan.opml,Japan Today,https://japantoday.com/feed,,,False,"HTTPSConnectionPool(host='japantoday.com', port=443): Max retries exceeded with url: /feed (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ed8f3c3ade0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))"
+countries/with_category/Japan.opml,All - Kyodo News+,https://english.kyodonews.net/rss/all.xml,,404,False,
+countries/with_category/Mexico.opml,"Portada, El Siglo de Torreón",https://www.elsiglodetorreon.com.mx/index.xml,,403,False,
+countries/with_category/Mexico.opml,24 Horas,https://www.24-horas.mx/feed/,,403,False,
+countries/with_category/Mexico.opml,Tu Periódico Quequi,https://quequi.com.mx/feed/,,,False,"HTTPSConnectionPool(host='quequi.com.mx', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ed8f01e94f0>, 'Connection to quequi.com.mx timed out. (connect timeout=8)'))"
+countries/with_category/Mexico.opml,DEBATE,https://www.debate.com.mx/rss/feed.xml,,403,False,
+countries/with_category/Mexico.opml,El Diario,https://diario.mx/jrz/media/sitemaps/rss.xml,,,False,Exceeded 30 redirects.
+countries/with_category/Mexico.opml,,https://www.eluniversal.com.mx/seccion/1671/rss.xml,,404,False,
+countries/with_category/Myanmar (Burma).opml,DVB Multimedia Group,http://www.dvb.no/feed,,403,False,
+countries/with_category/Myanmar (Burma).opml,THIT HTOO LWIN (Daily News),http://www.thithtoolwin.com/feeds/posts/default,,404,False,
+countries/with_category/Nigeria.opml,All Content,http://saharareporters.com/feeds/latest/feed,,404,False,
+countries/with_category/Nigeria.opml,Information Nigeria,https://www.informationng.com/feed,,403,False,
+countries/with_category/Nigeria.opml,Tribune Online,http://tribuneonlineng.com/feed/,,403,False,
+countries/with_category/Philippines.opml,Latest News | Philippine Information Agency,https://pia.gov.ph/news/feed.rss,,403,False,
+countries/with_category/Philippines.opml,- The Manila Times,https://www.manilatimes.net/rssfeed/,,404,False,
+countries/with_category/Philippines.opml,https://www.sunstar.com.ph/,https://www.sunstar.com.ph/rssFeed/selected,,404,False,
+countries/with_category/Philippines.opml,PhilNews.XYZ,https://www.philnews.xyz/feeds/posts/default?alt=rss,,,False,"HTTPSConnectionPool(host='www.philnews.xyz', port=443): Max retries exceeded with url: /feeds/posts/default?alt=rss (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7ed8f3c9e3c0>: Failed to resolve 'www.philnews.xyz' ([Errno -3] Temporary failure in name resolution)""))"
+countries/with_category/Philippines.opml,UNBOX PH,https://www.unbox.ph/feed/,,403,False,
+countries/with_category/Philippines.opml,Tempo – The Nation's Fastest Growing Newspaper,http://tempo.com.ph/feed/,,523,False,
+countries/with_category/Philippines.opml,Latest News | Philippine News Agency,https://www.pna.gov.ph/latest.rss,,403,False,
+countries/with_category/Philippines.opml,BICOL STANDARD | Bicol News | Bicol Newspaper,http://www.bicolstandard.com/feeds/posts/default?alt=rss,,404,False,
+countries/with_category/Russia.opml,Вести.Ru,https://www.vesti.ru/vesti.rss,,404,False,
+countries/with_category/Russia.opml,Российская Газета,https://rg.ru/xml/index.xml,,404,False,
+countries/with_category/South Africa.opml,SowetanLIVE,https://www.sowetanlive.co.za/rss/?publication=sowetan-live,,404,False,
+countries/with_category/South Africa.opml,Eyewitness News | Latest News,https://ewn.co.za/RSS%20Feeds/Latest%20News,,404,False,
+countries/with_category/South Africa.opml,TimesLIVE,https://www.timeslive.co.za/rss/,,404,False,
+countries/with_category/Spain.opml,España,https://rss.elconfidencial.com/espana/,,404,False,
+countries/with_category/Ukraine.opml,ТЕЛЕГРАФ - последние новости Украины и мира,https://telegraf.com.ua/yandex-feed/,,404,False,
+countries/with_category/Ukraine.opml,Вести.ua,https://vesti.ua/feeds/partners,,,False,"HTTPSConnectionPool(host='vesti.ua', port=443): Max retries exceeded with url: /feeds/partners (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7ed8f00df5c0>: Failed to resolve 'vesti.ua' ([Errno -3] Temporary failure in name resolution)""))"
+countries/with_category/United States.opml,World,http://feeds.washingtonpost.com/rss/world,,,False,"HTTPConnectionPool(host='feeds.washingtonpost.com', port=80): Read timed out. (read timeout=8)"
+countries/with_category/United States.opml,US Top News and Analysis,https://www.cnbc.com/id/100003114/device/rss/rss.html,,404,False,
+countries/without_category/Australia.opml,InDaily,https://indaily.com.au/feed/,,403,False,
+countries/without_category/Australia.opml,KUSA - News,http://rssfeeds.9news.com/kusa/home&x=1,,,False,"HTTPConnectionPool(host='rssfeeds.9news.com', port=80): Max retries exceeded with url: /kusa/home&x=1 (Caused by NameResolutionError(""<urllib3.connection.HTTPConnection object at 0x7ed8f02d2720>: Failed to resolve 'rssfeeds.9news.com' ([Errno -2] Name or service not known)""))"
+countries/without_category/Bangladesh.opml,bdnews24.com - Home,https://bdnews24.com/?widgetName=rssfeed&widgetId=1150&getXmlFeed=true,,403,False,
+countries/without_category/Bangladesh.opml,Bangla News,https://www.banglanews24.com/rss/rss.xml,,403,False,
+countries/without_category/Bangladesh.opml,jagonews24.com | rss Feed,https://www.jagonews24.com/rss/rss.xml,,403,False,
+countries/without_category/Bangladesh.opml,kalerkantho Kantho,https://www.kalerkantho.com/rss.xml,,403,False,
+countries/without_category/Brazil.opml,Portal EBC - RSS,http://www.ebc.com.br/rss/feed.xml,,404,False,
+countries/without_category/Brazil.opml,R7 - Notícias,https://noticias.r7.com/feed.xml,,404,False,
+countries/without_category/Canada.opml,CTVNews.ca - Top Stories - Public RSS,https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009,,404,False,
+countries/without_category/Germany.opml,FOCUS Online,https://rss.focus.de/fol/XML/rss_folnews.xml,,404,False,
+countries/without_category/Hong Kong SAR China.opml,香港新聞RSS - 香港經濟日報 hket.com,https://www.hket.com/rss/hongkong,,403,False,
+countries/without_category/India.opml,Home Page,https://www.business-standard.com/rss/home_page_top_stories.rss,,403,False,
+countries/without_category/India.opml,Outlook India,https://www.outlookindia.com/rss/main/magazine,,404,False,
+countries/without_category/India.opml,Moneycontrol Latest News,http://www.moneycontrol.com/rss/latestnews.xml,,403,False,
+countries/without_category/India.opml,The Financial Express,https://www.financialexpress.com/feed/,,410,False,
+countries/without_category/India.opml,"Marathi News: मराठी बातम्या,  Latest News in Marathi, Breaking Marathi News, Marathi News Paper | Maharashtra Times",https://maharashtratimes.com/rssfeedsdefault.cms,,404,False,
+countries/without_category/India.opml,Latest News program News18 Lokmat,https://lokmat.news18.com/rss/program.xml,,404,False,
+countries/without_category/India.opml,Navbharat Times,https://navbharattimes.indiatimes.com/rssfeedsdefault.cms,,404,False,
+countries/without_category/India.opml,Patrika : India's Leading Hindi News Portal,http://api.patrika.com/rss/india-news,,,False,"HTTPSConnectionPool(host='api.patrika.com', port=443): Read timed out. (read timeout=8)"
+countries/without_category/India.opml,JansattaJansatta,https://www.jansatta.com/feed/,,403,False,
+countries/without_category/Indonesia.opml,Tribunnews.com,https://www.tribunnews.com/rss,,403,False,
+countries/without_category/Iran.opml,اخبار ایران و جهان,https://www.tasnimnews.com/fa/rss/feed/0/8/0/%D9%85%D9%87%D9%85%D8%AA%D8%B1%DB%8C%D9%86-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AA%D8%B3%D9%86%DB%8C%D9%85,,404,False,
+countries/without_category/Italy.opml,Fanpage,https://www.fanpage.it/feed/,,403,False,
+countries/without_category/Italy.opml,Adnkronos - ultimoratop,http://rss.adnkronos.com/RSS_PrimaPagina.xml,,,False,"HTTPSConnectionPool(host='www.adnkronos.com', port=443): Max retries exceeded with url: /RSS_PrimaPagina.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
+countries/without_category/Italy.opml,Il Post,https://www.ilpost.it/feed/,,403,False,
+countries/without_category/Japan.opml,Japan Today,https://japantoday.com/feed,,,False,"HTTPSConnectionPool(host='japantoday.com', port=443): Max retries exceeded with url: /feed (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ed8f3ccf860>: Failed to establish a new connection: [Errno 101] Network is unreachable'))"
+countries/without_category/Japan.opml,All - Kyodo News+,https://english.kyodonews.net/rss/all.xml,,404,False,
+countries/without_category/Mexico.opml,"Portada, El Siglo de Torreón",https://www.elsiglodetorreon.com.mx/index.xml,,403,False,
+countries/without_category/Mexico.opml,24 Horas,https://www.24-horas.mx/feed/,,403,False,
+countries/without_category/Mexico.opml,Tu Periódico Quequi,https://quequi.com.mx/feed/,,,False,"HTTPSConnectionPool(host='quequi.com.mx', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ed8f3ce7c20>, 'Connection to quequi.com.mx timed out. (connect timeout=8)'))"
+countries/without_category/Mexico.opml,DEBATE,https://www.debate.com.mx/rss/feed.xml,,403,False,
+countries/without_category/Mexico.opml,El Diario,https://diario.mx/jrz/media/sitemaps/rss.xml,,,False,Exceeded 30 redirects.
+countries/without_category/Mexico.opml,,https://www.eluniversal.com.mx/seccion/1671/rss.xml,,404,False,
+countries/without_category/Myanmar (Burma).opml,DVB Multimedia Group,http://www.dvb.no/feed,,403,False,
+countries/without_category/Myanmar (Burma).opml,THIT HTOO LWIN (Daily News),http://www.thithtoolwin.com/feeds/posts/default,,404,False,
+countries/without_category/Nigeria.opml,All Content,http://saharareporters.com/feeds/latest/feed,,404,False,
+countries/without_category/Nigeria.opml,Information Nigeria,https://www.informationng.com/feed,,403,False,
+countries/without_category/Nigeria.opml,Tribune Online,http://tribuneonlineng.com/feed/,,403,False,
+countries/without_category/Philippines.opml,Latest News | Philippine Information Agency,https://pia.gov.ph/news/feed.rss,,403,False,
+countries/without_category/Philippines.opml,- The Manila Times,https://www.manilatimes.net/rssfeed/,,404,False,
+countries/without_category/Philippines.opml,https://www.sunstar.com.ph/,https://www.sunstar.com.ph/rssFeed/selected,,404,False,
+countries/without_category/Philippines.opml,PhilNews.XYZ,https://www.philnews.xyz/feeds/posts/default?alt=rss,,,False,"HTTPSConnectionPool(host='www.philnews.xyz', port=443): Max retries exceeded with url: /feeds/posts/default?alt=rss (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7ed8f028fce0>: Failed to resolve 'www.philnews.xyz' ([Errno -3] Temporary failure in name resolution)""))"
+countries/without_category/Philippines.opml,UNBOX PH,https://www.unbox.ph/feed/,,403,False,
+countries/without_category/Philippines.opml,Tempo – The Nation's Fastest Growing Newspaper,http://tempo.com.ph/feed/,,523,False,
+countries/without_category/Philippines.opml,Latest News | Philippine News Agency,https://www.pna.gov.ph/latest.rss,,403,False,
+countries/without_category/Philippines.opml,BICOL STANDARD | Bicol News | Bicol Newspaper,http://www.bicolstandard.com/feeds/posts/default?alt=rss,,404,False,
+countries/without_category/Russia.opml,Вести.Ru,https://www.vesti.ru/vesti.rss,,404,False,
+countries/without_category/Russia.opml,Российская Газета,https://rg.ru/xml/index.xml,,404,False,
+countries/without_category/South Africa.opml,SowetanLIVE,https://www.sowetanlive.co.za/rss/?publication=sowetan-live,,404,False,
+countries/without_category/South Africa.opml,Eyewitness News | Latest News,https://ewn.co.za/RSS%20Feeds/Latest%20News,,404,False,
+countries/without_category/South Africa.opml,TimesLIVE,https://www.timeslive.co.za/rss/,,404,False,
+countries/without_category/Spain.opml,España,https://rss.elconfidencial.com/espana/,,404,False,
+countries/without_category/Ukraine.opml,ТЕЛЕГРАФ - последние новости Украины и мира,https://telegraf.com.ua/yandex-feed/,,404,False,
+countries/without_category/Ukraine.opml,Вести.ua,https://vesti.ua/feeds/partners,,,False,"HTTPSConnectionPool(host='vesti.ua', port=443): Max retries exceeded with url: /feeds/partners (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7ed8f3c460f0>: Failed to resolve 'vesti.ua' ([Errno -3] Temporary failure in name resolution)""))"
+countries/without_category/United States.opml,World,http://feeds.washingtonpost.com/rss/world,,,False,"HTTPConnectionPool(host='feeds.washingtonpost.com', port=80): Read timed out. (read timeout=8)"
+countries/without_category/United States.opml,US Top News and Analysis,https://www.cnbc.com/id/100003114/device/rss/rss.html,,404,False,
+recommended/with_category/Android Development.opml,Android Weekly Archive Feed,https://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19,,404,False,
+recommended/with_category/Android Development.opml,Android in Instagram Engineering on Medium,https://instagram-engineering.com/feed/tagged/android,,,False,"HTTPSConnectionPool(host='instagram-engineering.com', port=443): Max retries exceeded with url: /feed/tagged/android (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+recommended/with_category/Android Development.opml,ProAndroidDev - Medium,https://proandroiddev.com/feed,,,False,"HTTPSConnectionPool(host='proandroiddev.com', port=443): Max retries exceeded with url: /feed (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+recommended/with_category/Android Development.opml,Styling Android,http://feeds.feedburner.com/StylingAndroid,,404,False,
+recommended/with_category/Android Development.opml,Talking Kotlin,https://feeds.soundcloud.com/users/soundcloud:users:280353173/sounds.rss,,403,False,
+recommended/with_category/Android Development.opml,droidcon NYC,https://www.youtube.com/feeds/videos.xml?channel_id=UCSLXy31j2Z0sdDeeAX5JpPw,,404,False,
+recommended/with_category/Android.opml,AndroidGuys,https://www.androidguys.com/feed,,403,False,
+recommended/with_category/Android.opml,xda-developers,https://data.xda-developers.com/portal-feed,,,False,"HTTPSConnectionPool(host='data.xda-developers.com', port=443): Max retries exceeded with url: /portal-feed (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7ed8f0324ef0>: Failed to resolve 'data.xda-developers.com' ([Errno -2] Name or service not known)""))"
+recommended/with_category/Architecture.opml,Archinect - News,https://archinect.com/feed/1/news,,403,False,
+recommended/with_category/Architecture.opml,Comments on:,https://inhabitat.com/architecture/feed/,,403,False,
+recommended/with_category/Architecture.opml,The Architect’s Newspaper,https://archpaper.com/feed,,403,False,
+recommended/with_category/Beauty.opml,Beauty – Indian Fashion Blog,https://www.fashionlady.in/category/beauty-tips/feed,,403,False,
+recommended/with_category/Beauty.opml,DORÉ,https://www.wearedore.com/feed,,404,False,
+recommended/with_category/Beauty.opml,THE YESSTYLIST – Asian Fashion Blog – brought to you by YesStyle.com,https://www.yesstyle.com/blog/category/the-beauty-blog/feed/,,403,False,
+recommended/with_category/Business & Economy.opml,Home Page,https://www.business-standard.com/rss/home_page_top_stories.rss,,403,False,
+recommended/with_category/Business & Economy.opml,US Top News and Analysis,https://www.cnbc.com/id/100003114/device/rss/rss.html,,404,False,
+recommended/with_category/Cars.opml,Autoblog,https://www.autoblog.com/rss.xml,,403,False,
+recommended/with_category/Cricket.opml,Cricket – The Roar,https://www.theroar.com.au/cricket/feed/,,403,False,
+recommended/with_category/Cricket.opml,The Grade Cricketer,https://rss.whooshkaa.com/rss/podcast/id/1308,,,False,"HTTPSConnectionPool(host='rss.whooshkaa.com', port=443): Max retries exceeded with url: /rss/podcast/id/1308 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7ed8f3c5f530>: Failed to resolve 'rss.whooshkaa.com' ([Errno -5] No address associated with hostname)""))"
+recommended/with_category/Cricket.opml,Wisden Cricket Weekly,http://feeds.soundcloud.com/users/soundcloud:users:341034518/sounds.rss,,403,False,
+recommended/with_category/DIY.opml,"Apartment Therapy| Saving the world, one room at a time",https://www.apartmenttherapy.com/projects.rss,,403,False,
+recommended/with_category/DIY.opml,Etsy Journal,https://blog.etsy.com/en/feed/,,403,False,
+recommended/with_category/Fashion.opml,Fashion – Indian Fashion Blog,https://www.fashionlady.in/category/fashion/feed,,403,False,
+recommended/with_category/Fashion.opml,THE YESSTYLIST – Asian Fashion Blog – brought to you by YesStyle.com,https://www.yesstyle.com/blog/category/trend-and-style/feed/,,403,False,
+recommended/with_category/Food.opml,Williams-Sonoma Taste,https://blog.williams-sonoma.com/feed/,,,False,"HTTPSConnectionPool(host='blog.williams-sonoma.com', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
+recommended/with_category/Football.opml,"Football News, Live Scores, Results &amp; Transfers | Goal.com",https://www.goal.com/feeds/en/news,,404,False,
+recommended/with_category/Football.opml,Football365,https://www.football365.com/feed,,404,False,
+recommended/with_category/Gaming.opml,"TouchArcade - iPhone, iPad, Android Games Forum",https://toucharcade.com/community/forums/-/index.rss,,403,False,
+recommended/with_category/History.opml,Blog Feed,https://americanhistory.si.edu/blog/feed,,,False,"HTTPSConnectionPool(host='americanhistory.si.edu', port=443): Max retries exceeded with url: /blog/feed (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+recommended/with_category/History.opml,Lore,https://feeds.megaphone.fm/lore,,404,False,
+recommended/with_category/History.opml,Revisionist History,https://feeds.megaphone.fm/revisionisthistory,,404,False,
+recommended/with_category/Interior design.opml,"Apartment Therapy| Saving the world, one room at a time",https://www.apartmenttherapy.com/design.rss,,403,False,
+recommended/with_category/Interior design.opml,"Inhabitat - Green Design, Innovation, Architecture, Green Building",https://inhabitat.com/design/feed/,,403,False,
+recommended/with_category/Interior design.opml,Interiors – Dezeen,https://www.dezeen.com/interiors/feed/,,,False,"HTTPSConnectionPool(host='www.dezeen.com', port=443): Read timed out. (read timeout=8)"
+recommended/with_category/Interior design.opml,Yatzer RSS Feed,https://www.yatzer.com/rss.xml,,404,False,
+recommended/with_category/Interior design.opml,sfgirlbybay,https://www.sfgirlbybay.com/feed/,,400,False,
+recommended/with_category/Movies.opml,Film School Rejects,https://filmschoolrejects.com/feed/,,,False,"HTTPSConnectionPool(host='filmschoolrejects.com', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)')))"
+recommended/with_category/Movies.opml,The A.V. Club,https://film.avclub.com/rss,,,False,"HTTPSConnectionPool(host='film.avclub.com', port=443): Max retries exceeded with url: /rss (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7ed8f035a870>: Failed to resolve 'film.avclub.com' ([Errno -2] Name or service not known)""))"
+recommended/with_category/Music.opml,Billboard,https://www.billboard.com/articles/rss.xml,,404,False,
+recommended/with_category/Music.opml,"EDM.com - The Latest Electronic Dance Music News, Reviews & Artists",https://edm.com/.rss/full/,,403,False,
+recommended/with_category/Music.opml,Your EDM,https://www.youredm.com/feed,,503,False,
+recommended/with_category/News.opml,International: Top News And Analysis,https://www.cnbc.com/id/100727362/device/rss/rss.html,,404,False,
+recommended/with_category/News.opml,World,http://feeds.washingtonpost.com/rss/world,,,False,"HTTPConnectionPool(host='feeds.washingtonpost.com', port=80): Read timed out. (read timeout=8)"
+recommended/with_category/News.opml,Yahoo News - Latest News & Headlines,https://www.yahoo.com/news/rss,,404,False,
+recommended/with_category/Personal finance.opml,Get Rich Slowly,https://www.getrichslowly.org/feed/,,403,False,
+recommended/with_category/Personal finance.opml,Making Sense Of Cents,https://www.makingsenseofcents.com/feed,,403,False,
+recommended/with_category/Personal finance.opml,Money Under 30,https://www.moneyunder30.com/feed,,403,False,
+recommended/with_category/Photography.opml,500px:,https://500px.com/editors.rss,,404,False,
+recommended/with_category/Photography.opml,"Canon Rumors – Your best source for Canon rumors, leaks and gossip",https://www.canonrumors.com/feed/,,403,False,
+recommended/with_category/Programming.opml,Complete Developer Podcast,https://completedeveloperpodcast.com/feed/podcast/,,,False,"HTTPSConnectionPool(host='completedeveloperpodcast.com', port=443): Max retries exceeded with url: /feed/podcast/ (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7ed8f4a7e030>: Failed to resolve 'completedeveloperpodcast.com' ([Errno -5] No address associated with hostname)""))"
+recommended/with_category/Programming.opml,English (US),https://blog.twitter.com/engineering/en_us/blog.rss,,403,False,
+recommended/with_category/Programming.opml,Instagram Engineering - Medium,https://instagram-engineering.com/feed/,,,False,"HTTPSConnectionPool(host='instagram-engineering.com', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+recommended/with_category/Programming.opml,Netflix TechBlog - Medium,https://netflixtechblog.com/feed,,,False,"HTTPSConnectionPool(host='netflixtechblog.com', port=443): Max retries exceeded with url: /feed (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+recommended/with_category/Programming.opml,Prezi Engineering - Medium,https://engineering.prezi.com/feed,,,False,"HTTPSConnectionPool(host='engineering.prezi.com', port=443): Max retries exceeded with url: /feed (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+recommended/with_category/Programming.opml,The Rabbit Hole: The Definitive Developer's Podcast,http://therabbithole.libsyn.com/rss,,404,False,
+recommended/with_category/Programming.opml,The Standup,https://feeds.fireside.fm/standup/rss,,404,False,
+recommended/with_category/Science.opml,Science Vs,http://feeds.gimletmedia.com/ScienceVs,,,False,"HTTPConnectionPool(host='feeds.gimletmedia.com', port=80): Max retries exceeded with url: /ScienceVs (Caused by NameResolutionError(""<urllib3.connection.HTTPConnection object at 0x7ed8f3c3b440>: Failed to resolve 'feeds.gimletmedia.com' ([Errno -2] Name or service not known)""))"
+recommended/with_category/Sports.opml,Sportskeeda,https://www.sportskeeda.com/feed,,405,False,
+recommended/with_category/Startups.opml,Both Sides of the Table - Medium,https://bothsidesofthetable.com/feed,,,False,"HTTPSConnectionPool(host='bothsidesofthetable.com', port=443): Max retries exceeded with url: /feed (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+recommended/with_category/Startups.opml,Forbes - Entrepreneurs,https://www.forbes.com/entrepreneurs/feed/,,404,False,
+recommended/with_category/Startups.opml,Springwise,https://www.springwise.com/feed,,403,False,
+recommended/with_category/Television.opml,TV Fanatic,https://www.tvfanatic.com/rss.xml,,403,False,
+recommended/with_category/Television.opml,The A.V. Club,https://tv.avclub.com/rss,,404,False,
+recommended/with_category/Tennis.opml,Tennis - ATP World Tour,https://www.atptour.com/en/media/rss-feed/xml-feed,,403,False,
+recommended/with_category/Tennis.opml,peRFect Tennis,https://www.perfect-tennis.com/feed/,,403,False,
+recommended/with_category/Travel.opml,Lonely Planet Travel News,https://www.lonelyplanet.com/news/feed/atom/,,404,False,
+recommended/with_category/UI - UX.opml,Designer News Feed,https://www.designernews.co/?format=rss,,,False,"HTTPSConnectionPool(host='www.designernews.co', port=443): Max retries exceeded with url: /?format=rss (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ed8f03953a0>, 'Connection to www.designernews.co timed out. (connect timeout=8)'))"
+recommended/with_category/UI - UX.opml,UX Blog – UX Studio,https://uxstudioteam.com/ux-blog/feed/,,404,False,
+recommended/with_category/iOS Development.opml,ALL SHOWS - Devchat.tv,https://feeds.feedwrench.com/all-shows-devchattv.rss,,,False,"HTTPSConnectionPool(host='feeds.feedwrench.com', port=443): Max retries exceeded with url: /all-shows-devchattv.rss (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ed8f3ccdb50>, 'Connection to feeds.feedwrench.com timed out. (connect timeout=8)'))"
+recommended/with_category/iOS Development.opml,"More Than Just Code podcast - iOS and Swift development, news and advice",https://feeds.fireside.fm/mtjc/rss,,404,False,
+recommended/with_category/iOS Development.opml,Pavel Zak’s dev blog,https://nerdyak.tech/feed.xml,,404,False,
+recommended/without_category/Android Development.opml,Android Weekly Archive Feed,https://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19,,404,False,
+recommended/without_category/Android Development.opml,Android in Instagram Engineering on Medium,https://instagram-engineering.com/feed/tagged/android,,,False,"HTTPSConnectionPool(host='instagram-engineering.com', port=443): Max retries exceeded with url: /feed/tagged/android (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+recommended/without_category/Android Development.opml,ProAndroidDev - Medium,https://proandroiddev.com/feed,,,False,"HTTPSConnectionPool(host='proandroiddev.com', port=443): Max retries exceeded with url: /feed (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+recommended/without_category/Android Development.opml,Styling Android,http://feeds.feedburner.com/StylingAndroid,,404,False,
+recommended/without_category/Android Development.opml,Talking Kotlin,https://feeds.soundcloud.com/users/soundcloud:users:280353173/sounds.rss,,403,False,
+recommended/without_category/Android Development.opml,droidcon NYC,https://www.youtube.com/feeds/videos.xml?channel_id=UCSLXy31j2Z0sdDeeAX5JpPw,,404,False,
+recommended/without_category/Android.opml,AndroidGuys,https://www.androidguys.com/feed,,403,False,
+recommended/without_category/Android.opml,xda-developers,https://data.xda-developers.com/portal-feed,,,False,"HTTPSConnectionPool(host='data.xda-developers.com', port=443): Max retries exceeded with url: /portal-feed (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7ed8f3c9d280>: Failed to resolve 'data.xda-developers.com' ([Errno -2] Name or service not known)""))"
+recommended/without_category/Architecture.opml,Archinect - News,https://archinect.com/feed/1/news,,403,False,
+recommended/without_category/Architecture.opml,Comments on:,https://inhabitat.com/architecture/feed/,,403,False,
+recommended/without_category/Architecture.opml,The Architect’s Newspaper,https://archpaper.com/feed,,403,False,
+recommended/without_category/Beauty.opml,Beauty – Indian Fashion Blog,https://www.fashionlady.in/category/beauty-tips/feed,,403,False,
+recommended/without_category/Beauty.opml,DORÉ,https://www.wearedore.com/feed,,404,False,
+recommended/without_category/Beauty.opml,THE YESSTYLIST – Asian Fashion Blog – brought to you by YesStyle.com,https://www.yesstyle.com/blog/category/the-beauty-blog/feed/,,403,False,
+recommended/without_category/Business & Economy.opml,Home Page,https://www.business-standard.com/rss/home_page_top_stories.rss,,403,False,
+recommended/without_category/Business & Economy.opml,US Top News and Analysis,https://www.cnbc.com/id/100003114/device/rss/rss.html,,404,False,
+recommended/without_category/Cars.opml,Autoblog,https://www.autoblog.com/rss.xml,,403,False,
+recommended/without_category/Cricket.opml,Cricket – The Roar,https://www.theroar.com.au/cricket/feed/,,403,False,
+recommended/without_category/Cricket.opml,The Grade Cricketer,https://rss.whooshkaa.com/rss/podcast/id/1308,,,False,"HTTPSConnectionPool(host='rss.whooshkaa.com', port=443): Max retries exceeded with url: /rss/podcast/id/1308 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7ed8f0202600>: Failed to resolve 'rss.whooshkaa.com' ([Errno -5] No address associated with hostname)""))"
+recommended/without_category/Cricket.opml,Wisden Cricket Weekly,http://feeds.soundcloud.com/users/soundcloud:users:341034518/sounds.rss,,403,False,
+recommended/without_category/DIY.opml,"Apartment Therapy| Saving the world, one room at a time",https://www.apartmenttherapy.com/projects.rss,,403,False,
+recommended/without_category/DIY.opml,Etsy Journal,https://blog.etsy.com/en/feed/,,403,False,
+recommended/without_category/Fashion.opml,Fashion – Indian Fashion Blog,https://www.fashionlady.in/category/fashion/feed,,403,False,
+recommended/without_category/Fashion.opml,THE YESSTYLIST – Asian Fashion Blog – brought to you by YesStyle.com,https://www.yesstyle.com/blog/category/trend-and-style/feed/,,403,False,
+recommended/without_category/Food.opml,Williams-Sonoma Taste,https://blog.williams-sonoma.com/feed/,,,False,"HTTPSConnectionPool(host='blog.williams-sonoma.com', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
+recommended/without_category/Football.opml,"Football News, Live Scores, Results &amp; Transfers | Goal.com",https://www.goal.com/feeds/en/news,,404,False,
+recommended/without_category/Football.opml,Football365,https://www.football365.com/feed,,404,False,
+recommended/without_category/Gaming.opml,"TouchArcade - iPhone, iPad, Android Games Forum",https://toucharcade.com/community/forums/-/index.rss,,403,False,
+recommended/without_category/History.opml,Blog Feed,https://americanhistory.si.edu/blog/feed,,,False,"HTTPSConnectionPool(host='americanhistory.si.edu', port=443): Max retries exceeded with url: /blog/feed (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+recommended/without_category/History.opml,Lore,https://feeds.megaphone.fm/lore,,404,False,
+recommended/without_category/History.opml,Revisionist History,https://feeds.megaphone.fm/revisionisthistory,,404,False,
+recommended/without_category/Interior design.opml,"Apartment Therapy| Saving the world, one room at a time",https://www.apartmenttherapy.com/design.rss,,403,False,
+recommended/without_category/Interior design.opml,"Inhabitat - Green Design, Innovation, Architecture, Green Building",https://inhabitat.com/design/feed/,,403,False,
+recommended/without_category/Interior design.opml,Yatzer RSS Feed,https://www.yatzer.com/rss.xml,,404,False,
+recommended/without_category/Interior design.opml,sfgirlbybay,https://www.sfgirlbybay.com/feed/,,400,False,
+recommended/without_category/Movies.opml,Film School Rejects,https://filmschoolrejects.com/feed/,,,False,"HTTPSConnectionPool(host='filmschoolrejects.com', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)')))"
+recommended/without_category/Movies.opml,The A.V. Club,https://film.avclub.com/rss,,,False,"HTTPSConnectionPool(host='film.avclub.com', port=443): Max retries exceeded with url: /rss (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7ed8f00ddf70>: Failed to resolve 'film.avclub.com' ([Errno -2] Name or service not known)""))"
+recommended/without_category/Music.opml,Billboard,https://www.billboard.com/articles/rss.xml,,404,False,
+recommended/without_category/Music.opml,"EDM.com - The Latest Electronic Dance Music News, Reviews & Artists",https://edm.com/.rss/full/,,403,False,
+recommended/without_category/Music.opml,Your EDM,https://www.youredm.com/feed,,503,False,
+recommended/without_category/News.opml,International: Top News And Analysis,https://www.cnbc.com/id/100727362/device/rss/rss.html,,404,False,
+recommended/without_category/News.opml,World,http://feeds.washingtonpost.com/rss/world,,,False,"HTTPConnectionPool(host='feeds.washingtonpost.com', port=80): Read timed out. (read timeout=8)"
+recommended/without_category/News.opml,Yahoo News - Latest News & Headlines,https://www.yahoo.com/news/rss,,404,False,
+recommended/without_category/Personal finance.opml,Get Rich Slowly,https://www.getrichslowly.org/feed/,,403,False,
+recommended/without_category/Personal finance.opml,Making Sense Of Cents,https://www.makingsenseofcents.com/feed,,403,False,
+recommended/without_category/Personal finance.opml,Money Under 30,https://www.moneyunder30.com/feed,,403,False,
+recommended/without_category/Photography.opml,500px:,https://500px.com/editors.rss,,404,False,
+recommended/without_category/Photography.opml,"Canon Rumors – Your best source for Canon rumors, leaks and gossip",https://www.canonrumors.com/feed/,,403,False,
+recommended/without_category/Programming.opml,Complete Developer Podcast,https://completedeveloperpodcast.com/feed/podcast/,,,False,"HTTPSConnectionPool(host='completedeveloperpodcast.com', port=443): Max retries exceeded with url: /feed/podcast/ (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7ed8f01ebef0>: Failed to resolve 'completedeveloperpodcast.com' ([Errno -5] No address associated with hostname)""))"
+recommended/without_category/Programming.opml,English (US),https://blog.twitter.com/engineering/en_us/blog.rss,,403,False,
+recommended/without_category/Programming.opml,Instagram Engineering - Medium,https://instagram-engineering.com/feed/,,,False,"HTTPSConnectionPool(host='instagram-engineering.com', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+recommended/without_category/Programming.opml,Netflix TechBlog - Medium,https://netflixtechblog.com/feed,,,False,"HTTPSConnectionPool(host='netflixtechblog.com', port=443): Max retries exceeded with url: /feed (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+recommended/without_category/Programming.opml,Prezi Engineering - Medium,https://engineering.prezi.com/feed,,,False,"HTTPSConnectionPool(host='engineering.prezi.com', port=443): Max retries exceeded with url: /feed (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+recommended/without_category/Programming.opml,The Rabbit Hole: The Definitive Developer's Podcast,http://therabbithole.libsyn.com/rss,,404,False,
+recommended/without_category/Programming.opml,The Standup,https://feeds.fireside.fm/standup/rss,,404,False,
+recommended/without_category/Science.opml,Science Vs,http://feeds.gimletmedia.com/ScienceVs,,,False,"HTTPConnectionPool(host='feeds.gimletmedia.com', port=80): Max retries exceeded with url: /ScienceVs (Caused by NameResolutionError(""<urllib3.connection.HTTPConnection object at 0x7ed8f030bfb0>: Failed to resolve 'feeds.gimletmedia.com' ([Errno -2] Name or service not known)""))"
+recommended/without_category/Sports.opml,Sportskeeda,https://www.sportskeeda.com/feed,,405,False,
+recommended/without_category/Startups.opml,Both Sides of the Table - Medium,https://bothsidesofthetable.com/feed,,,False,"HTTPSConnectionPool(host='bothsidesofthetable.com', port=443): Max retries exceeded with url: /feed (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+recommended/without_category/Startups.opml,Forbes - Entrepreneurs,https://www.forbes.com/entrepreneurs/feed/,,404,False,
+recommended/without_category/Startups.opml,Springwise,https://www.springwise.com/feed,,403,False,
+recommended/without_category/Television.opml,TV Fanatic,https://www.tvfanatic.com/rss.xml,,403,False,
+recommended/without_category/Television.opml,The A.V. Club,https://tv.avclub.com/rss,,404,False,
+recommended/without_category/Tennis.opml,Tennis - ATP World Tour,https://www.atptour.com/en/media/rss-feed/xml-feed,,403,False,
+recommended/without_category/Tennis.opml,peRFect Tennis,https://www.perfect-tennis.com/feed/,,403,False,
+recommended/without_category/Travel.opml,Lonely Planet Travel News,https://www.lonelyplanet.com/news/feed/atom/,,404,False,
+recommended/without_category/UI - UX.opml,Designer News Feed,https://www.designernews.co/?format=rss,,,False,"HTTPSConnectionPool(host='www.designernews.co', port=443): Max retries exceeded with url: /?format=rss (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ed8f3c9f5c0>, 'Connection to www.designernews.co timed out. (connect timeout=8)'))"
+recommended/without_category/UI - UX.opml,UX Blog – UX Studio,https://uxstudioteam.com/ux-blog/feed/,,404,False,
+recommended/without_category/iOS Development.opml,ALL SHOWS - Devchat.tv,https://feeds.feedwrench.com/all-shows-devchattv.rss,,,False,"HTTPSConnectionPool(host='feeds.feedwrench.com', port=443): Max retries exceeded with url: /all-shows-devchattv.rss (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ed8f021da00>, 'Connection to feeds.feedwrench.com timed out. (connect timeout=8)'))"
+recommended/without_category/iOS Development.opml,"More Than Just Code podcast - iOS and Swift development, news and advice",https://feeds.fireside.fm/mtjc/rss,,404,False,
+recommended/without_category/iOS Development.opml,Pavel Zak’s dev blog,https://nerdyak.tech/feed.xml,,404,False,

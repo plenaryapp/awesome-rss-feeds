@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="All News" title="All News" description="" xmlUrl="https://www.investing.com/rss/news.rss" type="rss" />
+		<outline text="Bloomberg Quicktake" title="Bloomberg Quicktake" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Bloomberg" type="rss" />
+		<outline text="Breaking News on Seeking Alpha" title="Breaking News on Seeking Alpha" description="© seekingalpha.com. Use of this feed is limited to personal, non-commercial use and is governed by Seeking Alpha's Terms of Use (https://seekingalpha.com/page/terms-of-use). Publishing this feed for public or commercial use and/or misrepresentation by a third party is prohibited." xmlUrl="https://seekingalpha.com/market_currents.xml" type="rss" />
+		<outline text="Business Insider" title="Business Insider" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=businessinsider" type="rss" />
+		<outline text="Duct Tape Marketing" title="Duct Tape Marketing" description="Interviews with authors, experts and thought leaders sharing business marketing tips, tactics and resources hosted by one America's leading small business marketing experts - John Jantsch" xmlUrl="https://ducttape.libsyn.com/rss" type="rss" />
+		<outline text="Economic Times" title="Economic Times" description="The Economic Times: Latest business, finance, markets, stocks, company news from India." xmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" type="rss" />
+		<outline text="Forbes - Business" title="Forbes - Business" description="Forbes - Business" xmlUrl="https://www.forbes.com/business/feed/" type="rss" />
+		<outline text="Fortune" title="Fortune" description="Fortune 500 Daily & Breaking Business News" xmlUrl="https://fortune.com/feed" type="rss" />
+		<outline text="HBR IdeaCast" title="HBR IdeaCast" description="A weekly podcast featuring the leading thinkers in business and management." xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness/ideacast" type="rss" />
+		<outline text="Home Page" title="Home Page" description="Business News: Get latest stock share market news, financial news, economy news, company news, politics news, India news, breaking news, Indian economy news at Business Standard. Catch Nifty Sensex Live updates." xmlUrl="https://www.business-standard.com/rss/home_page_top_stories.rss" type="rss" />
+		<outline text="How I Built This with Guy Raz" title="How I Built This with Guy Raz" description="Guy Raz dives into the stories behind some of the world's best known companies. <em>How I Built This</em> weaves a narrative journey about innovators, entrepreneurs and idealists—and the movements they built. Order the <em data-stringify-type="italic">How I Built This</em> book at https://www.guyraz.com/" xmlUrl="https://feeds.npr.org/510313/podcast.xml" type="rss" />
+		<outline text="Startup Stories - Mixergy" title="Startup Stories - Mixergy" description="Business tips for startups by proven entrepreneurs" xmlUrl="https://feeds.feedburner.com/Mixergy-main-podcast" type="rss" />
+		<outline text="The Blog of Author Tim Ferriss" title="The Blog of Author Tim Ferriss" description="Tim Ferriss's 4-Hour Workweek and Lifestyle Design Blog. Tim is an author of 5 #1 NYT/WSJ bestsellers, investor (FB, Uber, Twitter, 50+ more), and host of The Tim Ferriss Show podcast (400M+ downloads)" xmlUrl="https://tim.blog/feed/" type="rss" />
+		<outline text="The Growth Show" title="The Growth Show" description="It’s never been easier to start a business, but it’s even harder to succeed. Each episode explores the inspiring stories behind how people grow a business, an idea, or a movement." xmlUrl="http://thegrowthshow.hubspot.libsynpro.com/" type="rss" />
+		<outline text="US Top News and Analysis" title="US Top News and Analysis" description="CNBC is the world leader in business news and real-time financial market coverage. Find fast, actionable information." xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" type="rss" />
+		<outline text="Yahoo Finance" title="Yahoo Finance" description="At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life." xmlUrl="https://finance.yahoo.com/news/rssindex" type="rss" />
+	</body>
+</opml>

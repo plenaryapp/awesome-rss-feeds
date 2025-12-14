@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="101 Cookbooks" title="101 Cookbooks" description="When you own over 100 cookbooks, it is time to stop buying, and start cooking. This site chronicles a cookbook collection, one recipe at a time." xmlUrl="https://www.101cookbooks.com/feed" type="rss" />
+		<outline text="Babish Culinary Universe" title="Babish Culinary Universe" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=bgfilms" type="rss" />
+		<outline text="Bon Appétit" title="Bon Appétit" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=BonAppetitDotCom" type="rss" />
+		<outline text="Chocolate & Zucchini" title="Chocolate & Zucchini" description="Simple Recipes from my Paris Kitchen" xmlUrl="https://cnz.to/feed/" type="rss" />
+		<outline text="David Lebovitz" title="David Lebovitz" description="Baking and cooking recipes for everyone" xmlUrl="https://www.davidlebovitz.com/feed/" type="rss" />
+		<outline text="Food52" title="Food52" description="Eat thoughtfully, live joyfully." xmlUrl="http://feeds.feedburner.com/food52-TheAandMBlog" type="rss" />
+		<outline text="Green Kitchen Stories" title="Green Kitchen Stories" description="Healthy Vegetarian Recipes." xmlUrl="https://greenkitchenstories.com/feed/" type="rss" />
+		<outline text="How Sweet Eats" title="How Sweet Eats" description="For people who, like, totally love food." xmlUrl="https://www.howsweeteats.com/feed/" type="rss" />
+		<outline text="Joy the Baker" title="Joy the Baker" description="" xmlUrl="http://joythebaker.com/feed/" type="rss" />
+		<outline text="Kitchn | Inspiring cooks, nourishing homes" title="Kitchn | Inspiring cooks, nourishing homes" description="Inspiring cooks, nourishing homes" xmlUrl="https://www.thekitchn.com/main.rss" type="rss" />
+		<outline text="Laura in the Kitchen" title="Laura in the Kitchen" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=LauraVitalesKitchen" type="rss" />
+		<outline text="Love and Olive Oil" title="Love and Olive Oil" description="Eat to Live. Cook to Love." xmlUrl="https://www.loveandoliveoil.com/feed" type="rss" />
+		<outline text="NYT > Food" title="NYT > Food" description="" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml" type="rss" />
+		<outline text="Oh She Glows" title="Oh She Glows" description="Vegan Recipes to Glow From The Inside Out" xmlUrl="https://ohsheglows.com/feed/" type="rss" />
+		<outline text="Serious Eats" title="Serious Eats" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=SeriousEats" type="rss" />
+		<outline text="Serious Eats: Recipes" title="Serious Eats: Recipes" description="Our Favorite Recipes, Curated and Collected" xmlUrl="http://feeds.feedburner.com/seriouseats/recipes" type="rss" />
+		<outline text="Shutterbean" title="Shutterbean" description="food, photography & inspiration" xmlUrl="http://www.shutterbean.com/feed/" type="rss" />
+		<outline text="Skinnytaste" title="Skinnytaste" description="Delicious Healthy Recipes Made with Real Food" xmlUrl="https://www.skinnytaste.com/feed/" type="rss" />
+		<outline text="Sprouted Kitchen" title="Sprouted Kitchen" description="" xmlUrl="https://www.sproutedkitchen.com/home?format=rss" type="rss" />
+		<outline text="Williams-Sonoma Taste" title="Williams-Sonoma Taste" description="" xmlUrl="https://blog.williams-sonoma.com/feed/" type="rss" />
+		<outline text="smitten kitchen" title="smitten kitchen" description="Fearless cooking from a tiny NYC kitchen." xmlUrl="http://feeds.feedburner.com/smittenkitchen" type="rss" />
+	</body>
+</opml>

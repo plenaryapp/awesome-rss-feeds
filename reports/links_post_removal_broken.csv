@@ -1,0 +1,16 @@
+opml_file,title,xmlUrl,htmlUrl,status_code,ok,error
+countries/with_category/Hong Kong SAR China.opml,Hong Kong Free Press HKFP,https://www.hongkongfp.com/feed/,,429,False,
+countries/without_category/Hong Kong SAR China.opml,Hong Kong Free Press HKFP,https://www.hongkongfp.com/feed/,,429,False,
+recommended/with_category/Android Development.opml,Developing Android Apps,https://reddit.com/r/androiddev.rss,,429,False,
+recommended/with_category/Android Development.opml,Handstand Sam,https://handstandsam.com/feed/,,,False,"HTTPSConnectionPool(host='handstandsam.com', port=443): Read timed out. (read timeout=8)"
+recommended/with_category/Android.opml,Android,https://www.reddit.com/r/android/.rss,,429,False,
+recommended/with_category/Apple.opml,The unofficial Apple community,https://www.reddit.com/r/apple/.rss,,429,False,
+recommended/with_category/Apple.opml,r/iPhone,https://www.reddit.com/r/iphone/.rss,,429,False,
+recommended/with_category/Architecture.opml,Architecture,https://www.reddit.com/r/architecture/.rss,,429,False,
+recommended/with_category/Books.opml,"So many books, so little time",https://reddit.com/r/books/.rss,,429,False,
+recommended/with_category/Cars.opml,Formula 1,https://www.reddit.com/r/formula1/.rss,,429,False,
+recommended/with_category/Cricket.opml,Cricket,https://www.reddit.com/r/Cricket/.rss,,429,False,
+recommended/with_category/Football.opml,EFL Championship,https://www.reddit.com/r/Championship/.rss?format=xml,,429,False,
+recommended/with_category/Football.opml,Football - The People's Sport,https://www.reddit.com/r/football/.rss?format=xml,,429,False,
+recommended/with_category/Gaming.opml,r/gaming,https://www.reddit.com/r/gaming.rss,,429,False,
+recommended/with_category/Interior design.opml,Interior Design (Interior Architecture),https://www.reddit.com/r/InteriorDesign/.rss,,429,False,

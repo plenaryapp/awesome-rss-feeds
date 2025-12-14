@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+	</head>
+	<body>
+		<outline text="Japan" title="Japan">
+			<outline text="Japan Times latest articles" title="Japan Times latest articles" description="The latest news from Japan Times, Japan's leading English-language daily newspaper" xmlUrl="https://www.japantimes.co.jp/feed/topstories/" type="rss" />
+			<outline text="Japan Today" title="Japan Today" description="Japan News and Discussion" xmlUrl="https://japantoday.com/feed" type="rss" />
+			<outline text="News On Japan" title="News On Japan" description="All the latest news on Japan" xmlUrl="http://www.newsonjapan.com/rss/top.xml" type="rss" />
+			<outline text="All - Kyodo News+" title="All - Kyodo News+" description="Kyodo News on the Web: Daily international, Japan news, Japan News, national and local news coverage from the newspaper, breaking news updates, technology news, sports, reviews, listings." xmlUrl="https://english.kyodonews.net/rss/all.xml" type="rss" />
+			<outline text="BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報" title="BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報" description="「起業家と投資家を繋ぐ」テクノロジー＆スタートアップ関連の話題をお届けするブログメディア" xmlUrl="http://feeds.feedburner.com/SdJapan" type="rss" />
+			<outline text="NYT > Japan" title="NYT > Japan" description="" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/destination/japan/rss.xml" type="rss" />
+			<outline text="ライブドアニュース - 主要トピックス" title="ライブドアニュース - 主要トピックス" description="ライブドアニュース - 主要トピックス" xmlUrl="https://news.livedoor.com/topics/rss/top.xml" type="rss" />
+			<outline text="朝日新聞デジタル" title="朝日新聞デジタル" description="朝日新聞デジタル" xmlUrl="http://rss.asahi.com/rss/asahi/newsheadlines.rdf" type="rss" />
+		</outline>
+	</body>
+</opml>

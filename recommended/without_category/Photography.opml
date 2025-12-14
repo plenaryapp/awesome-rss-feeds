@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' ?>
+<?xml version='1.0' encoding='utf-8'?>
 <opml version="1.0">
 	<head>
 		<title>Export from Plenary</title>
@@ -8,9 +8,7 @@
 	</head>
 	<body>
 		<outline text="500px" title="500px" description="" xmlUrl="https://iso.500px.com/feed/" type="rss" />
-		<outline text="500px:" title="500px:" description="on 500px." xmlUrl="https://500px.com/editors.rss" type="rss" />
 		<outline text="Big Picture" title="Big Picture" description="News Stories in Photographs from the Boston Globe." xmlUrl="https://www.bostonglobe.com/rss/bigpicture" type="rss" />
-		<outline text="Canon Rumors – Your best source for Canon rumors, leaks and gossip" title="Canon Rumors – Your best source for Canon rumors, leaks and gossip" description="" xmlUrl="https://www.canonrumors.com/feed/" type="rss" />
 		<outline text="Digital Photography School" title="Digital Photography School" description="Digital Photography Tips and Tutorials" xmlUrl="https://feeds.feedburner.com/DigitalPhotographySchool" type="rss" />
 		<outline text="Light Stalking" title="Light Stalking" description="Illuminating Your Passion" xmlUrl="https://www.lightstalking.com/feed/" type="rss" />
 		<outline text="Lightroom Killer Tips" title="Lightroom Killer Tips" description="Lightroom Presets, Videos, Tips and News" xmlUrl="https://lightroomkillertips.com/feed/" type="rss" />

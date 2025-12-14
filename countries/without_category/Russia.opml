@@ -6,10 +6,10 @@
 	</head>
 	<body>
 		<outline text="Lenta.ru : Новости" title="Lenta.ru : Новости" description="Новости, статьи, фотографии, видео. Семь дней в неделю, 24 часа в сутки." xmlUrl="https://lenta.ru/rss" type="rss" />
-		<outline text="Вести.Ru" title="Вести.Ru" description="Сетевое издание. Новости, видео и фото дня" xmlUrl="https://www.vesti.ru/vesti.rss" type="rss" />
+		
 		<outline text="Газета.Ru - Первая полоса" title="Газета.Ru - Первая полоса" description="Первая полоса одной из самых популярных российских интернет-газет. Российские и зарубежные новости в режиме он-лайн; важнейшие политические и экономические события в их развитии. Оригинальный взгляд, глубокий анализ и точный прогноз." xmlUrl="https://www.gazeta.ru/export/rss/first.xml" type="rss" />
 		<outline text="Все материалы - Московский Комсомолец" title="Все материалы - Московский Комсомолец" description="Московский Комсомолец" xmlUrl="https://www.mk.ru/rss/index.xml" type="rss" />
-		<outline text="Российская Газета" title="Российская Газета" description="Российская газета" xmlUrl="https://rg.ru/xml/index.xml" type="rss" />
+		
 		<outline text="NEWSru.com :: Главные новости" title="NEWSru.com :: Главные новости" description="Все новости России и мира от NEWSru.com." xmlUrl="https://rss.newsru.com/top/big/" type="rss" />
 		<outline text="RT - Daily news" title="RT - Daily news" description="RT : Today" xmlUrl="https://www.rt.com/rss/" type="rss" />
 		<outline text="Meduza.io" title="Meduza.io" description="Мы выбираем для вас самые важные новости и готовим лучшие тексты о том, что происходит в России и мире." xmlUrl="https://meduza.io/rss/all" type="rss" />

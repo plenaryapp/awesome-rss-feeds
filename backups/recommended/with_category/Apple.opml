@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="Apple" title="Apple">
+			<outline text="9to5Mac" title="9to5Mac" description="Apple News & Mac Rumors Breaking All Day" xmlUrl="https://9to5mac.com/feed" type="rss" />
+			<outline text="Apple" title="Apple" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Apple" type="rss" />
+			<outline text="Apple Newsroom" title="Apple Newsroom" description="" xmlUrl="https://www.apple.com/newsroom/rss-feed.rss" type="rss" />
+			<outline text="AppleInsider News" title="AppleInsider News" description="AppleInsider News Feed" xmlUrl="https://appleinsider.com/rss/news/" type="rss" />
+			<outline text="Cult of Mac" title="Cult of Mac" description="Tech and culture through an Apple lens" xmlUrl="https://www.cultofmac.com/feed" type="rss" />
+			<outline text="Daring Fireball" title="Daring Fireball" description="By John Gruber" xmlUrl="https://daringfireball.net/feeds/main" type="rss" />
+			<outline text="MacRumors" title="MacRumors" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=macrumors" type="rss" />
+			<outline text="MacRumors: Mac News and Rumors - Mac Blog" title="MacRumors: Mac News and Rumors - Mac Blog" description="Apple, iPhone, iPad, Mac News and Rumors" xmlUrl="http://feeds.macrumors.com/MacRumors-Mac" type="rss" />
+			<outline text="MacStories" title="MacStories" description="Apple news, app reviews, and stories by Federico Viticci and friends." xmlUrl="https://www.macstories.net/feed" type="rss" />
+			<outline text="Macworld.com" title="Macworld.com" description="Macworld is your best source for all things Apple. We give you the scoop on what's new, what's best and how to make the most out of the products you love." xmlUrl="https://www.macworld.com/index.rss" type="rss" />
+			<outline text="Marco.org" title="Marco.org" description="I’m Marco Arment, creator of Overcast, technology podcaster and writer, and coffee enthusiast." xmlUrl="https://marco.org/rss" type="rss" />
+			<outline text="OS X Daily" title="OS X Daily" description="News, tips, software, reviews, and more for Mac OS X, iPhone, iPad" xmlUrl="http://feeds.feedburner.com/osxdaily" type="rss" />
+			<outline text="The Loop" title="The Loop" description="Making Sense of Technology" xmlUrl="https://www.loopinsight.com/feed" type="rss" />
+			<outline text="The unofficial Apple community" title="The unofficial Apple community" description="An unofficial community to discuss Apple devices and software, including news, rumors, opinions and analysis pertaining to the company located at One Apple Park Way." xmlUrl="https://www.reddit.com/r/apple/.rss" type="rss" />
+			<outline text="iMore - The #1 iPhone, iPad, and iPod touch blog" title="iMore - The #1 iPhone, iPad, and iPod touch blog" description="More news and rumors, more help and how-tos, more app and accessory reviews, more iPhone and iPad and iPod touch. More of everything you love. iMore." xmlUrl="http://feeds.feedburner.com/TheiPhoneBlog" type="rss" />
+			<outline text="r/iPhone" title="r/iPhone" description="Reddit’s corner for iPhone lovers (or those who mildly enjoy it...)" xmlUrl="https://www.reddit.com/r/iphone/.rss" type="rss" />
+		</outline>
+	</body>
+</opml>

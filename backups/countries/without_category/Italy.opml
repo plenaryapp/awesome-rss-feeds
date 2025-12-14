@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+	</head>
+	<body>
+		<outline text="RSS di   - ANSA.it" title="RSS di   - ANSA.it" description="Updated every day - FOR PERSONAL USE ONLY" xmlUrl="https://www.ansa.it/sito/ansait_rss.xml" type="rss" />
+		<outline text="The Local" title="The Local" description="Europe's news in English" xmlUrl="https://feeds.thelocal.com/rss/it" type="rss" />
+		<outline text="RSS DiariodelWeb.it" title="RSS DiariodelWeb.it" description="RSS DiariodelWeb.it" xmlUrl="https://www.diariodelweb.it/rss/home/" type="rss" />
+		<outline text="Fanpage" title="Fanpage" description="Indipendente, sociale, partecipativo - segui i nostri live, reportage, inchieste, storie e video da Youmedia, partecipa con noi all'informazione." xmlUrl="https://www.fanpage.it/feed/" type="rss" />
+		<outline text="Libero Quotidiano" title="Libero Quotidiano" description="Libero Quotidiano contents" xmlUrl="https://www.liberoquotidiano.it/rss.xml" type="rss" />
+		<outline text="Il Mattino Web" title="Il Mattino Web" description="Gli articoli del Mattino" xmlUrl="https://www.ilmattino.it/?sez=XML&args&p=search&args[box]=Home&limit=20&layout=rss" type="rss" />
+		<outline text="Adnkronos - ultimoratop" title="Adnkronos - ultimoratop" description="www.adnkronos.com mette a disposizione dei lettori le news pubblicate con il sistema Rss. Con Rss è possibile infatti ricevere in tempo reale sul proprio computer le notizie che vengono messe on line dal Gruppo Adnkronos." xmlUrl="http://rss.adnkronos.com/RSS_PrimaPagina.xml" type="rss" />
+		<outline text="Milan News" title="Milan News" description="Milan News news" xmlUrl="https://www.milannews.it/rss/" type="rss" />
+		<outline text="Internazionale" title="Internazionale" description="Ogni settimana il meglio dei giornali di tutto il mondo." xmlUrl="https://www.internazionale.it/sitemaps/rss.xml" type="rss" />
+		<outline text="Panorama" title="Panorama" description="Panorama" xmlUrl="https://www.panorama.it/feeds/feed.rss" type="rss" />
+		<outline text="Italy | The Guardian" title="Italy | The Guardian" description="Latest news and features from theguardian.com, the world's leading liberal voice" xmlUrl="https://www.theguardian.com/world/italy/rss" type="rss" />
+		<outline text="Repubblica.it > Homepage" title="Repubblica.it > Homepage" description="Repubblica.it: il quotidiano online in tempo reale." xmlUrl="https://www.repubblica.it/rss/homepage/rss2.0.xml" type="rss" />
+		<outline text="Il Post" title="Il Post" description="Gli articoli, le rassegne, i blog, le foto, tutto quello che arriva dal mondo e dalla rete." xmlUrl="https://www.ilpost.it/feed/" type="rss" />
+	</body>
+</opml>

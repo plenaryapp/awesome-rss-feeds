@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="AVC" title="AVC" description="Musings of a VC in NYC" xmlUrl="https://avc.com/feed/" type="rss" />
+		<outline text="Both Sides of the Table - Medium" title="Both Sides of the Table - Medium" description="Perspectives of a 2x entrepreneur turned VC at @UpfrontVC, the largest and most active early-stage fund in Southern California. Snapchat: msuster - Medium" xmlUrl="https://bothsidesofthetable.com/feed" type="rss" />
+		<outline text="Entrepreneur" title="Entrepreneur" description="The latest stories from Entrepreneur." xmlUrl="http://feeds.feedburner.com/entrepreneur/latest" type="rss" />
+		<outline text="Feld Thoughts" title="Feld Thoughts" description="" xmlUrl="https://feld.com/feed" type="rss" />
+		<outline text="Forbes - Entrepreneurs" title="Forbes - Entrepreneurs" description="Forbes - Entrepreneurs" xmlUrl="https://www.forbes.com/entrepreneurs/feed/" type="rss" />
+		<outline text="GaryVee" title="GaryVee" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=GaryVaynerchuk" type="rss" />
+		<outline text="Hacker News: Front Page" title="Hacker News: Front Page" description="Hacker News RSS" xmlUrl="https://hnrss.org/frontpage" type="rss" />
+		<outline text="Inc.com" title="Inc.com" description="Inc.com, the daily resource for entrepreneurs." xmlUrl="https://www.inc.com/rss/" type="rss" />
+		<outline text="Inside Intercom" title="Inside Intercom" description="Product, Marketing, and Customer Support Blog" xmlUrl="https://www.intercom.com/blog/feed" type="rss" />
+		<outline text="Marie Forleo" title="Marie Forleo" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=marieforleo" type="rss" />
+		<outline text="Masters of Scale with Reid Hoffman" title="Masters of Scale with Reid Hoffman" description="<p>The best startup advice from Silicon Valley and beyond. Iconic CEOs — from Nike to Netflix, Starbucks to Slack — share the stories and strategies that helped them grow from startups into global brands.</p><p>On each episode, host Reid Hoffman — LinkedIn cofounder, Greylock partner and legendary Silicon Valley investor — proves an unconventional theory about how businesses scale, while his guests share the story of how I built this company. Reid and guests talk entrepreneurship, leadership, strategy, management, fundraising. But they also talk about the human journey — with all its failures and setbacks.&nbsp;</p><p>With original, cinematic music and hilariously honest stories, Masters of Scale is a business podcast that doesn’t sound like a business podcast.</p><p>Guests on Masters of Scale have included the founders and CEOs of Netflix, Google, Facebook, Starbucks, Nike, Fiat, Spotify, Instagram, Airbnb, Uber, Paypal, Huffington Post, Twitter, Bumble, Slack, Spanx, Shake Shack, Dropbox, TaskRabbit, 23andMe, Mailchimp, Evite, Flickr, CharityWater, Endeavor, IAC and many more.</p>" xmlUrl="https://rss.art19.com/masters-of-scale" type="rss" />
+		<outline text="Paul Graham: Essays" title="Paul Graham: Essays" description="Scraped feed provided by aaronsw.com" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss" type="rss" />
+		<outline text="Product Hunt — The best new products, every day" title="Product Hunt — The best new products, every day" description="" xmlUrl="https://www.producthunt.com/feed" type="rss" />
+		<outline text="Quick Sprout" title="Quick Sprout" description="Start and Grow Your Business" xmlUrl="https://www.quicksprout.com/rss" type="rss" />
+		<outline text="Small Business Trends" title="Small Business Trends" description="Founded in 2003, Small Business Trends is an award-winning online publication for small business owners, entrepreneurs and the people who interact with them. It is one of the most popular independent small business publications on the web. Together with hundreds of expert contributors, Small Business Trends brings you the news, tips, advice and resources you need. "Small business success... delivered daily."" xmlUrl="https://feeds2.feedburner.com/SmallBusinessTrends" type="rss" />
+		<outline text="Smart Passive Income" title="Smart Passive Income" description="Smart Passive Income" xmlUrl="http://feeds.feedburner.com/smartpassiveincome" type="rss" />
+		<outline text="Springwise" title="Springwise" description="Innovation That Matters" xmlUrl="https://www.springwise.com/feed" type="rss" />
+		<outline text="Steve Blank" title="Steve Blank" description="Innovation and Entrepreneurship" xmlUrl="https://steveblank.com/feed/" type="rss" />
+		<outline text="The Startup Junkies Podcast" title="The Startup Junkies Podcast" description="The Startup Junkies podcast is hosted by Jeff Amerine and his team at Startup Junkie Consulting. We’ll cover topics ranging from getting started, planning, growing your business, proving your concept, leadership, marketing, exit strategies and so much more. We’ll interview business owners, entrepreneurs, experts and people we think will bring value to our audience. Subscribe and together we will move your business to the next level." xmlUrl="https://startupjunkie.libsyn.com/rss" type="rss" />
+		<outline text="The Tim Ferriss Show" title="The Tim Ferriss Show" description="Tim Ferriss is a self-experimenter and bestselling author, best known for The 4-Hour Workweek, which has been translated into 40+ languages.  Newsweek calls him "the world's best human guinea pig," and The New York Times calls him "a cross between Jack Welch and a Buddhist monk."  In this show, he deconstructs world-class performers from eclectic areas (investing, chess, pro sports, etc.), digging deep to find the tools, tactics, and tricks that listeners can use." xmlUrl="https://rss.art19.com/tim-ferriss-show" type="rss" />
+		<outline text="This Week in Startups - Video" title="This Week in Startups - Video" description="Angel investor Jason Calacanis (Uber, Calm, Robinhood) interviews the world’s greatest founders, operators, investors and innovators. Get an insider’s look into venture capital, learn how to start and scale your own startup, and ride the cutting edge of technology in today’s headlines and beyond." xmlUrl="http://feeds.feedburner.com/twistvid" type="rss" />
+		<outline text="VentureBeat" title="VentureBeat" description="Transformative tech coverage that matters" xmlUrl="https://feeds.feedburner.com/venturebeat/SZYF" type="rss" />
+		<outline text="blog – Feld Thoughts" title="blog – Feld Thoughts" description="" xmlUrl="https://feld.com/archives/tag/blog/feed" type="rss" />
+	</body>
+</opml>

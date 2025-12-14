@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+	</head>
+	<body>
+		<outline text="Myanmar Gazette News Media Forum Network" title="Myanmar Gazette News Media Forum Network" description="Myanmar, newspaper, news media, Breaking news, Information, Multimedia, Journal, Magazine, Blog, Forums, Myanmar Online, News Portal" xmlUrl="http://myanmargazette.net/feed" type="rss" />
+		<outline text="DVB Multimedia Group" title="DVB Multimedia Group" description="Latest news, business, comment and features from the leading independent Burmese media outlet" xmlUrl="http://www.dvb.no/feed" type="rss" />
+		<outline text="THIT HTOO LWIN (Daily News)" title="THIT HTOO LWIN (Daily News)" description="နေ့စဉ် မြန်မာသတင်း၊ နိုင်ငံတကာသတင်း၊ နိုင်ငံရေး၊ လူမှုရေး၊ စီးပွားရေး၊ အနုပညာ၊ မြန်မာဂျာနယ်၊ ဗီဒီယိုသတင်းနှင့် ကျန်းမာရေး ဆောင်းပါးများကို ဝေဝေဆာဆာတင်ပြနေသည့် ဆိုဒ်ဖြစ်ပါသည်။ http://feeds.feedburner.com/thithtoolwin/yIWV" xmlUrl="http://www.thithtoolwin.com/feeds/posts/default" type="rss" />
+	</body>
+</opml>

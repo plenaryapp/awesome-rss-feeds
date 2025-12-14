@@ -9,10 +9,10 @@
 	<body>
 		<outline text="Startups" title="Startups">
 			<outline text="AVC" title="AVC" description="Musings of a VC in NYC" xmlUrl="https://avc.com/feed/" type="rss" />
-			<outline text="Both Sides of the Table - Medium" title="Both Sides of the Table - Medium" description="Perspectives of a 2x entrepreneur turned VC at @UpfrontVC, the largest and most active early-stage fund in Southern California. Snapchat: msuster - Medium" xmlUrl="https://bothsidesofthetable.com/feed" type="rss" />
+			
 			<outline text="Entrepreneur" title="Entrepreneur" description="The latest stories from Entrepreneur." xmlUrl="http://feeds.feedburner.com/entrepreneur/latest" type="rss" />
 			<outline text="Feld Thoughts" title="Feld Thoughts" description="" xmlUrl="https://feld.com/feed" type="rss" />
-			<outline text="Forbes - Entrepreneurs" title="Forbes - Entrepreneurs" description="Forbes - Entrepreneurs" xmlUrl="https://www.forbes.com/entrepreneurs/feed/" type="rss" />
+			
 			<outline text="GaryVee" title="GaryVee" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=GaryVaynerchuk" type="rss" />
 			<outline text="Hacker News: Front Page" title="Hacker News: Front Page" description="Hacker News RSS" xmlUrl="https://hnrss.org/frontpage" type="rss" />
 			<outline text="Inc.com" title="Inc.com" description="Inc.com, the daily resource for entrepreneurs." xmlUrl="https://www.inc.com/rss/" type="rss" />
@@ -24,7 +24,7 @@
 			<outline text="Quick Sprout" title="Quick Sprout" description="Start and Grow Your Business" xmlUrl="https://www.quicksprout.com/rss" type="rss" />
 			<outline text="Small Business Trends" title="Small Business Trends" description="Founded in 2003, Small Business Trends is an award-winning online publication for small business owners, entrepreneurs and the people who interact with them. It is one of the most popular independent small business publications on the web. Together with hundreds of expert contributors, Small Business Trends brings you the news, tips, advice and resources you need. "Small business success... delivered daily."" xmlUrl="https://feeds2.feedburner.com/SmallBusinessTrends" type="rss" />
 			<outline text="Smart Passive Income" title="Smart Passive Income" description="Smart Passive Income" xmlUrl="http://feeds.feedburner.com/smartpassiveincome" type="rss" />
-			<outline text="Springwise" title="Springwise" description="Innovation That Matters" xmlUrl="https://www.springwise.com/feed" type="rss" />
+			
 			<outline text="Steve Blank" title="Steve Blank" description="Innovation and Entrepreneurship" xmlUrl="https://steveblank.com/feed/" type="rss" />
 			<outline text="The Startup Junkies Podcast" title="The Startup Junkies Podcast" description="The Startup Junkies podcast is hosted by Jeff Amerine and his team at Startup Junkie Consulting. We’ll cover topics ranging from getting started, planning, growing your business, proving your concept, leadership, marketing, exit strategies and so much more. We’ll interview business owners, entrepreneurs, experts and people we think will bring value to our audience. Subscribe and together we will move your business to the next level." xmlUrl="https://startupjunkie.libsyn.com/rss" type="rss" />
 			<outline text="The Tim Ferriss Show" title="The Tim Ferriss Show" description="Tim Ferriss is a self-experimenter and bestselling author, best known for The 4-Hour Workweek, which has been translated into 40+ languages.  Newsweek calls him "the world's best human guinea pig," and The New York Times calls him "a cross between Jack Welch and a Buddhist monk."  In this show, he deconstructs world-class performers from eclectic areas (investing, chess, pro sports, etc.), digging deep to find the tools, tactics, and tricks that listeners can use." xmlUrl="https://rss.art19.com/tim-ferriss-show" type="rss" />

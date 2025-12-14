@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+	</head>
+	<body>
+		<outline text="Lenta.ru : Новости" title="Lenta.ru : Новости" description="Новости, статьи, фотографии, видео. Семь дней в неделю, 24 часа в сутки." xmlUrl="https://lenta.ru/rss" type="rss" />
+		<outline text="Вести.Ru" title="Вести.Ru" description="Сетевое издание. Новости, видео и фото дня" xmlUrl="https://www.vesti.ru/vesti.rss" type="rss" />
+		<outline text="Газета.Ru - Первая полоса" title="Газета.Ru - Первая полоса" description="Первая полоса одной из самых популярных российских интернет-газет. Российские и зарубежные новости в режиме он-лайн; важнейшие политические и экономические события в их развитии. Оригинальный взгляд, глубокий анализ и точный прогноз." xmlUrl="https://www.gazeta.ru/export/rss/first.xml" type="rss" />
+		<outline text="Все материалы - Московский Комсомолец" title="Все материалы - Московский Комсомолец" description="Московский Комсомолец" xmlUrl="https://www.mk.ru/rss/index.xml" type="rss" />
+		<outline text="Российская Газета" title="Российская Газета" description="Российская газета" xmlUrl="https://rg.ru/xml/index.xml" type="rss" />
+		<outline text="NEWSru.com :: Главные новости" title="NEWSru.com :: Главные новости" description="Все новости России и мира от NEWSru.com." xmlUrl="https://rss.newsru.com/top/big/" type="rss" />
+		<outline text="RT - Daily news" title="RT - Daily news" description="RT : Today" xmlUrl="https://www.rt.com/rss/" type="rss" />
+		<outline text="Meduza.io" title="Meduza.io" description="Мы выбираем для вас самые важные новости и готовим лучшие тексты о том, что происходит в России и мире." xmlUrl="https://meduza.io/rss/all" type="rss" />
+		<outline text="Russia Insider Daily Headlines" title="Russia Insider Daily Headlines" description="" xmlUrl="https://russia-insider.com/en/all-content/rss" type="rss" />
+		<outline text="TASS" title="TASS" description="TASS News Agency" xmlUrl="http://tass.com/rss/v2.xml" type="rss" />
+		<outline text="The Moscow Times - Independent News From Russia" title="The Moscow Times - Independent News From Russia" description="The Moscow Times offers everything you need to know about Russia: Breaking news, top stories, business, analysis, opinion, multimedia, upcoming cultural events" xmlUrl="https://www.themoscowtimes.com/rss/news" type="rss" />
+		<outline text="Газета "Коммерсантъ". Главное" title="Газета "Коммерсантъ". Главное" description="Ежедневная иллюстрированная общенациональная деловая газета" xmlUrl="https://www.kommersant.ru/RSS/main.xml" type="rss" />
+		<outline text="PravdaReport" title="PravdaReport" description="PravdaReport: Russian news and analysis" xmlUrl="https://www.pravdareport.com/export.xml" type="rss" />
+	</body>
+</opml>

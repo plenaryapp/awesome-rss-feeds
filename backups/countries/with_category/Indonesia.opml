@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+	</head>
+	<body>
+		<outline text="Indonesia" title="Indonesia">
+			<outline text="Republika Online RSS Feed" title="Republika Online RSS Feed" description="" xmlUrl="https://www.republika.co.id/rss/" type="rss" />
+			<outline text="Tribunnews.com" title="Tribunnews.com" description="Berita Terkini dari Tribunnews.com" xmlUrl="https://www.tribunnews.com/rss" type="rss" />
+			<outline text="Merdeka.com" title="Merdeka.com" description="Merdeka.com RSS 2.0" xmlUrl="https://www.merdeka.com/feed/" type="rss" />
+			<outline text="Suara.com" title="Suara.com" description="Kumpulan Kabar Berita Terkini Suara.Com" xmlUrl="https://www.suara.com/rss" type="rss" />
+		</outline>
+	</body>
+</opml>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+	</head>
+	<body>
+		<outline text="Australia" title="Australia">
+			<outline text="Latest News and News Headlines | Daily Telegraph" title="Latest News and News Headlines | Daily Telegraph" description="We're for Sydney" xmlUrl="https://www.dailytelegraph.com.au/news/breaking-news/rss" type="rss" />
+			<outline text="Sydney Morning Herald - Latest News" title="Sydney Morning Herald - Latest News" description="The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au" xmlUrl="https://www.smh.com.au/rss/feed.xml" type="rss" />
+			<outline text="Latest News and News Headlines | Herald Sun" title="Latest News and News Headlines | Herald Sun" description="Breaking News from Melbourne and Victoria | Herald Sun" xmlUrl="https://www.heraldsun.com.au/news/breaking-news/rss" type="rss" />
+			<outline text="ABC News" title="ABC News" description="" xmlUrl="https://www.abc.net.au/news/feed/1948/rss.xml" type="rss" />
+			<outline text="The Age - Latest News" title="The Age - Latest News" description="The top News headlines from The Age. For all the news, visit https://www.theage.com.au/" xmlUrl="https://www.theage.com.au/rss/feed.xml" type="rss" />
+			<outline text="The Courier Mail" title="The Courier Mail" description="Breaking News Headlines for Brisbane and Queensland | Courier Mail" xmlUrl="https://www.couriermail.com.au/rss" type="rss" />
+			<outline text="PerthNow" title="PerthNow" description="PerthNow news" xmlUrl="https://www.perthnow.com.au/news/feed" type="rss" />
+			<outline text="The Canberra Times - Local News" title="The Canberra Times - Local News" description="Latest Canberra news, sport, football and business news from The Canberra Times." xmlUrl="https://www.canberratimes.com.au/rss.xml" type="rss" />
+			<outline text="Brisbane Times - Latest News" title="Brisbane Times - Latest News" description="The top News headlines from The Brisbane Times. For all the news, visit https://www.brisbanetimes.com.au/" xmlUrl="https://www.brisbanetimes.com.au/rss/feed.xml" type="rss" />
+			<outline text="Independent Australia" title="Independent Australia" description="Independent Australia News" xmlUrl="http://feeds.feedburner.com/IndependentAustralia" type="rss" />
+			<outline text="Business News - Latest Headlines" title="Business News - Latest Headlines" description="Latest news headlines from Business News." xmlUrl="https://www.businessnews.com.au/rssfeed/latest.rss" type="rss" />
+			<outline text="InDaily" title="InDaily" description="" xmlUrl="https://indaily.com.au/feed/" type="rss" />
+			<outline text="The Mercury" title="The Mercury" description="Latest Hobart and Tasmania News | The Mercury" xmlUrl="https://www.themercury.com.au/rss" type="rss" />
+			<outline text="Crikey" title="Crikey" description="On politics, media, business, the environment and life" xmlUrl="https://feeds.feedburner.com/com/rCTl" type="rss" />
+			<outline text="KUSA - News" title="KUSA - News" description="KUSA Rss Feed" xmlUrl="http://rssfeeds.9news.com/kusa/home&x=1" type="rss" />
+			<outline text="Michael West" title="Michael West" description="Investigative Journalism" xmlUrl="https://www.michaelwest.com.au/feed/" type="rss" />
+		</outline>
+	</body>
+</opml>

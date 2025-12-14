@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+	</head>
+	<body>
+		<outline text="خبرگزاری باشگاه خبرنگاران | آخرین اخبار ایران و جهان | YJC" title="خبرگزاری باشگاه خبرنگاران | آخرین اخبار ایران و جهان | YJC" description="www.Yjc.news" xmlUrl="https://www.yjc.ir/fa/rss/allnews" type="rss" />
+		<outline text="تابناک | TABNAK" title="تابناک | TABNAK" description="سایت خبری تحلیلی تابناک | اخبار ایران و جهان | TABNAK" xmlUrl="https://www.tabnak.ir/fa/rss/allnews" type="rss" />
+		<outline text="خبرگزاری ایسنا | صفحه اصلی |  ISNA News Agency" title="خبرگزاری ایسنا | صفحه اصلی |  ISNA News Agency" description="جدیدترین اخبار دانشگاهی،علمی،فن آوری،ورزشی،اجتماعی،سیاسی،اقتصادی ایران و سایر مناطق جهان را در خبرگزاری ایسنا بخوانید | isna.ir, isna.news, isnanews.com, isnanews.ir, isnanews, isna.org.ir, isna news agency" xmlUrl="https://www.isna.ir/rss" type="rss" />
+		<outline text="خبرگزاری مهر | اخبار ایران و جهان | Mehr News Agency" title="خبرگزاری مهر | اخبار ایران و جهان | Mehr News Agency" description="خبرگزاری مهر آخرين اخبار ايران جهان سياست ورزش اقتصاد فرهنگ حوزه دانشگاه هنر فيلم عکس مجله مهر و استان ها | mehrnews.com, mehrnews, mehr news agency" xmlUrl="https://www.mehrnews.com/rss" type="rss" />
+		<outline text="خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان | Khabaronline" title="خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان | Khabaronline" description="تازهترین اخبار و تحلیلها و درباره اخبار ورزشی، حوادث، سیاسی، اقتصادی، فرهنگی و گردشگری را در خبرآنلاین بخوانید" xmlUrl="https://www.khabaronline.ir/rss" type="rss" />
+		<outline text="اخبار ایران و جهان" title="اخبار ایران و جهان" description="اخبار ایران و جهان را در خبرگزاری تسنیم بخوانید" xmlUrl="https://www.tasnimnews.com/fa/rss/feed/0/8/0/%D9%85%D9%87%D9%85%D8%AA%D8%B1%DB%8C%D9%86-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AA%D8%B3%D9%86%DB%8C%D9%85" type="rss" />
+		<outline text="عصر ايران" title="عصر ايران" description="اخبار، قیمت طلا و ارز، قیمت خودرو، اخبار کرونا، فیلم و کلیپ های به روز و خواندی های جالب" xmlUrl="https://www.asriran.com/fa/rss/allnews" type="rss" />
+	</body>
+</opml>

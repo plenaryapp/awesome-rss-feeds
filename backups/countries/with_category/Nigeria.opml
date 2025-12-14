@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+	</head>
+	<body>
+		<outline text="Nigeria" title="Nigeria">
+			<outline text="All Content" title="All Content" description="" xmlUrl="http://saharareporters.com/feeds/latest/feed" type="rss" />
+			<outline text="Nigeria News Links | Today's Updates - Nigerian Bulletin" title="Nigeria News Links | Today's Updates - Nigerian Bulletin" description="Find the best Nigeria News links to trending News and articles from Nigeria, Africa and across the world. Get on Nigerian Bulletin today for top news and more" xmlUrl="https://www.nigerianbulletin.com/forums/-/index.rss" type="rss" />
+			<outline text="Nigerian News. Latest Nigeria News. Your online Nigerian Newspaper." title="Nigerian News. Latest Nigeria News. Your online Nigerian Newspaper." description="Latest News in Nigeria - NigerianEye is a Nigerian Online NewsPaper and Breaking News Source. NIGERIA NEWS ★ TOP NIGERIAN Newspapers ★ Top news headlines from Nigeria." xmlUrl="http://feeds.feedburner.com/Nigerianeye" type="rss" />
+			<outline text="Legit.ng" title="Legit.ng" description="Read now ➨ News in Nigeria Today & BREAKING NEWS Headlines. Check out the latest Naija news and stay informed with LEGIT.NG — your trustful news provider" xmlUrl="https://www.legit.ng/rss/all.rss" type="rss" />
+			<outline text="Latest Nigeria News, Nigerian Newspapers, Politics" title="Latest Nigeria News, Nigerian Newspapers, Politics" description="A news breaking website. Truth in Defence of Freedom" xmlUrl="https://thenationonlineng.net/feed/" type="rss" />
+			<outline text="Daily Post Nigeria" title="Daily Post Nigeria" description="" xmlUrl="https://dailypost.ng/feed" type="rss" />
+			<outline text="Premium Times Nigeria" title="Premium Times Nigeria" description="Premium Times - Nigeria's leading online newspaper, delivering breaking news and deep investigative reports from Nigeria" xmlUrl="https://www.premiumtimesng.com/feed" type="rss" />
+			<outline text="Information Nigeria" title="Information Nigeria" description="Nigeria's No.1 Information Portal" xmlUrl="https://www.informationng.com/feed" type="rss" />
+			<outline text="The Guardian Nigeria News – Nigeria and World News" title="The Guardian Nigeria News – Nigeria and World News" description="The Latest news in Nigeria and world news. The Guardian Nigeria Newspaper brings you the latest headlines, opinions, political news, business reports and international news." xmlUrl="https://guardian.ng/feed/" type="rss" />
+			<outline text="Tribune Online" title="Tribune Online" description="Breaking News in Nigeria Today" xmlUrl="http://tribuneonlineng.com/feed/" type="rss" />
+		</outline>
+	</body>
+</opml>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="Photography" title="Photography">
+			<outline text="500px" title="500px" description="" xmlUrl="https://iso.500px.com/feed/" type="rss" />
+			<outline text="500px:" title="500px:" description="on 500px." xmlUrl="https://500px.com/editors.rss" type="rss" />
+			<outline text="Big Picture" title="Big Picture" description="News Stories in Photographs from the Boston Globe." xmlUrl="https://www.bostonglobe.com/rss/bigpicture" type="rss" />
+			<outline text="Canon Rumors – Your best source for Canon rumors, leaks and gossip" title="Canon Rumors – Your best source for Canon rumors, leaks and gossip" description="" xmlUrl="https://www.canonrumors.com/feed/" type="rss" />
+			<outline text="Digital Photography School" title="Digital Photography School" description="Digital Photography Tips and Tutorials" xmlUrl="https://feeds.feedburner.com/DigitalPhotographySchool" type="rss" />
+			<outline text="Light Stalking" title="Light Stalking" description="Illuminating Your Passion" xmlUrl="https://www.lightstalking.com/feed/" type="rss" />
+			<outline text="Lightroom Killer Tips" title="Lightroom Killer Tips" description="Lightroom Presets, Videos, Tips and News" xmlUrl="https://lightroomkillertips.com/feed/" type="rss" />
+			<outline text="One Big Photo" title="One Big Photo" description="a Picture is Worth a Thousand Words | Submit Your Photo | World's Best Photography" xmlUrl="http://feeds.feedburner.com/OneBigPhoto" type="rss" />
+			<outline text="PetaPixel" title="PetaPixel" description="Photography and Camera News, Reviews, and Inspiration" xmlUrl="https://petapixel.com/feed/" type="rss" />
+			<outline text="Strobist" title="Strobist" description="Learn How to Light." xmlUrl="http://feeds.feedburner.com/blogspot/WOBq" type="rss" />
+			<outline text="Stuck in Customs" title="Stuck in Customs" description="Trey Ratcliff's Travel Photography blog with daily inspiration to motivate you!" xmlUrl="https://stuckincustoms.com/feed/" type="rss" />
+			<outline text="The Sartorialist" title="The Sartorialist" description="Just another WordPress site" xmlUrl="https://feeds.feedburner.com/TheSartorialist" type="rss" />
+		</outline>
+	</body>
+</opml>

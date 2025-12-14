@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+	</head>
+	<body>
+		<outline text="United States" title="United States">
+			<outline text="World News - Breaking News, Top Stories" title="World News - Breaking News, Top Stories" description="Catch up on the latest World News news, photos, videos, and opinion." xmlUrl="https://www.huffpost.com/section/world-news/feed" type="rss" />
+			<outline text="NYT > Top Stories" title="NYT > Top Stories" description="" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" type="rss" />
+			<outline text="FOX News" title="FOX News" description="FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports." xmlUrl="http://feeds.foxnews.com/foxnews/latest" type="rss" />
+			<outline text="World" title="World" description="The Washington Post World section provides information and analysis of breaking world news stories. In addition to our world news and video, Post World News offers discussions and blogs on major international news and economic issues." xmlUrl="http://feeds.washingtonpost.com/rss/world" type="rss" />
+			<outline text="WSJ.com: World News" title="WSJ.com: World News" description="World News" xmlUrl="https://feeds.a.dj.com/rss/RSSWorldNews.xml" type="rss" />
+			<outline text="World & Nation" title="World & Nation" description="Nation and World articles from the Los Angeles Times." xmlUrl="https://www.latimes.com/world-nation/rss2.0.xml" type="rss" />
+			<outline text="CNN.com - RSS Channel - App International Edition" title="CNN.com - RSS Channel - App International Edition" description="CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more." xmlUrl="http://rss.cnn.com/rss/edition.rss" type="rss" />
+			<outline text="Yahoo News - Latest News & Headlines" title="Yahoo News - Latest News & Headlines" description="The latest news and headlines from Yahoo! News. Get breaking news stories and in-depth coverage with videos and photos." xmlUrl="https://news.yahoo.com/rss/mostviewed" type="rss" />
+			<outline text="US Top News and Analysis" title="US Top News and Analysis" description="CNBC is the world leader in business news and real-time financial market coverage. Find fast, actionable information." xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" type="rss" />
+			<outline text="Playbook" title="Playbook" description="The unofficial guide to official Washington." xmlUrl="https://rss.politico.com/playbook.xml" type="rss" />
+		</outline>
+	</body>
+</opml>

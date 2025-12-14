@@ -26,7 +26,7 @@
 		<outline text="Shutterbean" title="Shutterbean" description="food, photography & inspiration" xmlUrl="http://www.shutterbean.com/feed/" type="rss" />
 		<outline text="Skinnytaste" title="Skinnytaste" description="Delicious Healthy Recipes Made with Real Food" xmlUrl="https://www.skinnytaste.com/feed/" type="rss" />
 		<outline text="Sprouted Kitchen" title="Sprouted Kitchen" description="" xmlUrl="https://www.sproutedkitchen.com/home?format=rss" type="rss" />
-		<outline text="Williams-Sonoma Taste" title="Williams-Sonoma Taste" description="" xmlUrl="https://blog.williams-sonoma.com/feed/" type="rss" />
+		
 		<outline text="smitten kitchen" title="smitten kitchen" description="Fearless cooking from a tiny NYC kitchen." xmlUrl="http://feeds.feedburner.com/smittenkitchen" type="rss" />
 	</body>
 </opml>

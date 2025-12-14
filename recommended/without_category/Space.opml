@@ -7,7 +7,7 @@
 		<ownerEmail>info@spianslabs.com</ownerEmail>
 	</head>
 	<body>
-		<outline text="/r/space: news, articles and discussion" title="/r/space: news, articles and discussion" description="Share & discuss informative content on: * Astrophysics * Cosmology * Space Exploration * Planetary Science * Astrobiology" xmlUrl="https://www.reddit.com/r/space/.rss?format=xml" type="rss" />
+		
 		<outline text="NASA Breaking News" title="NASA Breaking News" description="A RSS news feed containing the latest NASA news articles and press releases." xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" type="rss" />
 		<outline text="New Scientist - Space" title="New Scientist - Space" description="New Scientist - Space" xmlUrl="https://www.newscientist.com/subject/space/feed/" type="rss" />
 		<outline text="Sky & Telescope" title="Sky & Telescope" description="The essential guide to astronomy" xmlUrl="https://www.skyandtelescope.com/feed/" type="rss" />
