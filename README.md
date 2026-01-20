@@ -515,6 +515,7 @@ Blog – The Beauty Brains | https://thebeautybrains.com/blog/feed/ | thebeautyb
 DORÉ | https://www.wearedore.com/feed | wearedore.com 
 From Head To Toe | http://feeds.feedburner.com/frmheadtotoe | frmheadtotoe.com 
 Into The Gloss - Beauty Tips, Trends, And Product Reviews | https://feeds.feedburner.com/intothegloss/oqoU | intothegloss.com 
+Makeup and Beauty Blog - Makeup Reviews, Swatches and How-To Makeup | https://www.makeupandbeautyblog.com/feed/ | makeupandbeautyblog.com 
 POPSUGAR Beauty | https://www.popsugar.com/beauty/feed | popsugar.com 
 Refinery29 | https://www.refinery29.com/beauty/rss.xml | refinery29.com 
 THE YESSTYLIST – Asian Fashion Blog – brought to you by YesStyle.com | https://www.yesstyle.com/blog/category/the-beauty-blog/feed/ | yesstyle.com 
@@ -707,7 +708,6 @@ GameSpot - All Content | https://www.gamespot.com/feeds/mashup/ | gamespot.com
 IGN All | http://feeds.ign.com/ign/all | ign.com 
 Indie Games Plus | https://indiegamesplus.com/feed | indiegamesplus.com 
 Kotaku | https://kotaku.com/rss | kotaku.com 
-Makeup and Beauty Blog - Makeup Reviews, Swatches and How-To Makeup | https://www.makeupandbeautyblog.com/feed/ | makeupandbeautyblog.com 
 PlayStation.Blog | http://feeds.feedburner.com/psblog | blog.playstation.com 
 Polygon -  All | https://www.polygon.com/rss/index.xml | polygon.com 
 Rock, Paper, Shotgun | http://feeds.feedburner.com/RockPaperShotgun | rockpapershotgun.com 
