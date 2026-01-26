@@ -985,6 +985,7 @@ TechCrunch | http://feeds.feedburner.com/TechCrunch | techcrunch.com
 The Keyword | https://www.blog.google/rss/ | blog.google 
 The Next Web | https://thenextweb.com/feed/ | thenextweb.com 
 The Verge | https://www.youtube.com/feeds/videos.xml?user=TheVerge | youtube.com 
+What Broke Today | https://whatbroke.today/feed.xml | whatbroke.today
 The Verge -  All Posts | https://www.theverge.com/rss/index.xml | theverge.com 
 The Vergecast | https://feeds.megaphone.fm/vergecast | theverge.com 
 This Week in Tech (Audio) | https://feeds.twit.tv/twit.xml | twit.tv 
