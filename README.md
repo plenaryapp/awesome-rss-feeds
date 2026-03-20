@@ -237,6 +237,9 @@ JansattaJansatta | https://www.jansatta.com/feed/ | https://www.jansatta.com/syn
 Live Hindustan Rss feed | https://feed.livehindustan.com/rss/3127 | https://www.livehindustan.com/rss 
 देश - दैनिक भास्कर | https://www.bhaskar.com/rss-feed/1061/ | https://www.bhaskar.com/rss 
 ઈન્ડિયા - દિવ્ય ભાસ્કર | https://www.divyabhaskar.co.in/rss-feed/1037/ | https://www.divyabhaskar.co.in/rss/ 
+Industry Wired | https://industrywired.com/rss |
+Analytics Insight | https://www.analyticsinsight.net/stories.rss |
+
 ### 🇮🇷 Iran
 Source | Primary Feed Url | All Feeds 
 -------|------------------|---------- 
