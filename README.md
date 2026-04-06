@@ -4,6 +4,7 @@
 
 A curated list of RSS feeds (with OPML files) used in Recommended Feeds and local news sections of our android app [Plenary](https://play.google.com/store/apps/details?id=com.spians.plenary) to populate feeds. Repository contains ~500 feeds in recommended section and more than 250 news sources across countries.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for RSS feed workflow orchestration, automated content aggregation management, and multi-agent coordination. MIT licensed.
 ## Motivation
 
 Using Plenary, we are trying to solve discovability of RSS feeds for first time users. Local News and recommended categories are some of the ways we are planning to handle it. [You can learn more about it here.](https://www.reddit.com/r/Plenary/comments/oc24r9/solving_discoverability_of_rss_feed_for_new_users/)
