@@ -485,8 +485,7 @@ Macworld.com | https://www.macworld.com/index.rss | macworld.com
 Marco.org | https://marco.org/rss | marco.org 
 OS X Daily | http://feeds.feedburner.com/osxdaily | osxdaily.com 
 The Loop | https://www.loopinsight.com/feed | loopinsight.com 
-The unofficial Apple community | https://www.reddit.com/r/apple/.rss | reddit.com 
-iMore - The #1 iPhone, iPad, and iPod touch blog | http://feeds.feedburner.com/TheiPhoneBlog | imore.com 
+The unofficial Apple community | https://www.reddit.com/r/apple/.rss | reddit.com  
 r/iPhone | https://www.reddit.com/r/iphone/.rss | reddit.com 
 ### Architecture
 Title | RSS Feed Url | Domain 
