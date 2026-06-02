@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Plenary app</ownerName>
+		<ownerEmail>plenarytheapp@gmail.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="Memes" title="Memes">
+			<outline text="/r/Memes the original since 2008" title="/r/Memes the original since 2008" description="Memes! A way of describing cultural information being shared. An element of a culture or system of behavior that may be considered to be passed from one individual to another by nongenetic means, especially imitation." xmlUrl="https://www.reddit.com/r/memes/.rss" type="rss" />
+			<outline text="A sub for History Memes" title="A sub for History Memes" description="A place for history memes about events occurring over 20 years ago." xmlUrl="https://www.reddit.com/r/historymemes/.rss" type="rss" />
+			<outline text="Advice Animals" title="Advice Animals" description="Reddit&apos;s Gold Mine" xmlUrl="https://www.reddit.com/r/AdviceAnimals/.rss" type="rss" />
+			<outline text="Indian Meme Templates" title="Indian Meme Templates" description="Download Meme Templates, Indian Funny Photos, Movie Dialogues" xmlUrl="https://indianmemetemplates.com/feed/" type="rss" />
+			<outline text="Indian Memes" title="Indian Memes" description="Only the most normiest of the memes are allowed. tags : India , Indian Memes , Normie." xmlUrl="https://www.reddit.com/r/IndianMeyMeys/.rss" type="rss" />
+			<outline text="Internet for the Spirit" title="Internet for the Spirit" description="Welcome to the wholesome side of the internet! This community is for those searching for a way to capture virtue on the internet." xmlUrl="https://www.reddit.com/r/wholesomememes/.rss" type="rss" />
+			<outline text="Know Your Meme Newsfeed" title="Know Your Meme Newsfeed" description="New items added to the News Feed" xmlUrl="https://knowyourmeme.com/newsfeed.rss" type="rss" />
+			<outline text="Memebase" title="Memebase" description="Funny memes that &quot;GET IT&quot; and want you to too. Get the latest funniest memes and keep up what is going on in the meme-o-sphere." xmlUrl="https://memebase.cheezburger.com/rss" type="rss" />
+			<outline text="PrequelMemes - Memes of the Star Wars Prequels" title="PrequelMemes - Memes of the Star Wars Prequels" description="Memes of the Star Wars Prequels." xmlUrl="https://www.reddit.com/r/PrequelMemes/.rss" type="rss" />
+			<outline text="Rabbit Ramblings" title="Rabbit Ramblings" description="" xmlUrl="http://feeds.feedburner.com/blogspot/GlZMR" type="rss" />
+			<outline text="YuckSauce" title="YuckSauce" description="Curated Dumpster Fire: Meme Maker" xmlUrl="https://yucksauce.com/feed/" type="rss" />
+			<outline text="dankmemes" title="dankmemes" description="*le dank" xmlUrl="https://www.reddit.com/r/dankmemes/.rss" type="rss" />
+			<outline text="r/IndianDankMemes - India&apos;s Largest Meme Subreddit" title="r/IndianDankMemes - India&apos;s Largest Meme Subreddit" description="Meme Banao, Chutiya Nahi." xmlUrl="https://www.reddit.com/r/IndianDankMemes/.rss" type="rss" />
+			<outline text="selfies of the soul" title="selfies of the soul" description="selfies of the soul | human posters only, bots go home | be excellent to each other" xmlUrl="https://www.reddit.com/r/me_irl/.rss" type="rss" />
+			<outline text="when things get too real for meirl" title="when things get too real for meirl" description="For relatable posts that are too real for /r/meirl or /r/me_irl. Meaning jokes/posts about mental health issues and self deprecating humour." xmlUrl="https://www.reddit.com/r/2meirl4meirl/.rss" type="rss" />
+			<outline text="😎HAHA DAE MINIONS!!!😎" title="😎HAHA DAE MINIONS!!!😎" description="Community for all those terrible memes your uncle posts on facebook" xmlUrl="https://www.reddit.com/r/terriblefacebookmemes/.rss" type="rss" />
+		</outline>
+	</body>
+</opml>

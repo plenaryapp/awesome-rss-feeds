@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Plenary app</ownerName>
+		<ownerEmail>plenarytheapp@gmail.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="Environment" title="Environment">
+			<outline text="&quot;Human Nature&quot; Blog Feed" title="&quot;Human Nature&quot; Blog Feed" description="RSS feed for news, views and features from the front lines of conservation" xmlUrl="http://feeds.feedburner.com/ConservationInternationalBlog" type="rss" />
+			<outline text="Bionic Planet: Reversing Climate Change by Restoring Nature" title="Bionic Planet: Reversing Climate Change by Restoring Nature" description="We&apos;ve entered a new epoch: the Anthropocene, and nothing is as it was. Not the trees, not the seas – not the forests, farms, or fields – and not the global economy that depends on all of these. What does this mean for your investments, your family&apos;s future, and the future of man? Each week, we dive into these issues to help you Navigate the New Reality." xmlUrl="https://bionicplanet.libsyn.com/rss" type="rss" />
+			<outline text="Conservation International" title="Conservation International" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCam5sCp6mzGBcn8ZBB2RBJg" type="rss" />
+			<outline text="Environment" title="Environment" description="Current news, information and issues related to the environment." xmlUrl="https://www.reddit.com/r/environment/.rss" type="rss" />
+			<outline text="Environment + Energy – The Conversation" title="Environment + Energy – The Conversation" description="" xmlUrl="https://theconversation.com/au/environment/articles.atom" type="rss" />
+			<outline text="Environment News, Earth News, Global Warming, Wild Life, Carbon Trading, Climate Business, Climate Change &amp; Pollution News" title="Environment News, Earth News, Global Warming, Wild Life, Carbon Trading, Climate Business, Climate Change &amp; Pollution News" description="World news on global warming, climate change, wildlife, pollution, carbon business and climate politics. News from Indian environment including wildlife like tiger, lion, elephants. Also, news from United Nations." xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/2647163.cms" type="rss" />
+			<outline text="Environment | The Guardian" title="Environment | The Guardian" description="Latest environmental news, opinion and analysis from the Guardian." xmlUrl="https://www.theguardian.com/us/environment/rss" type="rss" />
+			<outline text="Good Good Good" title="Good Good Good" description="At Good Good Good we help you feel more hopeful and do more good." xmlUrl="https://www.goodgoodgood.co/articles/rss.xml" type="rss" />
+			<outline text="NPR Topics: Environment" title="NPR Topics: Environment" description="Breaking news on the environment, climate change, pollution, and endangered species. Also featuring Climate Connections, a special series on climate change co-produced by NPR and National Geographic." xmlUrl="https://feeds.npr.org/1025/rss.xml" type="rss" />
+			<outline text="NYT &gt; Climate and Environment" title="NYT &gt; Climate and Environment" description="" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml" type="rss" />
+			<outline text="Prakati India" title="Prakati India" description="Eco Friendly Natural Organic Sustainable Living" xmlUrl="https://www.prakati.in/feed/" type="rss" />
+			<outline text="Vox" title="Vox" description="Our world has too much noise and too little context. Vox helps you understand what matters." xmlUrl="https://www.vox.com/rss/energy-and-environment/index.xml" type="rss" />
+		</outline>
+	</body>
+</opml>

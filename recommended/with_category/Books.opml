@@ -3,17 +3,18 @@
 	<head>
 		<title>Export from Plenary</title>
 		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
-		<ownerName>Spians Labs</ownerName>
-		<ownerEmail>info@spianslabs.com</ownerEmail>
+		<ownerName>Plenary app</ownerName>
+		<ownerEmail>plenarytheapp@gmail.com</ownerEmail>
 	</head>
 	<body>
 		<outline text="Books" title="Books">
 			<outline text="A year of reading the world" title="A year of reading the world" description="196 countries, countless stories..." xmlUrl="https://ayearofreadingtheworld.com/feed/" type="rss" />
 			<outline text="Aestas Book Blog" title="Aestas Book Blog" description="Romance book reviews. Reviews of books that make my heart race, have a beautiful love story, and a happy ending." xmlUrl="https://aestasbookblog.com/feed/" type="rss" />
 			<outline text="BOOK RIOT" title="BOOK RIOT" description="Book Recommendations and Reviews" xmlUrl="https://bookriot.com/feed/" type="rss" />
+			<outline text="Harry Potter and the Sacred Text" title="Harry Potter and the Sacred Text" description="&lt;p&gt;It’s the English class you didn&apos;t know you missed and the meaningful conversations you didn&apos;t know you craved. Join Vanessa Zoltan and Matt Potts as they bring thought, reflection and laughter to Harry Potter; not just as novels, but as instructive and inspirational texts that will teach us about our own lives. Relive the magic of Harry Potter chapter by chapter as Matt and Vanessa explore themes such as commitment, revenge and forgiveness. This podcast creates time in your week to think about life’s big questions. Because reading fiction doesn’t just help us escape the world, it helps us live in it.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Harry Potter and the Sacred Text is produced by Not Sorry Productions, a feminist organization that produces podcasts, educational content, live shows, and immersive experiences with the explicit goal of addressing the spiritual needs of its participants. Through community, rigor, and ritual, we treat traditionally secular things as if they were sacred. To learn more about what we do, visit &lt;a href=&quot;https://notsorryworks.com/&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://notsorryworks.com/&lt;/a&gt;.&lt;/p&gt;&lt;hr&gt;&lt;p style=&apos;color:grey; font-size:0.75em;&apos;&gt; Hosted on Acast. See &lt;a style=&apos;color:grey;&apos; target=&apos;_blank&apos; rel=&apos;noopener noreferrer&apos; href=&apos;https://acast.com/privacy&apos;&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;" xmlUrl="https://rss.acast.com/harrypottersacredtext" type="rss" />
 			<outline text="Kirkus Reviews" title="Kirkus Reviews" description="Latest book reviews from Kirkus Reviews." xmlUrl="https://www.kirkusreviews.com/feeds/rss/" type="rss" />
-			<outline text="Page Array – NewInBooks" title="Page Array – NewInBooks" description="Answering the Age old question - What are you reading?" xmlUrl="https://www.newinbooks.com/feed/" type="rss" />
-			<outline text="So many books, so little time" title="So many books, so little time" description="This is a moderated subreddit. It is our intent and purpose to foster and encourage in-depth discussion about all things related to books, authors, genres, or publishing in a safe, supportive environment. If you're looking for help with a personal book recommendation, consult our Weekly Recommendation Thread, Suggested Reading page, or ask in r/suggestmeabook." xmlUrl="https://reddit.com/r/books/.rss" type="rss" />
+			<outline text="NewInBooks" title="NewInBooks" description="Answering the Age old question - What are you reading?" xmlUrl="https://www.newinbooks.com/feed/" type="rss" />
+			<outline text="So many books, so little time" title="So many books, so little time" description="This is a moderated subreddit. It is our intent and purpose to foster and encourage in-depth discussion about all things related to books, authors, genres, or publishing in a safe, supportive environment. If you&apos;re looking for help with a personal book recommendation, consult our Weekly Recommendation Thread, Suggested Reading page, or ask in r/suggestmeabook." xmlUrl="https://reddit.com/r/books/.rss" type="rss" />
 			<outline text="Wokeread" title="Wokeread" description="Books any time any day." xmlUrl="https://wokeread.home.blog/feed/" type="rss" />
 		</outline>
 	</body>

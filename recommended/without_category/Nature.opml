@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Plenary app</ownerName>
+		<ownerEmail>plenarytheapp@gmail.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="BBC Earth" title="BBC Earth" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwmZiChSryoWQCZMIQezgTg" type="rss" />
+		<outline text="BBC Earth Podcast" title="BBC Earth Podcast" description="&lt;p&gt;Each week the BBC Earth podcast brings you entertainment, humour, an abundance of amazing animal stories and unbelievable unheard sounds. Explore the world of animals with superpowers, deep dive into death, hear from heroes passionately protecting the planet and get expert insights into corners of the natural world you’ve never explored before.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Hosted by zoologists Rutendo Shackleton and Sebastian Echeverri, each episode features special guests including the world’s most respected scientists and naturalists, stars of film and television, nature Instagrammers and more.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Listen, laugh and learn – whether you’re a nature lover, nature curious or haven’t yet realised nature is for you, there’ll be a story here to captivate your ears.&lt;/p&gt;&lt;hr&gt;&lt;p style=&apos;color:grey; font-size:0.75em;&apos;&gt; Hosted on Acast. See &lt;a style=&apos;color:grey;&apos; target=&apos;_blank&apos; rel=&apos;noopener noreferrer&apos; href=&apos;https://acast.com/privacy&apos;&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;" xmlUrl="https://rss.acast.com/bbcearthpodcast" type="rss" />
+		<outline text="BLOG POSTS – Mark Avery" title="BLOG POSTS – Mark Avery" description="Standing up for Nature" xmlUrl="https://markavery.info/blog/feed/" type="rss" />
+		<outline text="Blog | Nature | PBS" title="Blog | Nature | PBS" description="The premiere natural history program on television." xmlUrl="https://www.pbs.org/wnet/nature/blog/feed/" type="rss" />
+		<outline text="EarthPorn: Amazing images of light and landscape" title="EarthPorn: Amazing images of light and landscape" description="The internet&apos;s largest community of landscape photographers and Earth lovers." xmlUrl="https://www.reddit.com/r/EarthPorn/.rss" type="rss" />
+		<outline text="Explore Oceans" title="Explore Oceans" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSyg9cb3Iq-NtlbxqNB9wGw" type="rss" />
+		<outline text="National Geographic" title="National Geographic" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpVm7bg6pXKo1Pr6k5kxG9A" type="rss" />
+		<outline text="Nature" title="Nature" description="Nature is the foremost international weekly scientific journal in the world and is the flagship journal for Nature Portfolio. It publishes the finest peer-reviewed research in all fields of science and technology on the basis of its originality, importance, interdisciplinary interest, timeliness, accessibility, elegance and surprising conclusions. Nature publishes landmark papers, award winning news, leading comment and expert opinion on important, topical scientific news and events that enable readers to share the latest discoveries in science and evolve the discussion amongst the global scientific community." xmlUrl="http://feeds.nature.com/nature/rss/current?x=1" type="rss" />
+		<outline text="Nature" title="Nature" description="* Share your fascinating links about nature * Discuss endangered parts of nature * Contribute news about the wonders of nature * Meet other nature enthusiasts * Enjoy our functional design including * user flair * links to many related subreddits in the header menu * links to reddit specific information in the header menu" xmlUrl="https://www.reddit.com/r/nature/.rss" type="rss" />
+		<outline text="Nature Gifs" title="Nature Gifs" description="" xmlUrl="https://www.reddit.com/r/NatureGifs/.rss" type="rss" />
+		<outline text="Nature on PBS" title="Nature on PBS" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcBp_9YPyma4c3HTadmRJ3Q" type="rss" />
+		<outline text="Reflections of the Natural World" title="Reflections of the Natural World" description="Travel with me as I explore the wild things and wild places of our planet. - Jim Gain" xmlUrl="https://reflectionsofthenaturalworld.com/feed/" type="rss" />
+		<outline text="Stories Archives - Nature Canada" title="Stories Archives - Nature Canada" description="Your voice for nature!" xmlUrl="https://naturecanada.ca/category/news/blog/feed/" type="rss" />
+		<outline text="nature video" title="nature video" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7c8mE90qCtu11z47U0KErg" type="rss" />
+	</body>
+</opml>

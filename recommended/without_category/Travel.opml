@@ -3,15 +3,21 @@
 	<head>
 		<title>Export from Plenary</title>
 		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
-		<ownerName>Spians Labs</ownerName>
-		<ownerEmail>info@spianslabs.com</ownerEmail>
+		<ownerName>Plenary app</ownerName>
+		<ownerEmail>plenarytheapp@gmail.com</ownerEmail>
 	</head>
 	<body>
+		<outline text="Adventure.com" title="Adventure.com" description="" xmlUrl="http://adventure.com/feed/" type="rss" />
 		<outline text="Atlas Obscura - Latest Articles and Places" title="Atlas Obscura - Latest Articles and Places" description="New wonders and curiosities added to the Atlas." xmlUrl="https://www.atlasobscura.com/feeds/latest" type="rss" />
+		<outline text="CNN.com - RSS Channel - App Travel Section" title="CNN.com - RSS Channel - App Travel Section" description="CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more." xmlUrl="http://rss.cnn.com/rss/cnn_travel.rss" type="rss" />
+		<outline text="Everything Everywhere" title="Everything Everywhere" description="Learn Something New Every Day!" xmlUrl="http://feeds2.feedburner.com/EverythingEverywhere/" type="rss" />
 		<outline text="Live Life Travel" title="Live Life Travel" description="Your travel partner for life" xmlUrl="https://www.livelifetravel.world/feed/" type="rss" />
-		<outline text="Lonely Planet Travel News" title="Lonely Planet Travel News" description="Travel news and more from Lonely Planet" xmlUrl="https://www.lonelyplanet.com/news/feed/atom/" type="rss" />
-		<outline text="NYT > Travel" title="NYT > Travel" description="" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml" type="rss" />
-		<outline text="Nomadic Matt's Travel Site" title="Nomadic Matt's Travel Site" description="Travel Better, Cheaper, Longer" xmlUrl="https://www.nomadicmatt.com/travel-blog/feed/" type="rss" />
-		<outline text="Travel | The Guardian" title="Travel | The Guardian" description="Latest travel news and reviews on UK and world holidays, travel guides to global destinations, city breaks, hotels and restaurant information from the Guardian, the world's leading liberal voice" xmlUrl="https://www.theguardian.com/uk/travel/rss" type="rss" />
+		<outline text="Million Mile Secrets" title="Million Mile Secrets" description="" xmlUrl="http://feeds.feedburner.com/MillionMileSecrets" type="rss" />
+		<outline text="NYT &gt; Travel" title="NYT &gt; Travel" description="" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml" type="rss" />
+		<outline text="TFIL (Traveling to EVERY COUNTRY in A-Z Order)" title="TFIL (Traveling to EVERY COUNTRY in A-Z Order)" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=ECastee" type="rss" />
+		<outline text="The Points Guy Articles" title="The Points Guy Articles" description="The Points Guy Articles Feed" xmlUrl="http://feeds.feedburner.com/thepointsguy" type="rss" />
+		<outline text="Travel Blog -" title="Travel Blog -" description="Travel Better, Cheaper, Longer" xmlUrl="https://www.nomadicmatt.com/travel-blog/feed/" type="rss" />
+		<outline text="Travel Dudes" title="Travel Dudes" description="For Travelers, By Travelers!" xmlUrl="https://www.traveldudes.com/feed/" type="rss" />
+		<outline text="Travel | The Guardian" title="Travel | The Guardian" description="Latest travel news and reviews on UK and world holidays, travel guides to global destinations, city breaks, hotels and restaurant information from the Guardian, the world&apos;s leading liberal voice" xmlUrl="https://www.theguardian.com/uk/travel/rss" type="rss" />
 	</body>
 </opml>

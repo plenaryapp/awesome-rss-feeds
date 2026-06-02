@@ -3,16 +3,21 @@
 	<head>
 		<title>Export from Plenary</title>
 		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
-		<ownerName>Spians Labs</ownerName>
-		<ownerEmail>info@spianslabs.com</ownerEmail>
+		<ownerName>Plenary app</ownerName>
+		<ownerEmail>plenarytheapp@gmail.com</ownerEmail>
 	</head>
 	<body>
 		<outline text="Sports" title="Sports">
-			<outline text="BBC Sport - Sport" title="BBC Sport - Sport" description="BBC Sport - Sport" xmlUrl="http://feeds.bbci.co.uk/sport/rss.xml" type="rss" />
-			<outline text="Reddit Sports" title="Reddit Sports" description="Sports News and Highlights from the NFL, NBA, NHL, MLB, MLS, and leagues around the world." xmlUrl="https://www.reddit.com/r/sports.rss" type="rss" />
+			<outline text="" title="" description="Yahoo! Sports - Comprehensive news, scores, standings, fantasy games, rumors, and more" xmlUrl="https://sports.yahoo.com/rss/" type="rss" />
+			<outline text="BBC Sport" title="BBC Sport" description="BBC Sport - Sport Front Page" xmlUrl="http://feeds.bbci.co.uk/sport/rss.xml" type="rss" />
+			<outline text="CNN.com - RSS Channel - Sport" title="CNN.com - RSS Channel - Sport" description="CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more." xmlUrl="http://rss.cnn.com/rss/edition_sport.rss" type="rss" />
+			<outline text="NYT &gt; Sports" title="NYT &gt; Sports" description="" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml" type="rss" />
+			<outline text="Reddit Sports" title="Reddit Sports" description="Sports News and Highlights from the NFL, NBA, NHL, MLB, MLS, NCAA, F1, and other leagues around the world." xmlUrl="https://www.reddit.com/r/sports.rss" type="rss" />
+			<outline text="Sport | The Guardian" title="Sport | The Guardian" description="Latest Sport news, comment and analysis from the Guardian, the world&apos;s leading liberal voice" xmlUrl="https://www.theguardian.com/uk/sport/rss" type="rss" />
 			<outline text="Sports News - Latest Sports and Football News | Sky News" title="Sports News - Latest Sports and Football News | Sky News" description="The best sports coverage from around the world, covering: Football, Cricket, Golf, Rugby, WWE, Boxing, Tennis and much more." xmlUrl="http://feeds.skynews.com/feeds/rss/sports.xml" type="rss" />
-			<outline text="Sportskeeda" title="Sportskeeda" description="Sports Writers Unite" xmlUrl="https://www.sportskeeda.com/feed" type="rss" />
-			<outline text="Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games" title="Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games" description="Yahoo! Sports - Comprehensive news, scores, standings, fantasy games, rumors, and more" xmlUrl="https://sports.yahoo.com/rss/" type="rss" />
+			<outline text="Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News &amp; More" title="Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News &amp; More" description="Get the latest sports news, live cricket scores and in-depth coverage of Cricket, Football, NBA, NFL, WWE, F1, Tennis, and more on The Times of India. Stay updated with breaking sports stories, player stats, and event highlights." xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/4719148.cms" type="rss" />
+			<outline text="Sports | The Indian Express" title="Sports | The Indian Express" description="Latest News Today, Breaking News, India News, Top Headlines" xmlUrl="https://indianexpress.com/section/sports/feed/" type="rss" />
+			<outline text="Sportskeeda" title="Sportskeeda" description="Latest Sports News &amp; Live Updates" xmlUrl="https://www.sportskeeda.com/feed" type="rss" />
 			<outline text="www.espn.com - TOP" title="www.espn.com - TOP" description="Latest TOP news from www.espn.com" xmlUrl="https://www.espn.com/espn/rss/news" type="rss" />
 		</outline>
 	</body>

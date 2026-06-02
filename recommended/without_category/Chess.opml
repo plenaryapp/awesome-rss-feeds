@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Plenary app</ownerName>
+		<ownerEmail>plenarytheapp@gmail.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="Better Chess" title="Better Chess" description="A chess blog dedicated to help players improve their play and to promote the great game of chess." xmlUrl="https://betterchess.net/feed/" type="rss" />
+		<outline text="Chess News" title="Chess News" description="Chess News" xmlUrl="https://en.chessbase.com/feed" type="rss" />
+		<outline text="Chess Talk" title="Chess Talk" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6HDXr-sNPnWLF_Q-y3KduA" type="rss" />
+		<outline text="Chess | The Guardian" title="Chess | The Guardian" description="Latest news and features from theguardian.com, the world&apos;s leading liberal voice" xmlUrl="https://www.theguardian.com/sport/chess/rss" type="rss" />
+		<outline text="Chess.com" title="Chess.com" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=wwwChesscom" type="rss" />
+		<outline text="Chess.com News" title="Chess.com News" description="The latest news from Chess.com." xmlUrl="https://www.chess.com/rss/news" type="rss" />
+		<outline text="ChessBase India" title="ChessBase India" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIsEhwBMPkRHsEgqYAPQHsA" type="rss" />
+		<outline text="Chessable Blog" title="Chessable Blog" description="Chessable uses science to make learning chess better and in this blog we share that journey" xmlUrl="https://www.chessable.com/blog/feed/" type="rss" />
+		<outline text="For the budding patzer" title="For the budding patzer" description="A place for new chess players to hang out, ask questions, discover tactics, get advice from others and learn more about the game: This is the r/chessbeginners subreddit." xmlUrl="https://www.reddit.com/r/chessbeginners/.rss" type="rss" />
+		<outline text="Lichess&apos;s Blog" title="Lichess&apos;s Blog" description="" xmlUrl="https://lichess.org/blog.atom" type="rss" />
+		<outline text="Perpetual Chess Podcast" title="Perpetual Chess Podcast" description="Perpetual Chess features weekly conversations with the chess world&apos;s best players, trainers and accomplished amateurs about their careers, current projects, best practices and the latest in chess news. Learn more at PerpetualChessPod.com" xmlUrl="https://feeds.megaphone.fm/BLU4811105299" type="rss" />
+		<outline text="The Week in Chess" title="The Week in Chess" description="Chess News from throughout the World" xmlUrl="https://theweekinchess.com/twic-rss-feed" type="rss" />
+		<outline text="agadmator&apos;s Chess Channel" title="agadmator&apos;s Chess Channel" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCL5YbN5WLFD8dLIegT5QAbA" type="rss" />
+		<outline text="chess24" title="chess24" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=chess24media" type="rss" />
+		<outline text="r/Chess" title="r/Chess" description="All about the game of chess, including discussions on professional tournaments, game analysis and theory. If you are new to the game, check out /r/chessbeginners and before posting here please read our rules: https://www.reddit.com/r/chess/wiki/index." xmlUrl="https://www.reddit.com/r/chess/.rss" type="rss" />
+		<outline text="thechesswebsite" title="thechesswebsite" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=thechesswebsite" type="rss" />
+	</body>
+</opml>

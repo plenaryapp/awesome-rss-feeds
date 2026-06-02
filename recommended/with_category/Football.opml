@@ -3,15 +3,18 @@
 	<head>
 		<title>Export from Plenary</title>
 		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
-		<ownerName>Spians Labs</ownerName>
-		<ownerEmail>info@spianslabs.com</ownerEmail>
+		<ownerName>Plenary app</ownerName>
+		<ownerEmail>plenarytheapp@gmail.com</ownerEmail>
 	</head>
 	<body>
 		<outline text="Football" title="Football">
+			<outline text="BBC Sport" title="BBC Sport" description="BBC Sport - Football" xmlUrl="https://feeds.bbci.co.uk/sport/football/rss.xml" type="rss" />
+			<outline text="CNN.com - RSS Channel - Sport - Football" title="CNN.com - RSS Channel - Sport - Football" description="CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more." xmlUrl="http://rss.cnn.com/rss/edition_football.rss" type="rss" />
 			<outline text="EFL Championship" title="EFL Championship" description="Home of the EFL Championship on Reddit" xmlUrl="https://www.reddit.com/r/Championship/.rss?format=xml" type="rss" />
-			<outline text="Football - The People's Sport" title="Football - The People's Sport" description="Home of Football. News, Rumours, Analysis, gossip and much more." xmlUrl="https://www.reddit.com/r/football/.rss?format=xml" type="rss" />
-			<outline text="Football News, Live Scores, Results &amp; Transfers | Goal.com" title="Football News, Live Scores, Results &amp; Transfers | Goal.com" description="The latest football news, rumours, transfers and match reports from around the world." xmlUrl="https://www.goal.com/feeds/en/news" type="rss" />
-			<outline text="Football365" title="Football365" description="Views, Live Matches, Gossip & more | Football365.com" xmlUrl="https://www.football365.com/feed" type="rss" />
+			<outline text="Football - The People&apos;s Sport" title="Football - The People&apos;s Sport" description="Home of Football. Official Sponsors of Redditch United. News, Rumours, Analysis, gossip and much more." xmlUrl="https://www.reddit.com/r/football/.rss?format=xml" type="rss" />
+			<outline text="Football News, Football Scores, Premier League, La Liga, ISL | The Hindu" title="Football News, Football Scores, Premier League, La Liga, ISL | The Hindu" description="Get Football News, Updates, Fixtures, Commentary &amp;amp;amp; Live Scores From Top Leagues Like The Premier League, La Liga, ISL &amp;amp;amp; Bundesliga At The Hindu" xmlUrl="https://www.thehindu.com/sport/football/feeder/default.rss" type="rss" />
+			<outline text="Football | The Guardian" title="Football | The Guardian" description="Latest Football news, comment and analysis from the Guardian, the world&apos;s leading liberal voice" xmlUrl="https://www.theguardian.com/football/rss" type="rss" />
+			<outline text="NYT &gt; Sports &gt; Soccer" title="NYT &gt; Sports &gt; Soccer" description="" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Soccer.xml" type="rss" />
 			<outline text="Soccer News" title="Soccer News" description="The Latest Soccer News from around the globe." xmlUrl="https://www.soccernews.com/feed" type="rss" />
 		</outline>
 	</body>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Plenary app</ownerName>
+		<ownerEmail>plenarytheapp@gmail.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="Bitcoin &amp; Crypto Trading: Ledger Cast" title="Bitcoin &amp; Crypto Trading: Ledger Cast" description="Ledger Cast covers the cryptocurrency industry (Bitcoin, Ethereum, and alt coins), including technical and trading analysis, fundamentals, and anything else crypto and blockchain related. Made by Ledger Status and friends." xmlUrl="https://feeds.simplecast.com/j5Cx9jps" type="rss" />
+		<outline text="Bitcoin - The Currency of the Internet" title="Bitcoin - The Currency of the Internet" description="Bitcoin is the currency of the Internet: a distributed, worldwide, decentralized digital money. Unlike traditional currencies such as dollars, bitcoins are issued and managed without any central authority whatsoever: there is no government, company, or bank in charge of Bitcoin. As such, it is more resistant to wild inflation and corrupt banks. With Bitcoin, you can be your own bank." xmlUrl="https://www.reddit.com/r/Bitcoin/.rss" type="rss" />
+		<outline text="Bitcoin Audible" title="Bitcoin Audible" description="The Best in Bitcoin, Ai, &amp; Development - Made Audible" xmlUrl="https://bitcoinaudible.com/feed/" type="rss" />
+		<outline text="Bitcoin News" title="Bitcoin News" description="Daily Bitcoin News" xmlUrl="https://news.bitcoin.com/feed/" type="rss" />
+		<outline text="BuyUcoin Talks - Medium" title="BuyUcoin Talks - Medium" description="BuyUcoin (https://www.buyucoin.com/) provides a simple and secure online platform for trading cryptocurrencies and blockchain-based digital assets. Users can profitably trade Bitcoin to INR, Ethereum to INR, and 150+ crypto to INR on a daily basis using EZ/OTC trade.buyucoin.com - Medium" xmlUrl="https://medium.com/feed/buyucoin-talks" type="rss" />
+		<outline text="Cointelegraph.com News" title="Cointelegraph.com News" description="Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money." xmlUrl="https://cointelegraph.com/rss" type="rss" />
+		<outline text="CryptoCurrency – Finance Magnates | Financial and business news" title="CryptoCurrency – Finance Magnates | Financial and business news" description="" xmlUrl="https://www.financemagnates.com/cryptocurrency/feed/" type="rss" />
+		<outline text="CryptoNinjas" title="CryptoNinjas" description="Bitcoin, Cryptocurrency and Blockchain Asset Source" xmlUrl="https://www.cryptoninjas.net/feed/" type="rss" />
+		<outline text="CryptoPotato" title="CryptoPotato" description="" xmlUrl="https://cryptopotato.com/feed/" type="rss" />
+		<outline text="Cryptocurrency News &amp; Discussion" title="Cryptocurrency News &amp; Discussion" description="The leading community for cryptocurrency news, discussion, and analysis." xmlUrl="https://www.reddit.com/r/CryptoCurrency/.rss" type="rss" />
+		<outline text="DailyCoin" title="DailyCoin" description="Cryptocurrency News" xmlUrl="https://dailycoin.com/feed/" type="rss" />
+		<outline text="Epicenter - Learn about Crypto, Blockchain, Ethereum, Bitcoin and Distributed Technologies" title="Epicenter - Learn about Crypto, Blockchain, Ethereum, Bitcoin and Distributed Technologies" description="Epicenter brings you in-depth conversations about the technical, economic and social implications of cryptocurrencies and blockchain technologies. Every week, we interview business leaders, engineers academics and entrepreneurs, and bring you a diverse spectrum of opinions and points of view. 
+
+Epicenter is hosted by Sebastien Couture, Brian Fabian Crain, Friederike Ernst, Meher Roy and Felix Lutsch. Since 2014, our episodes have been downloaded over 8 million times." xmlUrl="https://feeds.simplecast.com/lKmQDG9R" type="rss" />
+		<outline text="Ethereum" title="Ethereum" description="Next-generation platform for decentralised applications. Dive in at ethereum.org" xmlUrl="https://www.reddit.com/r/ethereum/.rss" type="rss" />
+		<outline text="Ethereum Foundation Blog" title="Ethereum Foundation Blog" description="" xmlUrl="https://blog.ethereum.org/feed.xml" type="rss" />
+		<outline text="INCRYPTED" title="INCRYPTED" description="Все о Блокчейн и Криптовалютах" xmlUrl="https://incrypted.net/feed/" type="rss" />
+		<outline text="Interviews" title="Interviews" description="#Investing #Finance #Markets" xmlUrl="https://feed.podbean.com/nuggetsnews/feed.xml" type="rss" />
+		<outline text="Kraken Blog" title="Kraken Blog" description="" xmlUrl="https://blog.kraken.com/feed/" type="rss" />
+		<outline text="News - Cryptonews" title="News - Cryptonews" description="" xmlUrl="https://cryptonews.com/news/feed" type="rss" />
+		<outline text="NewsBTC" title="NewsBTC" description="Bitcoin &amp; Cryptocurrency News Today" xmlUrl="https://www.newsbtc.com/feed/" type="rss" />
+		<outline text="Stephan Livera Podcast" title="Stephan Livera Podcast" description="Join Stephan as he interviews the sharpest economic and technical minds in Bitcoin &amp;amp; Austrian Economics to help you understand how money is changing and evolving. Leading names in the world of Bitcoin join the show to share their insights, whether they are developers, CEOs, economists, authors, analysts and more." xmlUrl="https://anchor.fm/s/7d083a4/podcast/rss" type="rss" />
+		<outline text="The Bad Crypto Podcast" title="The Bad Crypto Podcast" description="The World&apos;s Top Bitcoin Podcast covering Blockchain, Cryptocurrency, Ethereum, ICOs, Altcoins, Fintech and Digital Money. Hosted by Internet pioneer Joel Comm and Marketing Technologist Travis Wright, The Bad Crypto Podcast makes crypto easy to understand for newbies and crypto enthusiasts alike!" xmlUrl="https://badcryptopodcast.com/feed/" type="rss" />
+		<outline text="The Bitcoin Knowledge Podcast" title="The Bitcoin Knowledge Podcast" description="Interviews with top people in Bitcoin, blockchain and fintech including Adam Back, Caitlin Long, Saifedean Ammous, Paul Chou, Jesse Powell and many more." xmlUrl="https://www.bitcoin.kn/feed/podcast/" type="rss" />
+		<outline text="The Bitcoin Podcast" title="The Bitcoin Podcast" description="The Bitcoin Podcast is a show that discusses Bitcoin and Crypto topics in a laid back nature. From deep and technical topics, to laid back and philosophical topics...the gang, Demetrick, Corey and Jessie are just 3 guys looking to relax and talk about bitcoin. Established in 2015, one of the oldest crypto shows in the game." xmlUrl="https://feeds.simplecast.com/xCQr3ykc" type="rss" />
+		<outline text="The Market&apos;s Compass Technical View" title="The Market&apos;s Compass Technical View" description="Using Technical Analysis to Navigate the Waters of the Global Financial Markets" xmlUrl="https://themarketscompass.substack.com/feed" type="rss" />
+		<outline text="Today in Web 3" title="Today in Web 3" description="Coming Soon by Matthew Diemer" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:844321453/sounds.rss" type="rss" />
+		<outline text="ZebPay" title="ZebPay" description="Buy Bitcoin and Cryptocurrency at India’s Leading Exchange" xmlUrl="https://zebpay.com/feed/" type="rss" />
+		<outline text="cryptocurrency | TechCrunch" title="cryptocurrency | TechCrunch" description="Startup and Technology News" xmlUrl="https://techcrunch.com/tag/cryptocurrency/feed" type="rss" />
+	</body>
+</opml>
