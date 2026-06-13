@@ -680,6 +680,7 @@ Football - The People's Sport | https://www.reddit.com/r/football/.rss?format=xm
 Football News, Live Scores, Results &amp; Transfers - Goal.com | https://www.goal.com/feeds/en/news | goal.com 
 Football365 | https://www.football365.com/feed | football365.com 
 Soccer News | https://www.soccernews.com/feed | soccernews.com 
+World Cup 2026 Tour | https://ay-worldcup2026.zeabur.app/feed.xml | ay-worldcup2026.zeabur.app
 ### Funny
 Title | RSS Feed Url | Domain 
 -------|------------------|---------- 
