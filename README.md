@@ -1049,6 +1049,7 @@ Feeds in the OPML files in "with category" will have all the feeds wrapped aroun
 ## Contribution
 
 ### Add new category/country/feed
+- [RSS Keyword Alert (n8n)](https://github.com/DeusAcc/n8n-workflow-packs) - Free/paid n8n workflow: reads chosen RSS feeds and alerts only for the keywords that matter, with de-dupe built in.
 
 We are planning to expand this by adding more feeds, recommended categories and countries with the help of the community and our own curation.
 
