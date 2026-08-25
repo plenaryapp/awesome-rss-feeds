@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+	</head>
+	<body>
+		<outline text="South Korea" title="South Korea">
+			<outline text="The Korea Herald" title="The Korea Herald" description="Latest news from The Korea Herald, an English-language daily newspaper published in Seoul" xmlUrl="https://www.koreaherald.com/rss/newsAll" type="rss" />
+			<outline text="Korea Times News" title="Korea Times News" description="National news from The Korea Times, an English-language daily newspaper published in Seoul" xmlUrl="https://www.koreatimes.co.kr/www/rss/nation.xml" type="rss" />
+			<outline text="Yonhap News Agency | All News" title="Yonhap News Agency | All News" description="English-language news from Yonhap, South Korea's national news agency" xmlUrl="https://en.yna.co.kr/RSS/news.xml" type="rss" />
+			<outline text="News - English [KBS WORLD Radio]" title="News - English [KBS WORLD Radio]" description="English-language news from KBS World Radio, the international service of South Korea's public broadcaster" xmlUrl="http://world.kbs.co.kr/rss/rss_news.htm?lang=e" type="rss" />
+			<outline text="The Korea Economic Daily Global" title="The Korea Economic Daily Global" description="Korean business, markets and industry news in English" xmlUrl="https://www.kedglobal.com/rss/news.xml" type="rss" />
+			<outline text="Arirang Post" title="Arirang Post" description="Dated, sourced English-language reporting for visitors to Korea. All times KST." xmlUrl="https://arirangpost.com/rss.xml" type="rss" />
+		</outline>
+	</body>
+</opml>
