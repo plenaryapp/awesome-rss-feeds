@@ -781,6 +781,7 @@ Title | RSS Feed Url | Domain
 BBC News - World | http://feeds.bbci.co.uk/news/world/rss.xml | bbc.co.uk 
 CNN.com - RSS Channel - World | http://rss.cnn.com/rss/edition_world.rss | cnn.com 
 International: Top News And Analysis | https://www.cnbc.com/id/100727362/device/rss/rss.html | cnbc.com 
+Informed Clearly | https://informedclearly.com/feed/rss/en | informedclearly.com 
 NDTV News - World-news | http://feeds.feedburner.com/ndtvnews-world-news | ndtv.com 
 NYT > World News | https://rss.nytimes.com/services/xml/rss/nyt/World.xml | nytimes.com 
 Top stories - Google News | https://news.google.com/rss | news.google.com 
