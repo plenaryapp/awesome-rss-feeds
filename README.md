@@ -892,6 +892,7 @@ programming | https://www.reddit.com/r/programming/.rss | reddit.com
 Title | RSS Feed Url | Domain 
 -------|------------------|---------- 
 60-Second Science | http://rss.sciam.com/sciam/60secsciencepodcast | scientificamerican.com 
+AgingResearch.News | https://agingresearch.news/feed.xml | agingresearch.news 
 BBC News - Science & Environment | http://feeds.bbci.co.uk/news/science_and_environment/rss.xml | bbc.co.uk 
 Discovery | https://podcasts.files.bbci.co.uk/p002w557.rss | bbc.co.uk 
 FlowingData | https://flowingdata.com/feed | flowingdata.com 
