@@ -1038,6 +1038,7 @@ A List Apart: The Full Feed | https://alistapart.com/main/feed/ | alistapart.com
 CSS-Tricks | https://css-tricks.com/feed/ | css-tricks.com 
 Code Wall | https://www.codewall.co.uk/feed/ | codewall.co.uk 
 David Walsh Blog | https://davidwalsh.name/feed | davidwalsh.name 
+Marko Denic Tech | https://markodenic.tech/feed/ | markodenic.tech 
 Mozilla Hacks – the Web developer blog | https://hacks.mozilla.org/feed/ | hacks.mozilla.org 
 Sink In - Tech and Travel | https://gosink.in/rss/ | gosink.in 
 Updates | https://developers.google.com/web/updates/rss.xml | developers.google.com 
