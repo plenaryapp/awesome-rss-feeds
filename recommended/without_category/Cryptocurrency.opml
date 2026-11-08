@@ -35,6 +35,6 @@ Epicenter is hosted by Sebastien Couture, Brian Fabian Crain, Friederike Ernst, 
 		<outline text="The Market&apos;s Compass Technical View" title="The Market&apos;s Compass Technical View" description="Using Technical Analysis to Navigate the Waters of the Global Financial Markets" xmlUrl="https://themarketscompass.substack.com/feed" type="rss" />
 		<outline text="Today in Web 3" title="Today in Web 3" description="Coming Soon by Matthew Diemer" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:844321453/sounds.rss" type="rss" />
 		<outline text="ZebPay" title="ZebPay" description="Buy Bitcoin and Cryptocurrency at India’s Leading Exchange" xmlUrl="https://zebpay.com/feed/" type="rss" />
-		<outline text="cryptocurrency | TechCrunch" title="cryptocurrency | TechCrunch" description="Startup and Technology News" xmlUrl="https://techcrunch.com/tag/cryptocurrency/feed" type="rss" />
+		<outline text="cryptocurrency | TechCrunch" title="cryptocurrency | TechCrunch" description="Startup and Technology News" xmlUrl="https://techcrunch.com/tag/cryptocurrency/feed/" type="rss" />
 	</body>
 </opml>
