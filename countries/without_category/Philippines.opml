@@ -17,7 +17,6 @@
 		<outline text="GMA News Online / News" title="GMA News Online / News" description="GMA News Online RSS Feed - News Section" xmlUrl="https://data.gmanews.tv/gno/rss/news/feed.xml" type="rss" />
 		<outline text="Current PH" title="Current PH" description="Latest Philippine Breaking News and Stories" xmlUrl="https://currentph.com/feed/" type="rss" />
 		<outline text="Top Gear: The Philippine authority on cars and the automotive industry" title="Top Gear: The Philippine authority on cars and the automotive industry" description="The Philippines best online source of info on cars and the automotive industry." xmlUrl="https://www.topgear.com.ph/feed/rss1" type="rss" />
-		<outline text="Eagle News" title="Eagle News" description="Breaking News, Latest Philippines Headlines, World, Entertainment, Politics, Weather & Video News" xmlUrl="https://www.eaglenews.ph/feed/" type="rss" />
 		<outline text="UNBOX PH" title="UNBOX PH" description="Taking Awesome Out of the Box" xmlUrl="https://www.unbox.ph/feed/" type="rss" />
 		<outline text="Tempo – The Nation's Fastest Growing Newspaper" title="Tempo – The Nation's Fastest Growing Newspaper" description="Tempo - News in a Flash" xmlUrl="http://tempo.com.ph/feed/" type="rss" />
 		<outline text="Abante Tonite" title="Abante Tonite" description="Mabilis sa Balita" xmlUrl="https://tonite.abante.com.ph/feed/" type="rss" />

@@ -8,7 +8,6 @@
 		<outline text="Italy" title="Italy">
 			<outline text="RSS di   - ANSA.it" title="RSS di   - ANSA.it" description="Updated every day - FOR PERSONAL USE ONLY" xmlUrl="https://www.ansa.it/sito/ansait_rss.xml" type="rss" />
 			<outline text="The Local" title="The Local" description="Europe's news in English" xmlUrl="https://feeds.thelocal.com/rss/it" type="rss" />
-			<outline text="RSS DiariodelWeb.it" title="RSS DiariodelWeb.it" description="RSS DiariodelWeb.it" xmlUrl="https://www.diariodelweb.it/rss/home/" type="rss" />
 			<outline text="Fanpage" title="Fanpage" description="Indipendente, sociale, partecipativo - segui i nostri live, reportage, inchieste, storie e video da Youmedia, partecipa con noi all'informazione." xmlUrl="https://www.fanpage.it/feed/" type="rss" />
 			<outline text="Libero Quotidiano" title="Libero Quotidiano" description="Libero Quotidiano contents" xmlUrl="https://www.liberoquotidiano.it/rss.xml" type="rss" />
 			<outline text="Il Mattino Web" title="Il Mattino Web" description="Gli articoli del Mattino" xmlUrl="https://www.ilmattino.it/?sez=XML&args&p=search&args[box]=Home&limit=20&layout=rss" type="rss" />

@@ -9,7 +9,6 @@
 	<body>
 		<outline text="Adventure.com" title="Adventure.com" description="" xmlUrl="http://adventure.com/feed/" type="rss" />
 		<outline text="Atlas Obscura - Latest Articles and Places" title="Atlas Obscura - Latest Articles and Places" description="New wonders and curiosities added to the Atlas." xmlUrl="https://www.atlasobscura.com/feeds/latest" type="rss" />
-		<outline text="CNN.com - RSS Channel - App Travel Section" title="CNN.com - RSS Channel - App Travel Section" description="CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more." xmlUrl="http://rss.cnn.com/rss/cnn_travel.rss" type="rss" />
 		<outline text="Everything Everywhere" title="Everything Everywhere" description="Learn Something New Every Day!" xmlUrl="http://feeds2.feedburner.com/EverythingEverywhere/" type="rss" />
 		<outline text="Live Life Travel" title="Live Life Travel" description="Your travel partner for life" xmlUrl="https://www.livelifetravel.world/feed/" type="rss" />
 		<outline text="Million Mile Secrets" title="Million Mile Secrets" description="" xmlUrl="http://feeds.feedburner.com/MillionMileSecrets" type="rss" />
