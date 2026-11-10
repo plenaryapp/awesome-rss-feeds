@@ -979,6 +979,8 @@ ReadWrite | https://readwrite.com/feed/ | readwrite.com
 Reply All | https://feeds.megaphone.fm/replyall | gimletmedia.com 
 Rocket | https://www.relay.fm/rocket/feed | relay.fm 
 Slashdot | http://rss.slashdot.org/Slashdot/slashdotMain | slashdot.org 
+StarHOT Daily Brief | https://www.starhot.space/feed/daily.xml | starhot.space 
+StarHOT Featured | https://www.starhot.space/feed.xml | starhot.space 
 Stratechery by Ben Thompson | http://stratechery.com/feed/ | stratechery.com 
 TechCrunch | http://feeds.feedburner.com/TechCrunch | techcrunch.com 
 The Keyword | https://www.blog.google/rss/ | blog.google 
