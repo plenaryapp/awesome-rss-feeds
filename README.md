@@ -971,7 +971,7 @@ CNET News | https://www.cnet.com/rss/news/ | cnet.com
 Clockwise | https://www.relay.fm/clockwise/feed | relay.fm 
 Gizmodo | https://gizmodo.com/rss | gizmodo.com 
 Hacker News | https://news.ycombinator.com/rss | news.ycombinator.com 
-Lifehacker | https://lifehacker.com/rss | lifehacker.com 
+Lifehacker | https://lifehacker.com/rss | lifehacker.com The Flat Rate Dev | https://raw.githubusercontent.com/scrapertweeter3-prog/poketdev-podcast/main/rss.xml | poketdev.com 
 Linus Tech Tips | https://www.youtube.com/feeds/videos.xml?user=LinusTechTips | youtube.com 
 Marques Brownlee | https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee | youtube.com 
 Mashable | http://feeds.mashable.com/Mashable | mashable.com 
