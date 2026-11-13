@@ -628,7 +628,7 @@ A Beautiful Mess | https://abeautifulmess.com/feed | abeautifulmess.com
 Apartment Therapy- Saving the world, one room at a time | https://www.apartmenttherapy.com/projects.rss | apartmenttherapy.com 
 Blog – Hackaday | https://hackaday.com/blog/feed/ | hackaday.com 
 Centsational Style | https://centsationalstyle.com/feed/ | centsationalstyle.com 
-Doityourself.com | https://www.doityourself.com/feed | doityourself.com 
+Doityourself.com | https://www.doityourself.com/feed | doityourself.com DurablePicks | https://durablepicks.com/rss.xml | durablepicks.com 
 Etsy Journal | https://blog.etsy.com/en/feed/ | blog.etsy.com 
 How-To Geek | https://www.howtogeek.com/feed/ | howtogeek.com 
 IKEA Hackers | https://www.ikeahackers.net/feed | ikeahackers.net 
