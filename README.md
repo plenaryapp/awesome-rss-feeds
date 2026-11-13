@@ -795,7 +795,7 @@ Title | RSS Feed Url | Domain
 Afford Anything | https://affordanything.com/feed/ | affordanything.com 
 Blog – Student Loan Hero | https://studentloanhero.com/blog/feed | studentloanhero.com 
 Budgets Are Sexy | https://feeds2.feedburner.com/budgetsaresexy | budgetsaresexy.com 
-Financial Samurai | https://www.financialsamurai.com/feed/ | financialsamurai.com 
+Financial Samurai | https://www.financialsamurai.com/feed/ | financialsamurai.com Firenomics | https://firenomics.com/rss.xml | firenomics.com 
 Frugalwoods | https://feeds.feedburner.com/Frugalwoods | frugalwoods.com 
 Get Rich Slowly | https://www.getrichslowly.org/feed/ | getrichslowly.org 
 Good Financial Cents® | https://www.goodfinancialcents.com/feed/ | goodfinancialcents.com 
