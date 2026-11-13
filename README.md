@@ -902,7 +902,7 @@ Invisibilia | https://feeds.npr.org/510307/podcast.xml | npr.org
 Latest Science News -- ScienceDaily | https://www.sciencedaily.com/rss/all.xml | sciencedaily.com 
 NYT > Science | https://rss.nytimes.com/services/xml/rss/nyt/Science.xml | nytimes.com 
 Nature | https://www.nature.com/nature.rss | feeds.nature.com 
-Phys.org - latest science and technology news stories | https://phys.org/rss-feed/ | phys.org 
+Phys.org - latest science and technology news stories | https://phys.org/rss-feed/ | phys.org HackedSelf | https://hackedself.com/rss.xml | hackedself.com 
 Probably Science | https://probablyscience.libsyn.com/rss | probablyscience.com 
 Radiolab | http://feeds.wnyc.org/radiolab | wnycstudios.org 
 Reddit Science | https://reddit.com/r/science/.rss | reddit.com 
