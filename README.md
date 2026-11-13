@@ -975,6 +975,7 @@ Lifehacker | https://lifehacker.com/rss | lifehacker.com
 Linus Tech Tips | https://www.youtube.com/feeds/videos.xml?user=LinusTechTips | youtube.com 
 Marques Brownlee | https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee | youtube.com 
 Mashable | http://feeds.mashable.com/Mashable | mashable.com 
+PastAGI | https://pastagi.com/rss.xml | pastagi.com 
 ReadWrite | https://readwrite.com/feed/ | readwrite.com 
 Reply All | https://feeds.megaphone.fm/replyall | gimletmedia.com 
 Rocket | https://www.relay.fm/rocket/feed | relay.fm 
