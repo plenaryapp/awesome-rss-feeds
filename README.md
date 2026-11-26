@@ -27,6 +27,7 @@ Country | OPML | OPML (without category) <sup>[What's this?](#with-category-and-
 [🇮🇷 Iran](#-Iran) | [Iran.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Iran.opml) | [Iran.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Iran.opml)
 [🇮🇹 Italy](#-Italy) | [Italy.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Italy.opml) | [Italy.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Italy.opml)
 [🇯🇵 Japan](#-Japan) | [Japan.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Japan.opml) | [Japan.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Japan.opml)
+[🇰🇷 South Korea](#-South-Korea) | [South Korea.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/South%20Korea.opml) | [South Korea.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/South%20Korea.opml)
 [🇲🇲 Myanmar (Burma)](#-Myanmar-Burma) | [Myanmar (Burma).opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Myanmar%20(Burma).opml) | [Myanmar (Burma).opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Myanmar%20(Burma).opml)
 [🇲🇽 Mexico](#-Mexico) | [Mexico.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Mexico.opml) | [Mexico.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Mexico.opml)
 [🇳🇬 Nigeria](#-Nigeria) | [Nigeria.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Nigeria.opml) | [Nigeria.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Nigeria.opml)
@@ -274,6 +275,15 @@ BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報 | http:
 NYT > Japan | https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/destination/japan/rss.xml |  
 ライブドアニュース - 主要トピックス | https://news.livedoor.com/topics/rss/top.xml |  
 朝日新聞デジタル | http://rss.asahi.com/rss/asahi/newsheadlines.rdf |  
+### 🇰🇷 South Korea
+Source | Primary Feed Url | All Feeds 
+-------|------------------|---------- 
+The Korea Herald | https://www.koreaherald.com/rss/newsAll |  
+Korea Times News | https://www.koreatimes.co.kr/www/rss/nation.xml |  
+Yonhap News Agency | All News | https://en.yna.co.kr/RSS/news.xml |  
+News - English [KBS WORLD Radio] | http://world.kbs.co.kr/rss/rss_news.htm?lang=e |  
+The Korea Economic Daily Global | https://www.kedglobal.com/rss/news.xml |  
+Arirang Post | https://arirangpost.com/rss.xml |  
 ### 🇲🇲 Myanmar (Burma)
 Source | Primary Feed Url | All Feeds 
 -------|------------------|---------- 
