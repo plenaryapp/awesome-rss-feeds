@@ -11,6 +11,7 @@
 		<outline text="CSS-Tricks" title="CSS-Tricks" description="Tips, Tricks, and Techniques on using Cascading Style Sheets." xmlUrl="https://css-tricks.com/feed/" type="rss" />
 		<outline text="Code Wall" title="Code Wall" description="" xmlUrl="https://www.codewall.co.uk/feed/" type="rss" />
 		<outline text="David Walsh Blog" title="David Walsh Blog" description="A blog featuring tutorials about JavaScript, HTML5, AJAX, PHP, CSS, WordPress, and everything else development." xmlUrl="https://davidwalsh.name/feed" type="rss" />
+		<outline text="Marko Denic Tech" title="Marko Denic Tech" description="Practical web dev tips, tools, and resources, every week." xmlUrl="https://markodenic.tech/feed/" type="rss" />
 		<outline text="Sink In - Tech Learnings" title="Sink In - Tech Learnings" description="Sink In - Tech Learnings (Shah Code Exporters - FZCO)" xmlUrl="https://gosink.in/rss/" type="rss" />
 	</body>
 </opml>

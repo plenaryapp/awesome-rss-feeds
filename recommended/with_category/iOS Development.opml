@@ -11,7 +11,7 @@
 			<outline text="Alberto De Bortoli" title="Alberto De Bortoli" description="Principal Software Engineer @ Just Eat Takeaway, London." xmlUrl="https://albertodebortoli.com/rss/" type="rss" />
 			<outline text="Augmented Code" title="Augmented Code" description="Performant, sleek and elegant." xmlUrl="https://augmentedcode.io/feed/" type="rss" />
 			<outline text="Benoit Pasquier" title="Benoit Pasquier" description="Recent content on Benoit Pasquier" xmlUrl="https://benoitpasquier.com/index.xml" type="rss" />
-			<outline text="Bruno Rocha" title="Bruno Rocha" description="SwiftRocks is Bruno Rocha&apos;s blog about Swift / iOS and the software engineering industry." xmlUrl="https://swiftrocks.com/rss.xml" type="rss" />
+			<outline text="Bruno Rocha" title="Bruno Rocha" description="SwiftRocks is Bruno Rocha's blog about Swift / iOS and the software engineering industry." xmlUrl="https://swiftrocks.com/rss.xml" type="rss" />
 			<outline text="Latest News - Apple Developer" title="Latest News - Apple Developer" description="" xmlUrl="https://developer.apple.com/news/rss/news.rss" type="rss" />
 			<outline text="Mobile A11y" title="Mobile A11y" description="Recent content on Mobile A11y" xmlUrl="https://mobilea11y.com/index.xml" type="rss" />
 			<outline text="Ole Begemann" title="Ole Begemann" description="" xmlUrl="https://oleb.net/blog/atom.xml" type="rss" />
@@ -21,7 +21,7 @@
 			<outline text="The One And Only Blog Of Joe Fabisevich" title="The One And Only Blog Of Joe Fabisevich" description="The personal website of the one and only Joe Fabisevich, and indie developer building Red Panda Club Inc. Formerly an iOS developer working on civic integrity, societal health, misinformation, and other wild things @Twitter." xmlUrl="https://www.fabisevi.ch/feed.xml" type="rss" />
 			<outline text="Under the Radar" title="Under the Radar" description="From development and design to marketing and support, Under the Radar was all about independent app development. It was rarely longer than 30 minutes. Hosted by Marco Arment and David Smith." xmlUrl="https://www.relay.fm/radar/feed" type="rss" />
 			<outline text="Use Your Loaf - iOS Development News &amp; Tips" title="Use Your Loaf - iOS Development News &amp; Tips" description="Recent content on Use Your Loaf - iOS Development News &amp; Tips" xmlUrl="https://useyourloaf.com/blog/rss.xml" type="rss" />
-			<outline text="inessential.com" title="inessential.com" description="Brent Simmons&apos;s weblog." xmlUrl="https://inessential.com/xml/rss.xml" type="rss" />
+			<outline text="inessential.com" title="inessential.com" description="Brent Simmons's weblog." xmlUrl="https://inessential.com/xml/rss.xml" type="rss" />
 			<outline text="tyler.io" title="tyler.io" description="mostly nonsense" xmlUrl="https://tyler.io/feed/" type="rss" />
 		</outline>
 	</body>

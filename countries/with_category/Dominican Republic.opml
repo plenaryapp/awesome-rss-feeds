@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+	</head>
+	<body>
+		<outline text="Dominican Republic" title="Dominican Republic">
+			<outline text="Orgullo Dominicano" title="Orgullo Dominicano" description="Dominican news, sports, culture, economy, tourism and the Dominican diaspora" xmlUrl="https://orgullodominicano.org/feed/" type="rss" />
+		</outline>
+	</body>
+</opml>

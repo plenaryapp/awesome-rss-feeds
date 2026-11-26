@@ -27,6 +27,7 @@ Country | OPML | OPML (without category) <sup>[What's this?](#with-category-and-
 [🇮🇷 Iran](#-Iran) | [Iran.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Iran.opml) | [Iran.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Iran.opml)
 [🇮🇹 Italy](#-Italy) | [Italy.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Italy.opml) | [Italy.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Italy.opml)
 [🇯🇵 Japan](#-Japan) | [Japan.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Japan.opml) | [Japan.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Japan.opml)
+[🇰🇷 South Korea](#-South-Korea) | [South Korea.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/South%20Korea.opml) | [South Korea.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/South%20Korea.opml)
 [🇲🇲 Myanmar (Burma)](#-Myanmar-Burma) | [Myanmar (Burma).opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Myanmar%20(Burma).opml) | [Myanmar (Burma).opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Myanmar%20(Burma).opml)
 [🇲🇽 Mexico](#-Mexico) | [Mexico.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Mexico.opml) | [Mexico.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Mexico.opml)
 [🇳🇬 Nigeria](#-Nigeria) | [Nigeria.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Nigeria.opml) | [Nigeria.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Nigeria.opml)
@@ -117,7 +118,7 @@ Portal EBC - RSS | http://www.ebc.com.br/rss/feed.xml | http://www.ebc.com.br/rs
 R7 - Notícias | https://noticias.r7.com/feed.xml | http://www.r7.com/institucional/rss 
 UOL | http://rss.home.uol.com.br/index.xml | https://rss.uol.com.br/ 
 The Rio Times | https://riotimesonline.com/feed/ |  
-Brasil Wire | http://www.brasilwire.com/feed/ |  
+Brasil Wire | https://www.brasilwire.com/feed/ |  
 Jornal de Brasília | https://jornaldebrasilia.com.br/feed/ |  
 ### 🇨🇦 Canada
 Source | Primary Feed Url | All Feeds 
@@ -220,7 +221,6 @@ Moneycontrol Latest News | http://www.moneycontrol.com/rss/latestnews.xml | http
 Economic Times | https://economictimes.indiatimes.com/rssfeedsdefault.cms | https://economictimes.indiatimes.com/rss.cms 
 News, Latest News, Today's News Headlines, Breaking News, LIVE News - Oneindia | https://www.oneindia.com/rss/news-fb.xml | https://www.oneindia.com/rss 
 Scroll.in | http://feeds.feedburner.com/ScrollinArticles.rss |  
-The Financial Express | https://www.financialexpress.com/feed/ | https://www.financialexpress.com/syndication/ 
 Business Line - Home | https://www.thehindubusinessline.com/feeder/default.rss | https://www.thehindubusinessline.com/rssfeeds/ 
 TechGenyz | http://feeds.feedburner.com/techgenyz |  
 Top Stories News - Gujarat Samachar : World's Leading Gujarati Newspaper | https://www.gujaratsamachar.com/rss/top-stories | https://www.gujaratsamachar.com/rss 
@@ -252,7 +252,6 @@ Source | Primary Feed Url | All Feeds
 -------|------------------|---------- 
 RSS di   - ANSA.it | https://www.ansa.it/sito/ansait_rss.xml | https://www.ansa.it/sito/static/ansa_rss.html 
 The Local | https://feeds.thelocal.com/rss/it |  
-RSS DiariodelWeb.it | https://www.diariodelweb.it/rss/home/ | https://www.diariodelweb.it/rss/ 
 Fanpage | https://www.fanpage.it/feed/ |  
 Libero Quotidiano | https://www.liberoquotidiano.it/rss.xml |  
 Il Mattino Web | https://www.ilmattino.it/?sez=XML&args&p=search&args[box]=Home&limit=20&layout=rss |  
@@ -274,6 +273,15 @@ BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報 | http:
 NYT > Japan | https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/destination/japan/rss.xml |  
 ライブドアニュース - 主要トピックス | https://news.livedoor.com/topics/rss/top.xml |  
 朝日新聞デジタル | http://rss.asahi.com/rss/asahi/newsheadlines.rdf |  
+### 🇰🇷 South Korea
+Source | Primary Feed Url | All Feeds 
+-------|------------------|---------- 
+The Korea Herald | https://www.koreaherald.com/rss/newsAll |  
+Korea Times News | https://www.koreatimes.co.kr/www/rss/nation.xml |  
+Yonhap News Agency | All News | https://en.yna.co.kr/RSS/news.xml |  
+News - English [KBS WORLD Radio] | http://world.kbs.co.kr/rss/rss_news.htm?lang=e |  
+The Korea Economic Daily Global | https://www.kedglobal.com/rss/news.xml |  
+Arirang Post | https://arirangpost.com/rss.xml |  
 ### 🇲🇲 Myanmar (Burma)
 Source | Primary Feed Url | All Feeds 
 -------|------------------|---------- 
@@ -323,7 +331,6 @@ Manila Standard | https://manilastandard.net/feed/all | https://manilastandard.n
 GMA News Online / News | https://data.gmanews.tv/gno/rss/news/feed.xml | https://www.gmanetwork.com/news/rss/ 
 Current PH | https://currentph.com/feed/ |  
 Top Gear: The Philippine authority on cars and the automotive industry | https://www.topgear.com.ph/feed/rss1 |  
-Eagle News | https://www.eaglenews.ph/feed/ |  
 UNBOX PH | https://www.unbox.ph/feed/ |  
 Tempo – The Nation's Fastest Growing Newspaper | http://tempo.com.ph/feed/ |  
 Abante Tonite | https://tonite.abante.com.ph/feed/ |  
@@ -337,7 +344,7 @@ Source | Primary Feed Url | All Feeds
 The Express Tribune | https://tribune.com.pk/feed/home | https://tribune.com.pk/rss/ 
 The Nation - Top Stories | https://nation.com.pk/rss/top-stories | https://nation.com.pk/rss 
 قومی خبریں | https://jang.com.pk/rss/1/1 | https://jang.com.pk/rss 
-The News International - Pakistan | https://www.thenews.com.pk/rss/1/1 | https://www.thenews.com.pk/rss 
+The News International - Pakistan | https://www.thenews.com.pk/rss/1/0 | https://www.thenews.com.pk/rss 
 News Blog | https://newsnblogs.com/feed/ |  
 UrduPoint.com All Urdu News | https://www.urdupoint.com/rss/urdupoint.rss | https://www.urdupoint.com/rss/ 
 ایکسپریس اردو | https://www.express.pk/feed/ | https://www.express.pk/rssfeeds/ 
@@ -386,13 +393,12 @@ Gazeta.ua | https://gazeta.ua/rss |
 ### 🇺🇸 United States
 Source | Primary Feed Url | All Feeds 
 -------|------------------|---------- 
-World News - Breaking News, Top Stories | https://www.huffpost.com/section/world-news/feed | https://www.huffpost.com/syndication 
+World News - Breaking News, Top Stories | https://chaski.huffpost.com/us/auto/vertical/world-news | https://www.huffpost.com/syndication 
 NYT > Top Stories | https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml | https://archive.nytimes.com/www.nytimes.com/services/xml/rss/index.html 
 FOX News | http://feeds.foxnews.com/foxnews/latest | https://www.foxnews.com/about/rss/ 
 World | http://feeds.washingtonpost.com/rss/world | https://www.washingtonpost.com/discussions/2018/10/12/washington-post-rss-feeds/ 
 WSJ.com: World News | https://feeds.a.dj.com/rss/RSSWorldNews.xml | https://www.wsj.com/news/rss-news-and-feeds 
 World & Nation | https://www.latimes.com/world-nation/rss2.0.xml | https://www.latimes.com/feeds 
-CNN.com - RSS Channel - App International Edition | http://rss.cnn.com/rss/edition.rss | https://edition.cnn.com/services/rss/ 
 Yahoo News - Latest News & Headlines | https://news.yahoo.com/rss/mostviewed | https://developer.yahoo.com/rss// 
 US Top News and Analysis | https://www.cnbc.com/id/100003114/device/rss/rss.html | https://www.cnbc.com/rss-feeds/ 
 Playbook | https://rss.politico.com/playbook.xml | https://www.politico.com/rss 
@@ -433,7 +439,7 @@ Droid Life | https://www.droid-life.com/feed | droid-life.com
 GSMArena.com - Latest articles | https://www.gsmarena.com/rss-news-reviews.php3 | gsmarena.com 
 Phandroid | http://feeds2.feedburner.com/AndroidPhoneFans | phandroid.com 
 TalkAndroid | http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums | talkandroid.com 
-xda-developers | https://data.xda-developers.com/portal-feed | xda-developers.com 
+xda-developers | https://www.xda-developers.com/feed/ | xda-developers.com 
 ### Android Development
 Title | RSS Feed Url | Domain 
 -------|------------------|---------- 
@@ -628,7 +634,7 @@ A Beautiful Mess | https://abeautifulmess.com/feed | abeautifulmess.com
 Apartment Therapy- Saving the world, one room at a time | https://www.apartmenttherapy.com/projects.rss | apartmenttherapy.com 
 Blog – Hackaday | https://hackaday.com/blog/feed/ | hackaday.com 
 Centsational Style | https://centsationalstyle.com/feed/ | centsationalstyle.com 
-Doityourself.com | https://www.doityourself.com/feed | doityourself.com 
+Doityourself.com | https://www.doityourself.com/feed | doityourself.com DurablePicks | https://durablepicks.com/rss.xml | durablepicks.com 
 Etsy Journal | https://blog.etsy.com/en/feed/ | blog.etsy.com 
 How-To Geek | https://www.howtogeek.com/feed/ | howtogeek.com 
 IKEA Hackers | https://www.ikeahackers.net/feed | ikeahackers.net 
@@ -700,7 +706,7 @@ xkcd.com | https://xkcd.com/rss.xml | xkcd.com
 ### Gaming
 Title | RSS Feed Url | Domain 
 -------|------------------|---------- 
-Escapist Magazine | https://www.escapistmagazine.com/v2/feed/ | escapistmagazine.com 
+Escapist Magazine | https://www.escapistmagazine.com/feed/ | escapistmagazine.com 
 Eurogamer.net | https://www.eurogamer.net/?format=rss | eurogamer.net 
 Gamasutra News | http://feeds.feedburner.com/GamasutraNews | gamasutra.com 
 GameSpot - All Content | https://www.gamespot.com/feeds/mashup/ | gamespot.com 
@@ -779,8 +785,8 @@ Your EDM | https://www.youredm.com/feed | youredm.com
 Title | RSS Feed Url | Domain 
 -------|------------------|---------- 
 BBC News - World | http://feeds.bbci.co.uk/news/world/rss.xml | bbc.co.uk 
-CNN.com - RSS Channel - World | http://rss.cnn.com/rss/edition_world.rss | cnn.com 
 International: Top News And Analysis | https://www.cnbc.com/id/100727362/device/rss/rss.html | cnbc.com 
+Informed Clearly | https://informedclearly.com/feed/rss/en | informedclearly.com 
 NDTV News - World-news | http://feeds.feedburner.com/ndtvnews-world-news | ndtv.com 
 NYT > World News | https://rss.nytimes.com/services/xml/rss/nyt/World.xml | nytimes.com 
 Top stories - Google News | https://news.google.com/rss | news.google.com 
@@ -795,6 +801,8 @@ Title | RSS Feed Url | Domain
 Afford Anything | https://affordanything.com/feed/ | affordanything.com 
 Blog – Student Loan Hero | https://studentloanhero.com/blog/feed | studentloanhero.com 
 Budgets Are Sexy | https://feeds2.feedburner.com/budgetsaresexy | budgetsaresexy.com 
+Financial Samurai | https://www.financialsamurai.com/feed/ | financialsamurai.com Firenomics | https://firenomics.com/rss.xml | firenomics.com 
+Budgets Are Sexy | https://feeds2.feedburner.com/budgetsaresexy | budgetsaresexy.com ExtraHustles | https://extrahustles.com/rss.xml | extrahustles.com 
 Financial Samurai | https://www.financialsamurai.com/feed/ | financialsamurai.com 
 Frugalwoods | https://feeds.feedburner.com/Frugalwoods | frugalwoods.com 
 Get Rich Slowly | https://www.getrichslowly.org/feed/ | getrichslowly.org 
@@ -825,7 +833,6 @@ Title | RSS Feed Url | Domain
 -------|------------------|---------- 
 500px | https://iso.500px.com/feed/ | iso.500px.com 
 500px: | https://500px.com/editors.rss | 500px.com 
-Big Picture | https://www.bostonglobe.com/rss/bigpicture | bostonglobe.com 
 Canon Rumors – Your best source for Canon rumors, leaks and gossip | https://www.canonrumors.com/feed/ | canonrumors.com 
 Digital Photography School | https://feeds.feedburner.com/DigitalPhotographySchool | digital-photography-school.com 
 Light Stalking | https://www.lightstalking.com/feed/ | lightstalking.com 
@@ -892,6 +899,7 @@ programming | https://www.reddit.com/r/programming/.rss | reddit.com
 Title | RSS Feed Url | Domain 
 -------|------------------|---------- 
 60-Second Science | http://rss.sciam.com/sciam/60secsciencepodcast | scientificamerican.com 
+AgingResearch.News | https://agingresearch.news/feed.xml | agingresearch.news 
 BBC News - Science & Environment | http://feeds.bbci.co.uk/news/science_and_environment/rss.xml | bbc.co.uk 
 Discovery | https://podcasts.files.bbci.co.uk/p002w557.rss | bbc.co.uk 
 FlowingData | https://flowingdata.com/feed | flowingdata.com 
@@ -902,7 +910,7 @@ Invisibilia | https://feeds.npr.org/510307/podcast.xml | npr.org
 Latest Science News -- ScienceDaily | https://www.sciencedaily.com/rss/all.xml | sciencedaily.com 
 NYT > Science | https://rss.nytimes.com/services/xml/rss/nyt/Science.xml | nytimes.com 
 Nature | https://www.nature.com/nature.rss | feeds.nature.com 
-Phys.org - latest science and technology news stories | https://phys.org/rss-feed/ | phys.org 
+Phys.org - latest science and technology news stories | https://phys.org/rss-feed/ | phys.org HackedSelf | https://hackedself.com/rss.xml | hackedself.com 
 Probably Science | https://probablyscience.libsyn.com/rss | probablyscience.com 
 Radiolab | http://feeds.wnyc.org/radiolab | wnycstudios.org 
 Reddit Science | https://reddit.com/r/science/.rss | reddit.com 
@@ -969,17 +977,22 @@ Ars Technica | http://feeds.arstechnica.com/arstechnica/index | arstechnica.com
 CNET | https://www.youtube.com/feeds/videos.xml?user=CNETTV | youtube.com 
 CNET News | https://www.cnet.com/rss/news/ | cnet.com 
 Clockwise | https://www.relay.fm/clockwise/feed | relay.fm 
+Digest AI | https://digestai.news/rss.xml | digestai.news 
 Gizmodo | https://gizmodo.com/rss | gizmodo.com 
 Hacker News | https://news.ycombinator.com/rss | news.ycombinator.com 
-Lifehacker | https://lifehacker.com/rss | lifehacker.com 
+Lifehacker | https://lifehacker.com/rss | lifehacker.com The Flat Rate Dev | https://raw.githubusercontent.com/scrapertweeter3-prog/poketdev-podcast/main/rss.xml | poketdev.com 
 Linus Tech Tips | https://www.youtube.com/feeds/videos.xml?user=LinusTechTips | youtube.com 
 Marques Brownlee | https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee | youtube.com 
 Mashable | http://feeds.mashable.com/Mashable | mashable.com 
+PastAGI | https://pastagi.com/rss.xml | pastagi.com 
 ReadWrite | https://readwrite.com/feed/ | readwrite.com 
 Reply All | https://feeds.megaphone.fm/replyall | gimletmedia.com 
 Rocket | https://www.relay.fm/rocket/feed | relay.fm 
 Slashdot | http://rss.slashdot.org/Slashdot/slashdotMain | slashdot.org 
+StarHOT Daily Brief | https://www.starhot.space/feed/daily.xml | starhot.space 
+StarHOT Featured | https://www.starhot.space/feed.xml | starhot.space 
 Stratechery by Ben Thompson | http://stratechery.com/feed/ | stratechery.com 
+Stratechery by Ben Thompson | https://stratechery.com/feed/ | stratechery.com 
 TechCrunch | http://feeds.feedburner.com/TechCrunch | techcrunch.com 
 The Keyword | https://www.blog.google/rss/ | blog.google 
 The Next Web | https://thenextweb.com/feed/ | thenextweb.com 
@@ -1011,6 +1024,7 @@ www.espn.com - TENNIS | https://www.espn.com/espn/rss/tennis/news | espn.com
 ### Travel
 Title | RSS Feed Url | Domain 
 -------|------------------|---------- 
+Arirang Post | https://arirangpost.com/rss.xml | arirangpost.com 
 Atlas Obscura - Latest Articles and Places | https://www.atlasobscura.com/feeds/latest | atlasobscura.com 
 Live Life Travel | https://www.livelifetravel.world/feed/ | livelifetravel.world 
 Lonely Planet Travel News | https://www.lonelyplanet.com/news/feed/atom/ | lonelyplanet.com 
@@ -1038,6 +1052,7 @@ A List Apart: The Full Feed | https://alistapart.com/main/feed/ | alistapart.com
 CSS-Tricks | https://css-tricks.com/feed/ | css-tricks.com 
 Code Wall | https://www.codewall.co.uk/feed/ | codewall.co.uk 
 David Walsh Blog | https://davidwalsh.name/feed | davidwalsh.name 
+Marko Denic Tech | https://markodenic.tech/feed/ | markodenic.tech 
 Mozilla Hacks – the Web developer blog | https://hacks.mozilla.org/feed/ | hacks.mozilla.org 
 Sink In - Tech and Travel | https://gosink.in/rss/ | gosink.in 
 Updates | https://developers.google.com/web/updates/rss.xml | developers.google.com 

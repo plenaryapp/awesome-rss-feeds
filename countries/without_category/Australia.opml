@@ -19,7 +19,7 @@
 		<outline text="InDaily" title="InDaily" description="" xmlUrl="https://indaily.com.au/feed/" type="rss" />
 		<outline text="The Mercury" title="The Mercury" description="Latest Hobart and Tasmania News | The Mercury" xmlUrl="https://www.themercury.com.au/rss" type="rss" />
 		<outline text="Crikey" title="Crikey" description="On politics, media, business, the environment and life" xmlUrl="https://feeds.feedburner.com/com/rCTl" type="rss" />
-		<outline text="KUSA - News" title="KUSA - News" description="KUSA Rss Feed" xmlUrl="http://rssfeeds.9news.com/kusa/home&x=1" type="rss" />
+		<outline text="KUSA - News" title="KUSA - News" description="KUSA Rss Feed" xmlUrl="http://rssfeeds.9news.com/kusa/home&amp;x=1" type="rss" />
 		<outline text="Michael West" title="Michael West" description="Investigative Journalism" xmlUrl="https://www.michaelwest.com.au/feed/" type="rss" />
 	</body>
 </opml>
