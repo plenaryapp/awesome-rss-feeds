@@ -47,6 +47,7 @@
 			<outline text="AIHOT daily AI news brief" title="AIHOT daily AI news brief" description="Daily Chinese-language AI industry news digest with links to original sources." xmlUrl="https://aihot.news/feed/daily.xml" type="rss" />
 			<outline text="Nssnap Community" title="Nssnap Community" description="Tech forum covering domains, hosting, servers, software and AI." xmlUrl="https://nssnap.com/feed.xml" type="rss" />
 			<outline text="AI Tools Radar AI News" title="AI Tools Radar AI News" description="AI news with short source-linked summaries of AI products, models, safety and industry developments." xmlUrl="https://aitoolsradar.com/news.xml" type="rss" />
+			<outline text="Nizlo MSP Operations Resources" title="Nizlo MSP Operations Resources" description="Vendor-neutral operational checklists, policies and templates for MSP and IT teams." xmlUrl="https://izikipizi.github.io/nizlo-msp-operations-resources/feed.xml" type="rss" />
 		</outline>
 	</body>
 </opml>
