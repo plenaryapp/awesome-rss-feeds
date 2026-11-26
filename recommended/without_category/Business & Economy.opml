@@ -26,5 +26,6 @@
 		<outline text="Yahoo Finance" title="Yahoo Finance" description="At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life." xmlUrl="https://finance.yahoo.com/news/rssindex" type="rss" />
 		<outline text="TechRole Index — исследования IT-профессий" title="TechRole Index — исследования IT-профессий" description="Methodology-backed research on IT professions and the Russian technology labour market." xmlUrl="https://techrole.ru/feed.xml" type="rss" />
 		<outline text="Tyllus Radar — Selected U.S. import notices" title="Tyllus Radar — Selected U.S. import notices" description="Selected U.S. import-related Federal Register notices from CBP, FMC, ITA, USITC and USTR." xmlUrl="https://finbie-side-projects.github.io/tyllus-import-evidence-data/feeds/notices.xml" type="rss" />
+		<outline text="Munger Archive" title="Munger Archive" description="Links Charlie Munger recordings to original sources with decision-practice guides." xmlUrl="https://mungerarchive.com/rss.xml" type="rss" />
 	</body>
 </opml>
