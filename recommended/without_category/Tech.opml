@@ -32,6 +32,7 @@
 		<outline text="StarHOT Daily Brief" title="StarHOT Daily Brief" description="Daily AI brief that merges coverage of the same event into one story, with sources." xmlUrl="https://www.starhot.space/feed/daily.xml" type="rss" />
 		<outline text="StarHOT Featured" title="StarHOT Featured" description="AI news, one story per event, with sources." xmlUrl="https://www.starhot.space/feed.xml" type="rss" />
 		<outline text="Stratechery by Ben Thompson" title="Stratechery by Ben Thompson" description="On the business, strategy, and impact of technology." xmlUrl="http://stratechery.com/feed/" type="rss" />
+		<outline text="Stratechery by Ben Thompson" title="Stratechery by Ben Thompson" description="On the business, strategy, and impact of technology." xmlUrl="https://stratechery.com/feed/" type="rss" />
 		<outline text="The Keyword" title="The Keyword" description="The Keyword" xmlUrl="https://www.blog.google/rss/" type="rss" />
 		<outline text="The Next Web" title="The Next Web" description="Original and proudly opinionated perspectives for Generation T" xmlUrl="https://thenextweb.com/feed/" type="rss" />
 		<outline text="The Verge" title="The Verge" description="The Verge is about technology and how it makes us feel. Founded in 2011, we offer our audience everything from breaking news to reviews to award-winning features and investigations, on our site, in video, and in podcasts." xmlUrl="https://www.theverge.com/rss/index.xml" type="rss" />

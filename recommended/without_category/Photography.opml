@@ -14,6 +14,5 @@
 		<outline text="PetaPixel" title="PetaPixel" description="Photography and Camera News, Reviews, and Inspiration" xmlUrl="https://petapixel.com/feed/" type="rss" />
 		<outline text="Strobist" title="Strobist" description="Learn How to Light." xmlUrl="http://feeds.feedburner.com/blogspot/WOBq" type="rss" />
 		<outline text="Stuck in Customs" title="Stuck in Customs" description="Trey Ratcliff&apos;s Travel Photography blog with daily inspiration to motivate you!" xmlUrl="https://stuckincustoms.com/feed/" type="rss" />
-		<outline text="The Boston Globe" title="The Boston Globe" description="The Boston Globe News Feed" xmlUrl="https://www.bostonglobe.com/rss/bigpicture" type="rss" />
 	</body>
 </opml>
