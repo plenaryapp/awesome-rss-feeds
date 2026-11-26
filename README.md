@@ -439,7 +439,7 @@ Droid Life | https://www.droid-life.com/feed | droid-life.com
 GSMArena.com - Latest articles | https://www.gsmarena.com/rss-news-reviews.php3 | gsmarena.com 
 Phandroid | http://feeds2.feedburner.com/AndroidPhoneFans | phandroid.com 
 TalkAndroid | http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums | talkandroid.com 
-xda-developers | https://data.xda-developers.com/portal-feed | xda-developers.com 
+xda-developers | https://www.xda-developers.com/feed/ | xda-developers.com 
 ### Android Development
 Title | RSS Feed Url | Domain 
 -------|------------------|---------- 
