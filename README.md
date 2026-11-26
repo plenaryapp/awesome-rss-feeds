@@ -977,6 +977,7 @@ Ars Technica | http://feeds.arstechnica.com/arstechnica/index | arstechnica.com
 CNET | https://www.youtube.com/feeds/videos.xml?user=CNETTV | youtube.com 
 CNET News | https://www.cnet.com/rss/news/ | cnet.com 
 Clockwise | https://www.relay.fm/clockwise/feed | relay.fm 
+Digest AI | https://digestai.news/rss.xml | digestai.news 
 Gizmodo | https://gizmodo.com/rss | gizmodo.com 
 Hacker News | https://news.ycombinator.com/rss | news.ycombinator.com 
 Lifehacker | https://lifehacker.com/rss | lifehacker.com The Flat Rate Dev | https://raw.githubusercontent.com/scrapertweeter3-prog/poketdev-podcast/main/rss.xml | poketdev.com 
