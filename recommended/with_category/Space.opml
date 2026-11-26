@@ -12,7 +12,7 @@
 			<outline text="Latest from Space.com" title="Latest from Space.com" description="All the latest content from the Space.com team" xmlUrl="https://www.space.com/feeds/all" type="rss" />
 			<outline text="NASA" title="NASA" description="Official National Aeronautics and Space Administration Website" xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" type="rss" />
 			<outline text="New Scientist - Space" title="New Scientist - Space" description="New Scientist - Space" xmlUrl="https://www.newscientist.com/subject/space/feed/" type="rss" />
-			<outline text="Space | The Guardian" title="Space | The Guardian" description="Latest news and features from theguardian.com, the world&apos;s leading liberal voice" xmlUrl="https://www.theguardian.com/science/space/rss" type="rss" />
+			<outline text="Space | The Guardian" title="Space | The Guardian" description="Latest news and features from theguardian.com, the world's leading liberal voice" xmlUrl="https://www.theguardian.com/science/space/rss" type="rss" />
 			<outline text="SpaceX" title="SpaceX" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=spacexchannel" type="rss" />
 		</outline>
 	</body>

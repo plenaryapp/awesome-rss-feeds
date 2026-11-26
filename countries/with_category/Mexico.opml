@@ -13,7 +13,7 @@
 			<outline text="Portada, El Siglo de Torreón" title="Portada, El Siglo de Torreón" description="El Siglo de Torreón en Línea - Defensor de la Comunidad (Portada)" xmlUrl="https://www.elsiglodetorreon.com.mx/index.xml" type="rss" />
 			<outline text="El Financiero" title="El Financiero" description="El Financiero News Feed" xmlUrl="https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/?outputType=xml" type="rss" />
 			<outline text="ElNorte" title="ElNorte" description="Las �ltimas noticias publicadas m�s relevantes" xmlUrl="https://www.elnorte.com/rss/portada.xml" type="rss" />
-			<outline text="El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento" title="El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento" description="RSS con las últimas noticias" xmlUrl="https://www.informador.mx/rss/ultimas-noticias.xml" type="rss" />
+			<outline text="El Informador :: Noticias de Jalisco, México, Deportes &amp; Entretenimiento" title="El Informador :: Noticias de Jalisco, México, Deportes &amp; Entretenimiento" description="RSS con las últimas noticias" xmlUrl="https://www.informador.mx/rss/ultimas-noticias.xml" type="rss" />
 			<outline text="24 Horas" title="24 Horas" description="El Diario Sin Límites" xmlUrl="https://www.24-horas.mx/feed/" type="rss" />
 			<outline text="Tu Periódico Quequi" title="Tu Periódico Quequi" description="Las noticias más Importantes de Quintana Roo" xmlUrl="https://quequi.com.mx/feed/" type="rss" />
 			<outline text="DEBATE" title="DEBATE" description="Últimas Noticias de México y el Mundo" xmlUrl="https://www.debate.com.mx/rss/feed.xml" type="rss" />

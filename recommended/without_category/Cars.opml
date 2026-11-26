@@ -7,7 +7,7 @@
 		<ownerEmail>plenarytheapp@gmail.com</ownerEmail>
 	</head>
 	<body>
-		<outline text="Autocar RSS Feed" title="Autocar RSS Feed" description="Welcome to nirvana for car enthusiasts. You have just entered the online home of the world&apos;s oldest car magazine, and the only place on the internet where you can find Autocar&apos;s unique mix of up-to-the-minute news, red hot car reviews, conclusive road test verdicts, and a lot more besides." xmlUrl="https://www.autocar.co.uk/rss" type="rss" />
+		<outline text="Autocar RSS Feed" title="Autocar RSS Feed" description="Welcome to nirvana for car enthusiasts. You have just entered the online home of the world's oldest car magazine, and the only place on the internet where you can find Autocar's unique mix of up-to-the-minute news, red hot car reviews, conclusive road test verdicts, and a lot more besides." xmlUrl="https://www.autocar.co.uk/rss" type="rss" />
 		<outline text="BMWBLOG" title="BMWBLOG" description="Latest BMW News, Reviews and New Models" xmlUrl="https://feeds.feedburner.com/BmwBlog" type="rss" />
 		<outline text="BikeEXIF" title="BikeEXIF" description="Latest updates from BikeEXIF" xmlUrl="https://www.bikeexif.com/feed" type="rss" />
 		<outline text="Car Body Design" title="Car Body Design" description="Car Design Resources, News and Tutorials" xmlUrl="https://www.carbodydesign.com/feed/" type="rss" />

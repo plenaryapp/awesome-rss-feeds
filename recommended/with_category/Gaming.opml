@@ -9,7 +9,7 @@
 	<body>
 		<outline text="Gaming" title="Gaming">
 			<outline text="Eurogamer.net Latest Articles Feed" title="Eurogamer.net Latest Articles Feed" description="This is a feed of the latest articles from Eurogamer.net." xmlUrl="https://www.eurogamer.net/?format=rss" type="rss" />
-			<outline text="GameSpot - All Content" title="GameSpot - All Content" description="GameSpot&apos;s Everything Feed! All the latest from GameSpot" xmlUrl="https://www.gamespot.com/feeds/mashup/" type="rss" />
+			<outline text="GameSpot - All Content" title="GameSpot - All Content" description="GameSpot's Everything Feed! All the latest from GameSpot" xmlUrl="https://www.gamespot.com/feeds/mashup/" type="rss" />
 			<outline text="IGN Articles" title="IGN Articles" description="This feed contains the latest 20 articles from IGN" xmlUrl="http://feeds.ign.com/ign/all" type="rss" />
 			<outline text="Indie Games Plus" title="Indie Games Plus" description="Creative, Personal, Passionate Digital Experiences" xmlUrl="https://indiegamesplus.com/feed" type="rss" />
 			<outline text="Kotaku" title="Kotaku" description="Gaming Reviews, News, Tips and More." xmlUrl="https://kotaku.com/rss" type="rss" />

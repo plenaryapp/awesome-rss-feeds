@@ -7,7 +7,7 @@
 		<ownerEmail>plenarytheapp@gmail.com</ownerEmail>
 	</head>
 	<body>
-		<outline text="" title="" description="Men&apos;s Fashion Tips and Men&apos;s Style Guide - Updated Daily" xmlUrl="https://www.fashionbeans.com/rss-feed/?category=fashion" type="rss" />
+		<outline text="" title="" description="Men's Fashion Tips and Men's Style Guide - Updated Daily" xmlUrl="https://www.fashionbeans.com/rss-feed/?category=fashion" type="rss" />
 		<outline text="Fashion - ELLE" title="Fashion - ELLE" description="RSS feed for Fashion - ELLE" xmlUrl="https://www.elle.com/rss/fashion.xml/" type="rss" />
 		<outline text="Fashion | The Guardian" title="Fashion | The Guardian" description="The latest fashion news, advice and comment from the Guardian" xmlUrl="https://www.theguardian.com/fashion/rss" type="rss" />
 		<outline text="Fashionista Full" title="Fashionista Full" description="Fashionista Full" xmlUrl="https://fashionista.com/.rss/excerpt/" type="rss" />

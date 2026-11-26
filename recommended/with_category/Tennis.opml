@@ -14,7 +14,7 @@
 			<outline text="Perfect Tennis" title="Perfect Tennis" description="Tennis Blog" xmlUrl="https://www.perfect-tennis.com/feed/" type="rss" />
 			<outline text="Tennis News &amp; Discussion" title="Tennis News &amp; Discussion" description="Professional tennis discussion. Feel free to visit our sister sub for more information on technique, r/10s." xmlUrl="https://www.reddit.com/r/tennis/.rss" type="rss" />
 			<outline text="Tennis News, Updates, Tennis Scores, ATP, WTA, Grand Slams | The Hindu" title="Tennis News, Updates, Tennis Scores, ATP, WTA, Grand Slams | The Hindu" description="Find Tennis Results, Commentary, Highlights, Live Scores, Latest News From The ATP Tour, WTA Tour &amp;amp;amp; All The Grand Slams At The Hindu" xmlUrl="https://www.thehindu.com/sport/tennis/feeder/default.rss" type="rss" />
-			<outline text="Tennis | The Guardian" title="Tennis | The Guardian" description="Latest news and features from theguardian.com, the world&apos;s leading liberal voice" xmlUrl="https://www.theguardian.com/sport/tennis/rss" type="rss" />
+			<outline text="Tennis | The Guardian" title="Tennis | The Guardian" description="Latest news and features from theguardian.com, the world's leading liberal voice" xmlUrl="https://www.theguardian.com/sport/tennis/rss" type="rss" />
 			<outline text="Tennis | The Indian Express" title="Tennis | The Indian Express" description="Latest News Today, Breaking News, India News, Top Headlines" xmlUrl="https://indianexpress.com/section/sports/tennis/feed/" type="rss" />
 			<outline text="www.espn.com - TENNIS" title="www.espn.com - TENNIS" description="Latest TENNIS news from www.espn.com" xmlUrl="https://www.espn.com/espn/rss/tennis/news" type="rss" />
 		</outline>

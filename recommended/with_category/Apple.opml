@@ -17,7 +17,7 @@
 			<outline text="MacRumors" title="MacRumors" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=macrumors" type="rss" />
 			<outline text="MacRumors: Mac News and Rumors - Mac Blog" title="MacRumors: Mac News and Rumors - Mac Blog" description="Apple, iPhone, iPad, Mac News and Rumors" xmlUrl="http://feeds.macrumors.com/MacRumors-Mac" type="rss" />
 			<outline text="MacStories" title="MacStories" description="Apple news, app reviews, and stories by Federico Viticci and friends." xmlUrl="https://www.macstories.net/feed" type="rss" />
-			<outline text="Macworld" title="Macworld" description="Macworld is your best source for all things Apple. We give you the scoop on what&apos;s new, what&apos;s best and how to make the most out of the products you love." xmlUrl="https://www.macworld.com/index.rss" type="rss" />
+			<outline text="Macworld" title="Macworld" description="Macworld is your best source for all things Apple. We give you the scoop on what's new, what's best and how to make the most out of the products you love." xmlUrl="https://www.macworld.com/index.rss" type="rss" />
 			<outline text="Marco.org" title="Marco.org" description="I’m Marco Arment, creator of Overcast, technology podcaster and writer, and coffee enthusiast." xmlUrl="https://marco.org/rss" type="rss" />
 			<outline text="OS X Daily" title="OS X Daily" description="News, tips, software, reviews, and more for Mac OS X, iPhone, iPad" xmlUrl="http://feeds.feedburner.com/osxdaily" type="rss" />
 			<outline text="The Loop" title="The Loop" description="Making Sense of Technology" xmlUrl="https://www.loopinsight.com/feed" type="rss" />

@@ -17,7 +17,8 @@
 			<outline text="World" title="World" description="The Washington Post World section provides information and analysis of breaking world news stories. In addition to our world news and video, Post World News offers discussions and blogs on major international news and economic issues." xmlUrl="http://feeds.washingtonpost.com/rss/world" type="rss" />
 			<outline text="World News" title="World News" description="A place for major news from around the world, excluding US-internal news." xmlUrl="https://www.reddit.com/r/worldnews/.rss" type="rss" />
 			<outline text="World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India" title="World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India" description="World News Today: Read the latest world news headlines, Current International breaking news world wide. In depth analysis and top news headlines world wide." xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/296589292.cms" type="rss" />
-			<outline text="World news | The Guardian" title="World news | The Guardian" description="Latest World news news, comment and analysis from the Guardian, the world&apos;s leading liberal voice" xmlUrl="https://www.theguardian.com/world/rss" type="rss" />
+			<outline text="World news | The Guardian" title="World news | The Guardian" description="Latest World news news, comment and analysis from the Guardian, the world's leading liberal voice" xmlUrl="https://www.theguardian.com/world/rss" type="rss" />
+			<outline text="World News (Briefing Service)" title="World News (Briefing Service)" description="Hourly LLM-edited world news briefing with ranked stories and links to original outlets." xmlUrl="https://briefing-service.wholemind.workers.dev/v1/briefings/world/feed.xml" type="rss" />
 		</outline>
 	</body>
 </opml>

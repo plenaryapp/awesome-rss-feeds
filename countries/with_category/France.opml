@@ -14,8 +14,8 @@
 			<outline text="Franceinfo - Les Titres" title="Franceinfo - Les Titres" description="Franceinfo - Les Titres" xmlUrl="https://www.francetvinfo.fr/titres.rss" type="rss" />
 			<outline text="Le Huffington Post" title="Le Huffington Post" description="Le Huffington Post" xmlUrl="https://www.huffingtonpost.fr/feeds/index.xml" type="rss" />
 			<outline text="La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr" title="La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr" description="Toute l’actualité de Toulouse et sa région en direct, photos et vidéos avec La Dépêche du Midi. Retrouvez toutes les informations locales de la région Occitanie : faits divers, politique, sports, économie, loisirs…..." xmlUrl="https://www.ladepeche.fr/rss.xml" type="rss" />
-			<outline text="Ministry for Europe and Foreign Affairs - Actualités" title="Ministry for Europe and Foreign Affairs - Actualités" description="" xmlUrl="https://www.diplomatie.gouv.fr/spip.php?page=backend-fd&lang=en" type="rss" />
-			<outline text="L&#039;essentiel" title="L&#039;essentiel" description="Retrouvez l&#039;actualité du Sud Ouest en direct et toutes les informations régionales : politique, économie, sport, photos et vidéos." xmlUrl="https://www.sudouest.fr/essentiel/rss.xml" type="rss" />
+			<outline text="Ministry for Europe and Foreign Affairs - Actualités" title="Ministry for Europe and Foreign Affairs - Actualités" description="" xmlUrl="https://www.diplomatie.gouv.fr/spip.php?page=backend-fd&amp;lang=en" type="rss" />
+			<outline text="L'essentiel" title="L'essentiel" description="Retrouvez l'actualité du Sud Ouest en direct et toutes les informations régionales : politique, économie, sport, photos et vidéos." xmlUrl="https://www.sudouest.fr/essentiel/rss.xml" type="rss" />
 			<outline text="Ouest-France - Actualité" title="Ouest-France - Actualité" description="Dernières minutes" xmlUrl="https://www.ouest-france.fr/rss-en-continu.xml" type="rss" />
 		</outline>
 	</body>

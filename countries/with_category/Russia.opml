@@ -17,7 +17,7 @@
 			<outline text="Russia Insider Daily Headlines" title="Russia Insider Daily Headlines" description="" xmlUrl="https://russia-insider.com/en/all-content/rss" type="rss" />
 			<outline text="TASS" title="TASS" description="TASS News Agency" xmlUrl="http://tass.com/rss/v2.xml" type="rss" />
 			<outline text="The Moscow Times - Independent News From Russia" title="The Moscow Times - Independent News From Russia" description="The Moscow Times offers everything you need to know about Russia: Breaking news, top stories, business, analysis, opinion, multimedia, upcoming cultural events" xmlUrl="https://www.themoscowtimes.com/rss/news" type="rss" />
-			<outline text="Газета "Коммерсантъ". Главное" title="Газета "Коммерсантъ". Главное" description="Ежедневная иллюстрированная общенациональная деловая газета" xmlUrl="https://www.kommersant.ru/RSS/main.xml" type="rss" />
+			<outline text="Газета &quot;Коммерсантъ&quot;. Главное" title="Газета &quot;Коммерсантъ&quot;. Главное" description="Ежедневная иллюстрированная общенациональная деловая газета" xmlUrl="https://www.kommersant.ru/RSS/main.xml" type="rss" />
 			<outline text="PravdaReport" title="PravdaReport" description="PravdaReport: Russian news and analysis" xmlUrl="https://www.pravdareport.com/export.xml" type="rss" />
 		</outline>
 	</body>
