@@ -20,6 +20,7 @@
 			<outline text="Travel Blog -" title="Travel Blog -" description="Travel Better, Cheaper, Longer" xmlUrl="https://www.nomadicmatt.com/travel-blog/feed/" type="rss" />
 			<outline text="Travel Dudes" title="Travel Dudes" description="For Travelers, By Travelers!" xmlUrl="https://www.traveldudes.com/feed/" type="rss" />
 			<outline text="Travel | The Guardian" title="Travel | The Guardian" description="Latest travel news and reviews on UK and world holidays, travel guides to global destinations, city breaks, hotels and restaurant information from the Guardian, the world's leading liberal voice" xmlUrl="https://www.theguardian.com/uk/travel/rss" type="rss" />
+			<outline text="TableJourney: newest food guides" title="TableJourney: newest food guides" description="Food travel guides to what and where to eat in 200+ cities." xmlUrl="https://tablejourney.com/feed.xml" type="rss" />
 		</outline>
 	</body>
 </opml>
