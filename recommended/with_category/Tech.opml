@@ -44,6 +44,7 @@
 			<outline text="Unbox Therapy" title="Unbox Therapy" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=unboxtherapy" type="rss" />
 			<outline text="www.theregister.com - Articles" title="www.theregister.com - Articles" description="Articles from www.theregister.com" xmlUrl="https://www.theregister.com/headlines.rss" type="rss" />
 			<outline text="AI Briefing (Briefing Service)" title="AI Briefing (Briefing Service)" description="Hourly LLM-edited AI news briefing with ranked stories and links to original outlets." xmlUrl="https://briefing-service.wholemind.workers.dev/v1/briefings/ai/feed.xml" type="rss" />
+			<outline text="AIHOT daily AI news brief" title="AIHOT daily AI news brief" description="Daily Chinese-language AI industry news digest with links to original sources." xmlUrl="https://aihot.news/feed/daily.xml" type="rss" />
 		</outline>
 	</body>
 </opml>
