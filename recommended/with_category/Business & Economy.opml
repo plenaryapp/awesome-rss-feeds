@@ -25,6 +25,7 @@
 			<outline text="The Growth Show" title="The Growth Show" description="Starting a business has never been easier. But finding success in one has never been harder. Each episode explores the inspiring stories behind how people grow a business, an idea, or a movement. Hosted by Matthew Brown." xmlUrl="http://thegrowthshow.hubspot.libsynpro.com/" type="rss" />
 			<outline text="US Top News and Analysis" title="US Top News and Analysis" description="CNBC is the world leader in business news and real-time financial market coverage. Find fast, actionable information." xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" type="rss" />
 			<outline text="Yahoo Finance" title="Yahoo Finance" description="At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life." xmlUrl="https://finance.yahoo.com/news/rssindex" type="rss" />
+			<outline text="TechRole Index — исследования IT-профессий" title="TechRole Index — исследования IT-профессий" description="Methodology-backed research on IT professions and the Russian technology labour market." xmlUrl="https://techrole.ru/feed.xml" type="rss" />
 		</outline>
 	</body>
 </opml>
