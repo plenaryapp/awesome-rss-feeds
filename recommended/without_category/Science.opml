@@ -8,6 +8,7 @@
 	</head>
 	<body>
 		<outline text="60-Second Science" title="60-Second Science" description="Tune in every weekday for quick reports and commentaries on the world of science—it&apos;ll just take a minute" xmlUrl="http://rss.sciam.com/sciam/60secsciencepodcast" type="rss" />
+		<outline text="AgingResearch.News" title="AgingResearch.News" description="Every new aging paper, read as it lands, with a short cited story about each one worth reading." xmlUrl="https://agingresearch.news/feed.xml" type="rss" />
 		<outline text="BBC News" title="BBC News" description="BBC News - Science &amp; Environment" xmlUrl="http://feeds.bbci.co.uk/news/science_and_environment/rss.xml" type="rss" />
 		<outline text="Discovery" title="Discovery" description="&lt;p&gt;Explorations in the world of science.&lt;/p&gt;" xmlUrl="https://podcasts.files.bbci.co.uk/p002w557.rss" type="rss" />
 		<outline text="FlowingData" title="FlowingData" description="Strength in Numbers" xmlUrl="https://flowingdata.com/feed" type="rss" />
