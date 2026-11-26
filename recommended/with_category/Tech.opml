@@ -10,6 +10,7 @@
 		<outline text="Tech" title="Tech">
 			<outline text="Accidental Tech Podcast" title="Accidental Tech Podcast" description="Three nerds discussing tech, Apple, programming, and loosely related matters." xmlUrl="https://atp.fm/rss" type="rss" />
 			<outline text="Analog(ue)" title="Analog(ue)" description="So many podcasts are about our digital devices. Analog(ue) is a show about how these devices make us feel and how they change our lives for the better, but also for the worse. Hosted by Casey Liss and Myke Hurley." xmlUrl="https://www.relay.fm/analogue/feed" type="rss" />
+			<outline text="AnyMessages" title="AnyMessages" description="Daily AI news explainers in English, Chinese and Japanese, with sources checked and vendor pieces flagged." xmlUrl="https://anymesgs.com/rss.xml" type="rss" />
 			<outline text="Ars Technica - All content" title="Ars Technica - All content" description="All Ars Technica stories" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" type="rss" />
 			<outline text="CNET" title="CNET" description="CNET news editors and reporters provide top technology news, with investigative reporting and in-depth coverage of tech issues and events." xmlUrl="https://www.cnet.com/rss/news/" type="rss" />
 			<outline text="CNET" title="CNET" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=CNETTV" type="rss" />
